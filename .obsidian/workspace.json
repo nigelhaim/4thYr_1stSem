@@ -11,11 +11,9 @@
             "id": "f0d716b129db1185",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Compter Graphics/Computer Graphics and Multimedia Technology.md",
-                "mode": "source",
-                "source": false
+                "file": "Data Analysis and Visualization/ch-1.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compter Graphics/Computer Graphics and Multimedia Technology.md",
+                "file": "Data Analysis and Visualization/ch-1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compter Graphics/Computer Graphics and Multimedia Technology.md",
+                "file": "Data Analysis and Visualization/ch-1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compter Graphics/Computer Graphics and Multimedia Technology.md"
+                "file": "Data Analysis and Visualization/ch-1.pdf"
               }
             }
           }
@@ -148,12 +146,32 @@
   },
   "active": "f0d716b129db1185",
   "lastOpenFiles": [
-    "Compter Graphics/Formative and Summative Assessments.md",
     "Compter Graphics/Computer Graphics and Multimedia Technology.md",
-    "Compter Graphics",
     "Other notes.md",
+    "Life and Works of Rizal.md",
+    "Data Analysis and Visualization/Data Analysis and Visualization.md",
+    "Data Analysis and Visualization/ch-1.pdf",
+    "Data Analysis and Visualization/ch-1.md",
+    "Data Analysis and Visualization/Media",
     "Thesis II.md",
-    "Media/Pasted image 20240813125112.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/e676280e57fbbf81f2d0c600b0ad300836b6164e.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/d359bbdc042d2f315c094f0895183d97c2b54b4b.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/adc25c2f94bb3ff45ae50b47c604cd51b1b4ab40.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/e9c75715cdb9fd770048238d12bb94b85f966bcb.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/aeb5e33933754dc1cb9494803798813b3773c894.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/ffe1fc8a817183c9ae4e71957e77838fce65f8bc.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/6304c2054580f0591575d73518171ff8d13a342a.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/5ca6729c1fae3107e4017b2cb9611f7b4bf34533.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/0268d9c82be4b9e1f08345b81d3187b5b9b31165.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/c107a228fa5c8e4c44d6f71134a0eba0562ff372.png",
+    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c",
+    "Data Analysis and Visualization/Ipynb/introduction_to_data_analysis.ipynb",
+    "Data Analysis and Visualization/Ipynb",
+    "Data Analysis and Visualization",
+    "Untitled.md",
+    "introduction_to_data_analysis.ipynb",
+    "Compter Graphics/Formative and Summative Assessments.md",
+    "Compter Graphics",
     "Thesis II/Thesis 2.md",
     "Media",
     "Thesis II"
