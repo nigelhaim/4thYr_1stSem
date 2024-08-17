@@ -11,9 +11,11 @@
             "id": "f0d716b129db1185",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Data Analysis and Visualization/ch-1.pdf"
+                "file": "Data Analysis and Visualization/Data Analysis and Visualization.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis and Visualization/ch-1.pdf",
+                "file": "Data Analysis and Visualization/Data Analysis and Visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis and Visualization/ch-1.pdf",
+                "file": "Data Analysis and Visualization/Data Analysis and Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis and Visualization/ch-1.pdf"
+                "file": "Data Analysis and Visualization/Data Analysis and Visualization.md"
               }
             }
           }
@@ -146,11 +149,16 @@
   },
   "active": "f0d716b129db1185",
   "lastOpenFiles": [
+    "Data Analysis and Visualization/ch-1.pdf",
+    "Computer Security and Information Assurance.md",
+    "Data Analysis and Visualization/Data Analysis and Visualization.md",
+    "Data Analysis and Visualization/Ipynb/Samples_From_Slides.ipynb",
+    "Pasted image 20240817172604.png",
+    "Data Analysis and Visualization/Ipynb/Creating_a_NumPy_array.ipynb",
     "Compter Graphics/Computer Graphics and Multimedia Technology.md",
+    "Compter Graphics/Formative and Summative Assessments.md",
     "Other notes.md",
     "Life and Works of Rizal.md",
-    "Data Analysis and Visualization/Data Analysis and Visualization.md",
-    "Data Analysis and Visualization/ch-1.pdf",
     "Data Analysis and Visualization/ch-1.md",
     "Data Analysis and Visualization/Media",
     "Thesis II.md",
@@ -163,17 +171,12 @@
     "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/6304c2054580f0591575d73518171ff8d13a342a.png",
     "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/5ca6729c1fae3107e4017b2cb9611f7b4bf34533.png",
     "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/0268d9c82be4b9e1f08345b81d3187b5b9b31165.png",
-    "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/c107a228fa5c8e4c44d6f71134a0eba0562ff372.png",
     "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c",
     "Data Analysis and Visualization/Ipynb/introduction_to_data_analysis.ipynb",
     "Data Analysis and Visualization/Ipynb",
     "Data Analysis and Visualization",
-    "Untitled.md",
     "introduction_to_data_analysis.ipynb",
-    "Compter Graphics/Formative and Summative Assessments.md",
     "Compter Graphics",
-    "Thesis II/Thesis 2.md",
-    "Media",
-    "Thesis II"
+    "Thesis II/Thesis 2.md"
   ]
 }

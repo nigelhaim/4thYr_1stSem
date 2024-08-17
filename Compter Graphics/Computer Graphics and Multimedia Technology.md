@@ -114,6 +114,18 @@ System consists of HARDWARE & SOFTWARE
 Compute the following: 
 
  1. Size of 800 x 600 image at 240 pixels per inch 
+
+$$\text{Get the width and height in inches}$$
+$$\begin{align*}Width &= Width \;in \; pixels / PPI \\ Height &= Height\; in\; pixels / PPI\\\\Width &= 800 / 240 = 3.33333\\Height &= 600/240 =2.5\end{align*}$$
+
  2. Resolution of 2 x 2 inch image that has 512 x 512 pixels 
+
+$$\text{PPI = Number of pixels / Image size in inches}$$
+
+$$\begin{align}PPI &= \frac{512\; pixels }{ 2 \;inches }\\ PPI & =256 \;PPI\end{align}$$
+
  3. Height of the resized image 1024 x 768 to one that is 640 pixels wide with the same aspect ratio 
+
+$$\begin{align}Aspect \; Ratio &= \frac{width}{height} = \frac{1024px}{768px} = \frac{4}{3}px\\\frac{4}{3} &= \frac{New \;width}{New\;Height}\\\\New \; Width &= 640 px \\ \frac{4}{3} &= \frac{640}{New \; Height} \\New \; Height& = 640 * \frac{4}{3}\end{align}$$
  4. Width of an image having height of 5 inches ad aspect ratio 1.5 
+$$\begin{align}Aspect \; Ratio &= \frac{width}{height}\\Width &= Height\;*\;Aspect\; Ratio\\Width &= 5 \; inches * 1.5 \\Width & = 7.5 \;inches\end{align}$$
