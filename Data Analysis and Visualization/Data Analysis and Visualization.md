@@ -305,3 +305,431 @@ print(boo)
  [ True  True  True]
  [ True  True  True]]
 ```
+
+
+## Pandas 
+
+
+- Pandas, like NumPy, is one of the most popular Python libraries for data analysis. 
+- It is a high-level abstraction over low-level NumPy, which is written in pure C. 
+- Pandas provides high-performance, easy-to-use data structures and data analysis tools. 
+- There are two main structures used by pandas; data frames and series
+
+## Indices in a pandas series
+- A pandas series is similar to a list, but differs in the fact that a series associates a label with each element. This makes it look like a dictionary. 
+- If an index is not explicitly provided by the user, pandas creates a Range Index ranging from 0 to N-1. 
+- Each series object also has a data type.
+
+```python
+import pandas as pd
+
+new_series = pd.Series([5,6,7,8,9,10])
+
+print(new_series)
+```
+
+#### Result 
+```text
+0     5
+1     6
+2     7
+3     8
+4     9
+5    10
+dtype: int64
+```
+
+- As you may suspect by this point, a series has ways to extract all of the values in the series, as well as individual elements by index.
+
+```python
+import pandas as pd
+
+new_series = pd.Series([5,6,7,8,9,10])
+
+print(new_series.values)
+
+print('__________________')
+
+print(new_series[4])
+```
+
+#### Result 
+```text
+import pandas as pd
+
+new_series = pd.Series([5,6,7,8,9,10])
+
+print(new_series.values)
+
+print('__________________')
+
+print(new_series[4])
+```
+
+- You can also provide an index manually
+
+```python
+import pandas as pd
+
+new_series = pd.Series([5,6,7,8,9,10], index = ['a','b','c','d','e','f'])
+
+print(new_series.values)
+
+print('__________________')
+
+print(new_series['f'])
+```
+
+#### Result
+```text
+[ 5  6  7  8  9 10]
+__________________
+10
+```
+
+- It is easy to retrieve several elements of a series by their indices or make group assignments.
+
+```python
+import pandas as pd
+
+new_series = pd.Series([5,6,7,8,9,10], index = ['a','b','c','d','e','f'])
+
+print(new_series)
+
+print('__________________')
+
+new_series[['a','b','f']] = 0
+
+print(new_series)
+```
+
+#### Result 
+```text
+a     5
+b     6
+c     7
+d     8
+e     9
+f    10
+dtype: int64
+__________________
+a    0
+b    0
+c    7
+d    8
+e    9
+f    0
+dtype: int64
+```
+
+## Filtering and maths operations 
+- Filtering and maths operations are easy with Pandas as well.
+
+```python
+import pandas as pd
+
+new_series = pd.Series([5,6,7,8,9,10], index = ['a','b','c','d','e','f'])
+
+new_series2 = new_series[new_series>0]
+
+print(new_series2)
+
+print('__________________')
+
+new_series2[new_series2>0]*2
+
+print(new_series2)
+
+print('__________________')
+
+new_series2[new_series2>0]*2
+
+print(new_series2)
+```
+
+#### Result
+
+```text
+a     5
+b     6
+c     7
+d     8
+e     9
+f    10
+dtype: int64
+__________________
+a     5
+b     6
+c     7
+d     8
+e     9
+f    10
+dtype: int64
+__________________
+a     5
+b     6
+c     7
+d     8
+e     9
+f    10
+dtype: int64
+```
+
+
+## Pandas data frame 
+- Simplistically, a data frame is a table, with rows and columns. 
+- Each column in a data frame is a series object. 
+- Rows consist of elements inside series.
+
+| Case ID | Variable one | Variable two | Variable 3 |
+|---------|--------------|--------------|------------|
+| 1       | 123          | ABC          | 10         |
+| 2       | 456          | DEF          | 20         |
+| 3       | 789          | XYZ          | 30         |
+
+## Creating a Pandas data frame \
+- Pandas data frames can be constructed using Python dictionaries.
+
+```python
+import pandas as pd
+
+df = pd.DataFrame({
+
+    'country': ['Kazakhstan', 'Russia', 'Belarus', 'Ukraine'],
+
+    'population': [17.04, 143.5, 9.5, 45.5],
+
+    'square': [2724902, 17125191, 207600, 603628]
+
+})
+
+print(df)
+```
+
+#### Result 
+
+```text
+      country  population    square
+0  Kazakhstan       17.04   2724902
+1      Russia      143.50  17125191
+2     Belarus        9.50    207600
+3     Ukraine       45.50    603628
+
+```
+
+- You can also create a data frame from a list.
+```python
+import pandas as pd
+
+list2 = [[0,1,2],[3,4,5],[6,7,8]]
+
+df = pd.DataFrame(list2)
+
+print(df)
+
+df.columns = ['V1', 'V2', 'V3']
+
+print(df)
+```
+
+#### Result
+
+```text 
+   0  1  2
+0  0  1  2
+1  3  4  5
+2  6  7  8
+   V1  V2  V3
+0   0   1   2
+1   3   4   5
+2   6   7   8
+```
+
+- You can ascertain the type of a column with the type() function.
+
+```python
+print(type(df['country']))
+```
+
+#### Result
+
+```text
+<class 'pandas.core.series.Series'>
+```
+
+- A Pandas data frame object as two indices; a column index and row index. 
+- Again, if you do not provide one, Pandas will create a Range Index from 0 to N-1.
+
+```python
+import pandas as pd
+
+df = pd.DataFrame({
+
+    'country': ['Kazakhstan', 'Russia', 'Belarus', 'Ukraine'],
+
+    'population': [17.04, 143.5, 9.5, 45.5],
+
+    'square': [2724902, 17125191, 207600, 603628]
+
+})
+
+print(df.columns)
+
+print('__________________')
+
+print(df.index)
+```
+
+#### Result 
+
+```text
+Index(['country', 'population', 'square'], dtype='object')
+__________________
+RangeIndex(start=0, stop=4, step=1)
+```
+- There are numerous ways to provide row indices explicitly. 
+- For example, you could provide an index when creating a data frame:
+
+```python
+import pandas as pd
+
+df = pd.DataFrame({
+
+    'country': ['Kazakhstan', 'Russia', 'Belarus', 'Ukraine'],
+
+    'population': [17.04, 143.5, 9.5, 45.5],
+
+    'square': [2724902, 17125191, 207600, 603628]
+
+}, index = ['KZ', 'RU', 'BY', 'UA'])
+
+print(df)
+```
+
+#### Result
+```text
+       country  population    square
+KZ  Kazakhstan       17.04   2724902
+RU      Russia      143.50  17125191
+BY     Belarus        9.50    207600
+UA     Ukraine       45.50    603628
+```
+- or do it during runtime. 
+- Here, I also named the index ‘country code’.
+
+```python
+import pandas as pd
+
+df = pd.DataFrame({
+
+    'country': ['Kazakhstan', 'Russia', 'Belarus', 'Ukraine'],
+
+    'population': [17.04, 143.5, 9.5, 45.5],
+
+    'square': [2724902, 17125191, 207600, 603628]
+
+})
+
+print(df)
+
+print('__________________')
+
+df.index = ['KZ', 'RU', 'BY', 'UA']
+
+df.index.name = 'Country Code'
+
+print(df)
+```
+
+#### Result
+
+```text 
+      country  population    square
+0  Kazakhstan       17.04   2724902
+1      Russia      143.50  17125191
+2     Belarus        9.50    207600
+3     Ukraine       45.50    603628
+__________________
+                 country  population    square
+Country Code                                  
+KZ            Kazakhstan       17.04   2724902
+RU                Russia      143.50  17125191
+BY               Belarus        9.50    207600
+UA               Ukraine       45.50    603628
+
+```
+
+- Row access using index can be performed in several ways.
+- First, you could use .loc() and provide an index label.
+
+```python 
+print(df.loc['KZ'])
+```
+
+#### Result
+```text
+country       Kazakhstan
+population         17.04
+square           2724902
+Name: KZ, dtype: object
+```
+
+- Second, you could use .iloc() and provide an index number
+
+```python
+print(df.iloc[0])
+```
+
+```text
+country       Kazakhstan
+population         17.04
+square           2724902
+Name: KZ, dtype: object
+```
+
+- A selection of particular rows and columns can be selected this way.
+
+```python
+print(df.loc[['KZ', 'RU'], 'population'])
+```
+
+#### Result
+
+```text
+Country Code
+KZ     17.04
+RU    143.50
+Name: population, dtype: float64
+```
+
+- You can feed .loc() two arguments, index list and column list, slicing operation is supported as well:
+
+```python
+print(df.loc['KZ':'BY', :])
+```
+#### Result 
+
+```text
+                 country  population    square
+Country Code                                  
+KZ            Kazakhstan       17.04   2724902
+RU                Russia      143.50  17125191
+BY               Belarus        9.50    207600
+```
+
+## Filtering 
+- Filtering is performed using so-called Boolean arrays
+
+```python
+print(df[df.population > 10][['country', 'square']])
+```
+
+#### Result
+
+```text
+                 country    square
+Country Code                      
+KZ            Kazakhstan   2724902
+RU                Russia  17125191
+UA               Ukraine    603628
+```
