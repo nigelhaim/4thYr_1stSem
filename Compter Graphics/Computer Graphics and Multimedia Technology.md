@@ -122,10 +122,20 @@ $$\begin{align*}Width &= Width \;in \; pixels / PPI \\ Height &= Height\; in\; p
 
 $$\text{PPI = Number of pixels / Image size in inches}$$
 
-$$\begin{align}PPI &= \frac{512\; pixels }{ 2 \;inches }\\ PPI & =256 \;PPI\end{align}$$
+$$\begin{align}PPI &= \frac{512\; pixels }{ 2 \;inches }\\ PPI & =256\end{align}$$
 
  3. Height of the resized image 1024 x 768 to one that is 640 pixels wide with the same aspect ratio 
 
-$$\begin{align}Aspect \; Ratio &= \frac{width}{height} = \frac{1024px}{768px} = \frac{4}{3}px\\\frac{4}{3} &= \frac{New \;width}{New\;Height}\\\\New \; Width &= 640 px \\ \frac{4}{3} &= \frac{640}{New \; Height} \\New \; Height& = 640 * \frac{4}{3}\end{align}$$
+$$\begin{align}Aspect \; Ratio &= \frac{width}{height} = \frac{768px}{1024px} = \frac{3}{4}px\\\frac{3}{4} &= \frac{New \;Height}{New\;Width}\\\\New \; Width &= 640 px \\ \frac{3}{4} &= \frac{640}{New \; Height} \\New \; Height& = 640 * \frac{3}{4}\end{align}$$
  4. Width of an image having height of 5 inches ad aspect ratio 1.5 
 $$\begin{align}Aspect \; Ratio &= \frac{width}{height}\\Width &= Height\;*\;Aspect\; Ratio\\Width &= 5 \; inches * 1.5 \\Width & = 7.5 \;inches\end{align}$$
+
+
+5. Find the number of colors a frame buffer of 8 bit planes each of red, green, and blue, and 10 bit wide lookup table can produce. 
+
+
+## Basic Principles of 2-Dimensional Graphics 
+
+
+
+**The origin is the upper left corner** 

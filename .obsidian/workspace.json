@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis and Visualization/Data Analysis and Visualization.md",
+                "file": "Compter Graphics/Computer Graphics and Multimedia Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis and Visualization/Data Analysis and Visualization.md",
+                "file": "Compter Graphics/Computer Graphics and Multimedia Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis and Visualization/Data Analysis and Visualization.md",
+                "file": "Compter Graphics/Computer Graphics and Multimedia Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis and Visualization/Data Analysis and Visualization.md"
+                "file": "Compter Graphics/Computer Graphics and Multimedia Technology.md"
               }
             }
           }
@@ -149,19 +148,23 @@
   },
   "active": "f0d716b129db1185",
   "lastOpenFiles": [
+    "Compter Graphics/Java/java1.java",
+    "Compter Graphics/Java",
+    "Compter Graphics/Python/Java",
+    "Compter Graphics/Formative and Summative Assessments.md",
+    "Compter Graphics/Python",
+    "Compter Graphics/Computer Graphics and Multimedia Technology.md",
+    "Data Analysis and Visualization/Data Analysis and Visualization.md",
+    "Other notes.md",
+    "Thesis II.md",
     "Data Analysis and Visualization/ch-1.pdf",
     "Computer Security and Information Assurance.md",
-    "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Data Analysis and Visualization/Ipynb/Samples_From_Slides.ipynb",
     "Pasted image 20240817172604.png",
     "Data Analysis and Visualization/Ipynb/Creating_a_NumPy_array.ipynb",
-    "Compter Graphics/Computer Graphics and Multimedia Technology.md",
-    "Compter Graphics/Formative and Summative Assessments.md",
-    "Other notes.md",
     "Life and Works of Rizal.md",
     "Data Analysis and Visualization/ch-1.md",
     "Data Analysis and Visualization/Media",
-    "Thesis II.md",
     "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/e676280e57fbbf81f2d0c600b0ad300836b6164e.png",
     "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/d359bbdc042d2f315c094f0895183d97c2b54b4b.png",
     "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c/adc25c2f94bb3ff45ae50b47c604cd51b1b4ab40.png",
@@ -174,9 +177,6 @@
     "Data Analysis and Visualization/Media/vertopal_aa1f1bfaa1af4c4c9b19c40a3447962c",
     "Data Analysis and Visualization/Ipynb/introduction_to_data_analysis.ipynb",
     "Data Analysis and Visualization/Ipynb",
-    "Data Analysis and Visualization",
-    "introduction_to_data_analysis.ipynb",
-    "Compter Graphics",
     "Thesis II/Thesis 2.md"
   ]
 }
