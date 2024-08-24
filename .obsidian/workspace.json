@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compter Graphics/Formative and Summative Assessments.md",
+                "file": "Computer Security and Information Assurance.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compter Graphics/Formative and Summative Assessments.md",
+                "file": "Computer Security and Information Assurance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compter Graphics/Formative and Summative Assessments.md",
+                "file": "Computer Security and Information Assurance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compter Graphics/Formative and Summative Assessments.md"
+                "file": "Computer Security and Information Assurance.md"
               }
             }
           }
@@ -149,8 +148,8 @@
   },
   "active": "5c93ba1e232f38c0",
   "lastOpenFiles": [
-    "Compter Graphics/Computer Graphics and Multimedia Technology.md",
     "Compter Graphics/Formative and Summative Assessments.md",
+    "Compter Graphics/Computer Graphics and Multimedia Technology.md",
     "Computer Security and Information Assurance.md",
     "Media/Pasted image 20240817172604.png",
     "Media/Pasted image 20240823174153.png",
