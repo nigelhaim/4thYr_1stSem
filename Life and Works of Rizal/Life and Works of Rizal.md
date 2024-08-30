@@ -48,3 +48,60 @@ Why nations have heroes?
 - Sparked the point of the imbalanced spanish rule for Rizal 
 
 **Rizal is called the first Filipino**
+
+
+### The relevance of studying our foremost national hero, JOSE RIZAL:
+
+**August 28 is the national heroes day but Rizal is the foremost hero (may hero pero si Rizal ay Super Saiyan)**
+
+#### Historical 
+- You cannot appriciate the 19th century Philippines until you learn Rizal 
+- Rizal was a social catalyst and a fact of history 
+#### Personal
+- We can learn from Rizal's lateral thinking 
+	- Thinking outside the box
+	- Being open minded 
+- We have a box of preference (in life)
+	- You prefer to become a programmer in the future 
+	- But sometimes our reason or beliefs in life are limited only to our box of preference therefore we failed to see the other side of the coin. 
+- Rizal is not relevant if you are limited on your own bias
+- As a Filipino citizen, is Rizal relevant?
+	- The relevance of Rizal on the **Bill of Rights** (Karapatan pangtao)
+- Empathy - putting oneself on the situation of the other people 
+- The world would not bend to our will 
+	- We will do anything to reach the goal even outside our comfort zone
+	- LIWORIZ is one of the obstacles 
+#### Legal
+- **Rizal law** (also called the Rizal Bill)
+	- **AN ACT TO INCLUDE IN THE CURRICULA OF ALL PUBLIC AND PRIVATE SCHOOLS, COLLEGES AND UNIVERSITIES COURSES ON THE LIFE, WORKS AND WRITINGS OF JOSE RIZAL, PARTICULARLY HIS NOVELS NOLI ME TANGERE AND EL FILIBUSTERISMO, AUTHORIZING THE PRINTING AND DISTRIBUTION THEREOF, AND FOR OTHER PURPOSES**
+	- Approved: June 12, 1956 by President Ramon Magsaysay
+- "Nasa batas kasi siya"
+- In the history of legislature the Rizal bill is the most controversial bills passed in the history of legislature
+	- Because of the requirement of the Author to require students to study Noli me Tangere and El Filibusterismo 
+	- This has become the problem to the catholic since the books are not actually political novels (particularly Noli me Tangere), but an anti church novel 
+	- It might stabilize the student's Christian faith after reading the books. 
+	- The more controversial the more it became popular out of curiosity
+	- The church interfered to propose in prohibiting the reading of Noli me Tangere and El Filibusterismo (One thing is UST)
+	- **3 important driving forces for the bill to be passed**
+		- The authors of the Rizal Law (Jose P. Laurel and Claro M. Recto) are not intimidated about the counter proposal of the church 
+		- The economic and socio-political climate during the passage of Rizal Law. 
+			- It will help us improve the economic and socio-political reasons
+			- We are already independent nation however but we still look like as a colony of the US
+		- Objectives of Rizal Law
+			- Filipino first policy
+			- Kung mahal mo ang bansa mo, iisipin mo ang bayan mo 
+
+### The story of the Rizal Law by Augusto De Viana 
+1. The drafting of the law in 1956 is in itself a history worth studying. 
+2. The authors of Rizal law saw the need to instill heroism and nationalism among the youth 
+3. The condition of the 1950s Philippines: 
+	1. HUKBALAHAP insurgency
+	2. Imperialism of the USA in the economic and political policies
+	3. Communist insurgency that made the Philippines become part of the global network to contain the spread of communism that ended in MUTUAL DEFENSE TREATY and SEATO (Southeast Asia Treaty Organization)
+4. EDCA - America's counter to the rising empire to China 
+5. The condition of the 1950s Philippines:
+	1. The enforcement of the Bell Trade Act of 1947 (20 years of free trade with the US) gave the Philippines economic disadvantages 
+	2. The Party Rights allowed the Americans to exploit the country's natural resources
+6. Hence, Recto submitted his bill calling for a return to patiotic values enunciated by Filipino heroes like Jose Rizal 
+7. The bill was not welcomed by all quarters. The Catholic Church assailed it. 
+8. The church believed it was an anti-church as it forces students to read Noli Me Tangere and El Filibusterismo. 
