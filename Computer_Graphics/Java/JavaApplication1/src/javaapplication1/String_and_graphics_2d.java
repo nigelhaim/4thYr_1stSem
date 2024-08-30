@@ -39,21 +39,31 @@ public class String_and_graphics_2d extends Frame{
         g2d.draw(e1);
         
         //Draw an arc
-        Arc2D.Double a1 = new Arc2D.Double(300, 150, 350, 225, 0, 90, Arc2D.PIE);
+        // Arc2D.Double a1 = new Arc2D.Double(300, 150, 350, 225, 0, 90, Arc2D.PIE);
+        Arc2D.Double a1 = new Arc2D.Double(r1, 30, 70, Arc2D.PIE);
         g2d.setPaint(Color.magenta);
         g2d.draw(a1);
 
+        Arc2D.Double a2 = new Arc2D.Double(r1, 120, 60, Arc2D.CHORD);
+        g2d.setPaint(Color.white);
+        g2d.draw(a2);
+
+        //Draw an open arc
+        Arc2D.Double a3 = new Arc2D.Double(r1, 190, 70, Arc2D.OPEN);
+        g2d.setPaint(Color.blue);
+        g2d.draw(a3);    
+
         //Draw a circle
-        Ellipse2D.Double c2 = new Ellipse2D.Double(300, 300, 300, 300);
-        g2d.setPaint(Color.lightGray);
-        g2d.draw(c2);
+    //     Ellipse2D.Double c2 = new Ellipse2D.Double(300, 300, 300, 300);
+    //     g2d.setPaint(Color.lightGray);
+    //     g2d.draw(c2);
     }
 
     public static void main(String[] args) {
         String_and_graphics_2d s = new String_and_graphics_2d();
         s.setTitle("String and Graphics 2D in Java");
         s.setBackground(Color.black);
-        s.setSize(500, 500);
+        s.setSize(900, 900);
         s.setForeground(Color.cyan);
         s.setVisible(true);
     }
