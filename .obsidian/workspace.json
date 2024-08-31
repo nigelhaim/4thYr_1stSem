@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Data Analysis and Visualization/1-introducing_matplotlib.pdf"
+                "file": "Data Analysis and Visualization/3-cleaning_data.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
+                "file": "Data Analysis and Visualization/3-cleaning_data.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
+                "file": "Data Analysis and Visualization/3-cleaning_data.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis and Visualization/1-introducing_matplotlib.pdf"
+                "file": "Data Analysis and Visualization/3-cleaning_data.pdf"
               }
             }
           }
@@ -146,6 +146,10 @@
   },
   "active": "2b30e45ad0247179",
   "lastOpenFiles": [
+    "Contemporary world.md",
+    "Contemporary world Activity 1.md",
+    "Life and Works of Rizal/Life and Works of Rizal.md",
+    "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
     "Data Analysis and Visualization/Ipynb/Datasets/earthquakes.csv",
     "Data Analysis and Visualization/3-cleaning_data.pdf",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
@@ -155,17 +159,13 @@
     "Media/Pasted image 20240831092042.png",
     "Media/Pasted image 20240831091924.png",
     "Media/Pasted image 20240831091725.png",
-    "Life and Works of Rizal/Life and Works of Rizal.md",
     "Life and Works of Rizal/Asynchronous 1.md",
     "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
-    "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
     "Data Analysis and Visualization/Ipynb/Datasets/fb_stock_prices_2018.csv",
     "Data Analysis and Visualization/Ipynb/Assignment_Matplotlib_and_Pandas_Visualization.ipynb",
     "Data Analysis and Visualization/Ipynb/Assignment_Matplotlib_and_Pandas_Visualization",
     "Data Analysis and Visualization/Ipynb/1-introducing_matplotlib.ipynb",
-    "Contemporary world.md",
     "Computer_Graphics/Formative and Summative Assessments.md",
-    "Contemporary world Activity 1.md",
     "Other notes.md",
     "README.md",
     "Thesis II.md",
@@ -175,7 +175,6 @@
     "Data Analysis and Visualization/1-wide_vs_long.pdf",
     "Data Analysis and Visualization/Ipynb/Data Wrangling.html",
     "Data Analysis and Visualization/ch-1.pdf",
-    "Data Analysis and Visualization/Ipynb/Data Wrangling.ipynb",
     "Compter Graphics/Computer Graphics and Multimedia Technology.md",
     "Compter Graphics/Formative and Summative Assessments.md",
     "Media/Pasted image 20240817172604.png",

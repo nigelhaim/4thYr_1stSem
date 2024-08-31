@@ -169,3 +169,70 @@ Globalization is political as it is economic
 	- We cannot accuse of their actions before since it is normal 
 	- Colonization may be bad but it brought progress and innovation 
 - British Imperialism
+
+## WW1
+"The war to end all wars"
+
+"All quiet in the western front"
+**Nationalism**
+- Is the cause of ww1 
+
+### Two kinds of Nationalism  
+- **Defensive nationalism**
+- **Aggressive Nationalism**
+
+#### Treaty of Versailles
+- The treaty to end all wars 
+
+### League of Nations 
+- Formed to prevent another world war
+- Does not have any Military force to prevent the wars 
+- After world war I
+## WW2
+
+**The rise of Adolf Hitler**
+- Hitler and the officials are disappointed on the consequences of the treaty of Versailles 
+- He used this hatred to spark WWII 
+- Mein Kampf (My struggle)
+- German companies are owned by jews therefore they must be out of the equation
+
+**Japanese invasion**
+- The Japanese funded a lot of the rebuilding in the Philippines after the war 
+- Diversion of the area of conflict through pledging the funding the of the Philippine Naval force
+
+**After the world war 2 United nations is formed**
+
+**You have no friends in politics**
+
+### Cold War
+- First to do something in terms of conflict 
+- Rivalry 
+- Laika (First Dog in Space)
+- Korean war - Divided the North and South koreas
+- Vietnam war 
+	- The Russians are sponsoring conflicts 
+	- Domino Effect 
+		- If one country became communism the neighboring countries would also become communism 
+
+### Possible flashpoints of Conflict in the world today
+- Possible border control of Russians and Chinese 
+- **Politicial Ambiguity** 
+	- How sure are we about the alliance? 
+- **Greyzone**
+	- Interest of conflict however there is no violence
+
+https://www.cfr.org/global-conflict-tracker
+
+### Cyber war
+- Taiwan is suffering from the cyber attacks from China
+
+### Post Modern 9/11, Global Recession and Multipolarity
+- Finanical crisis
+- How to deal the multi power existing
+- Terrorist attacks
+
+### Globalization's effect then reaches far 
+- Manufacturing (Made in China)
+- Clashing of cultures (locals vs foreigners)
+- Issue of Sovereignty
+- Populism

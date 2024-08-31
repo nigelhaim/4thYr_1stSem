@@ -91,13 +91,14 @@ Why nations have heroes?
 			- Filipino first policy
 			- Kung mahal mo ang bansa mo, iisipin mo ang bayan mo 
 
+**The economy cannot thrive until we less the imports**
 ### The story of the Rizal Law by Augusto De Viana 
 1. The drafting of the law in 1956 is in itself a history worth studying. 
 2. The authors of Rizal law saw the need to instill heroism and nationalism among the youth 
 3. The condition of the 1950s Philippines: 
-	1. HUKBALAHAP insurgency
-	2. Imperialism of the USA in the economic and political policies
-	3. Communist insurgency that made the Philippines become part of the global network to contain the spread of communism that ended in MUTUAL DEFENSE TREATY and SEATO (Southeast Asia Treaty Organization)
+		1. HUKBALAHAP insurgency
+	1. Imperialism of the USA in the economic and political policies
+	2. Communist insurgency that made the Philippines become part of the global network to contain the spread of communism that ended in MUTUAL DEFENSE TREATY and SEATO (Southeast Asia Treaty Organization)
 4. EDCA - America's counter to the rising empire to China 
 5. The condition of the 1950s Philippines:
 	1. The enforcement of the Bell Trade Act of 1947 (20 years of free trade with the US) gave the Philippines economic disadvantages 
@@ -105,3 +106,14 @@ Why nations have heroes?
 6. Hence, Recto submitted his bill calling for a return to patiotic values enunciated by Filipino heroes like Jose Rizal 
 7. The bill was not welcomed by all quarters. The Catholic Church assailed it. 
 8. The church believed it was an anti-church as it forces students to read Noli Me Tangere and El Filibusterismo. 
+
+### Criteria for Heroes (NHCP)
+1. Extent of the person's sacrifices for the welfare of the country 
+2. Exclusive and pure sacrifice for the welfare of the country. Methods employed in the attainment of an idea must be morally valid 
+3. Morality of the person 
+4. influence of the person to his age and to the succeeding eras (passage of 50 yrs)
+
+### State of the Nation 
+- Whether politics is interesting or not interesting, politics is interested to you
+- Without politics, there is no economics 
+	- We are import based 
