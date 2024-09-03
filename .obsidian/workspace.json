@@ -11,9 +11,11 @@
             "id": "2b30e45ad0247179",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Data Analysis and Visualization/3-cleaning_data.pdf"
+                "file": "Data Analysis and Visualization/Recommendations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis and Visualization/3-cleaning_data.pdf",
+                "file": "Data Analysis and Visualization/Recommendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis and Visualization/3-cleaning_data.pdf",
+                "file": "Data Analysis and Visualization/Recommendations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis and Visualization/3-cleaning_data.pdf"
+                "file": "Data Analysis and Visualization/Recommendations.md"
               }
             }
           }
@@ -144,14 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b30e45ad0247179",
+  "active": "5abdf494e3450028",
   "lastOpenFiles": [
+    "Data Analysis and Visualization/3-cleaning_data.pdf",
+    "Data Analysis and Visualization/Recommendations.md",
     "Contemporary world.md",
     "Contemporary world Activity 1.md",
     "Life and Works of Rizal/Life and Works of Rizal.md",
     "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
     "Data Analysis and Visualization/Ipynb/Datasets/earthquakes.csv",
-    "Data Analysis and Visualization/3-cleaning_data.pdf",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Media/Pasted image 20240831090347.png",
     "Computer Security and Information Assurance.md",
