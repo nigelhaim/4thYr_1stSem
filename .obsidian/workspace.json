@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44edd7dcdd5a4cf0",
+        "id": "7889190ac152029e",
         "type": "tabs",
         "children": [
           {
-            "id": "2b30e45ad0247179",
+            "id": "aef6d045e1cfeb27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis and Visualization/Recommendations.md",
+                "file": "Computer_Graphics/Fromulas and Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis and Visualization/Recommendations.md",
+                "file": "Computer_Graphics/Fromulas and Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis and Visualization/Recommendations.md",
+                "file": "Computer_Graphics/Fromulas and Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis and Visualization/Recommendations.md"
+                "file": "Computer_Graphics/Fromulas and Documentation.md"
               }
             }
           }
@@ -147,29 +147,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5abdf494e3450028",
+  "active": "aef6d045e1cfeb27",
   "lastOpenFiles": [
-    "Data Analysis and Visualization/3-cleaning_data.pdf",
-    "Data Analysis and Visualization/Recommendations.md",
-    "Contemporary world.md",
+    "Pasted image 20240905185031.png",
+    "Pasted image 20240905184920.png",
+    "Computer_Graphics/Formative and Summative Assessments.md",
+    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+    "Computer_Graphics/Fromulas and Documentation.md",
+    "blab.md",
     "Contemporary world Activity 1.md",
-    "Life and Works of Rizal/Life and Works of Rizal.md",
+    "Contemporary world.md",
+    "Computer Security and Information Assurance.md",
     "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
+    "Data Analysis and Visualization/Recommendations.md",
+    "Data Analysis and Visualization/3-cleaning_data.pdf",
+    "Life and Works of Rizal/Life and Works of Rizal.md",
     "Data Analysis and Visualization/Ipynb/Datasets/earthquakes.csv",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Media/Pasted image 20240831090347.png",
-    "Computer Security and Information Assurance.md",
     "Media/Pasted image 20240831092632.png",
     "Media/Pasted image 20240831092042.png",
     "Media/Pasted image 20240831091924.png",
     "Media/Pasted image 20240831091725.png",
     "Life and Works of Rizal/Asynchronous 1.md",
-    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
     "Data Analysis and Visualization/Ipynb/Datasets/fb_stock_prices_2018.csv",
     "Data Analysis and Visualization/Ipynb/Assignment_Matplotlib_and_Pandas_Visualization.ipynb",
     "Data Analysis and Visualization/Ipynb/Assignment_Matplotlib_and_Pandas_Visualization",
     "Data Analysis and Visualization/Ipynb/1-introducing_matplotlib.ipynb",
-    "Computer_Graphics/Formative and Summative Assessments.md",
     "Other notes.md",
     "README.md",
     "Thesis II.md",
@@ -182,7 +186,6 @@
     "Compter Graphics/Computer Graphics and Multimedia Technology.md",
     "Compter Graphics/Formative and Summative Assessments.md",
     "Media/Pasted image 20240817172604.png",
-    "Media/Pasted image 20240823174153.png",
     "Data Analysis and Visualization/ch-1.md",
     "Thesis II/Thesis 2.md"
   ]
