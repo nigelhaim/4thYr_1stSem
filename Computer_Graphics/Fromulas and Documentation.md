@@ -181,6 +181,9 @@ Arc2D.Double arc_pie = new Arc2D.Double(Rectangle2D rectangleBounds, double sta
 >[!Note]- Arc Types
 >![[Pasted image 20240905213713.png]]
 
+>[!Note]- Control point
+>![[Pasted image 20240906163322.png]]
+
 | Modifier and Type | Field and Description                                                                                                                  |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | `double`          | **extent**<br><br>The angular extent of the arc in degrees.                                                                            |
@@ -197,6 +200,8 @@ Arc2D.Double arc_pie = new Arc2D.Double(Rectangle2D rectangleBounds, double sta
 
 
 ## Python 
+
+**(0,0) is form the top left**
 
 ### Line 
 ```python
