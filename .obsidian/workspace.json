@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67a1b37472736cd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md",
+                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md",
+                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md"
+                "file": "Life and Works of Rizal/Life and Works of Rizal.md"
               }
             }
           }
@@ -161,20 +149,22 @@
   },
   "active": "aef6d045e1cfeb27",
   "lastOpenFiles": [
+    "Pasted image 20240907104955.png",
+    "Life and Works of Rizal/Life and Works of Rizal.md",
+    "Media/Pasted image 20240905184920.png",
+    "Computer_Graphics/Fromulas and Documentation.md",
+    "Untitled.md",
     "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/MalingProblema.class",
     "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/MalingProblema.java",
     "Computer_Graphics/Python/MalingProblema[FINAL].ipynb",
     "Computer_Graphics/Python/MalingProblema.ipynb",
     "Computer_Graphics/Python/MachP.ipynb",
     "Computer_Graphics/CTree.ipynb",
-    "Pasted image 20240906163322.png",
+    "Media/Pasted image 20240906163322.png",
     "Computer_Graphics/Python/genpath_sept6.ipynb",
-    "Untitled.md",
-    "Computer_Graphics/Fromulas and Documentation.md",
-    "Pasted image 20240905213713.png",
-    "Pasted image 20240905212649.png",
-    "Pasted image 20240905185031.png",
-    "Pasted image 20240905184920.png",
+    "Media/Pasted image 20240905213713.png",
+    "Media/Pasted image 20240905212649.png",
+    "Media/Pasted image 20240905185031.png",
     "Computer_Graphics/Formative and Summative Assessments.md",
     "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
     "blab.md",
@@ -184,16 +174,13 @@
     "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
     "Data Analysis and Visualization/Recommendations.md",
     "Data Analysis and Visualization/3-cleaning_data.pdf",
-    "Life and Works of Rizal/Life and Works of Rizal.md",
     "Data Analysis and Visualization/Ipynb/Datasets/earthquakes.csv",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Media/Pasted image 20240831090347.png",
     "Media/Pasted image 20240831092632.png",
     "Media/Pasted image 20240831092042.png",
     "Media/Pasted image 20240831091924.png",
-    "Media/Pasted image 20240831091725.png",
     "Life and Works of Rizal/Asynchronous 1.md",
-    "Data Analysis and Visualization/Ipynb/Datasets/fb_stock_prices_2018.csv",
     "Other notes.md",
     "README.md",
     "Thesis II.md",

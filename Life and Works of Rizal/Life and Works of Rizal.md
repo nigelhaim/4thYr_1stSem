@@ -117,3 +117,81 @@ Why nations have heroes?
 - Whether politics is interesting or not interesting, politics is interested to you
 - Without politics, there is no economics 
 	- We are import based 
+
+
+## The 19th Century Philippines 
+
+### 19th Century is Rizal's Century (1801 - 1900)
+- The age of revolution
+1. The Philippines was still a colony of Spain. **(1565-1898)**
+2. But most of Spain's colony in the Latin America gained their independence through revolution sch as Mexico, Argentina, Chile Venezuela, Columbia , Ecuador,  Peru, Nicaragua, El Salvador, Honduras and others. 
+	1. One feature that the Philippines is different from us is the other countries speaks Spanish and we don't but we are the most treasured (4). 
+	2. There are policies from the Spanish government that encourages the natives to speak Spanish (1863)
+	3. Logistics is the challenging part for Spain for the Filipinos to speak Spanish (they have to learn the dialects first before they can speak Spanish)
+3. The Philippines remained along with Cuba, Puerto Rico, and Spanish Sahara, a colony. 
+4. Of all the colonies of Spain, the Philippines was second to the largest and in terms of natural resources and trade potential, the Philippines was the richest. 
+
+When the Americans arrived the Spanish language slowly faded and was replaced with American English. 
+
+### The Influence of Enlightenment to Independence Movement 
+
+1. The "Age of Enlightenment" was a historical era that happened mainly during the 17th and 18th centuries in Europe. It as a time when people started to use reason, science, and logic to better understand the world around them. Enlightenment focused on concepts like freedom, equality, human rights, and democracy. 
+	1. Most of the beliefs in the 17th century still applies today. It is essential needs for the existence of man in the 21st century 
+	2. Before the 17th century the intellectual movement in Europe is Renaissance (14th to 17th century) the era of rebirth. 
+		1. Renaissance started in Italy while Enlightenment is from France.
+		2. Renaissance influence through art, literature, and culture enlightenment influence is through science, logic, reason, technology.
+		3. The word science is made through the enlightenment era. It was called Natural Philosophy
+		4. The impact of the Renaissance is only in Europe while Enlighten also impacts the Americas. 
+
+### The Influence of Enlightenment to Independence Movement 
+
+Famous thinkers (philosophers) of Enlightenment
+
+- **John Locke (1632 - 1704)**
+	- Father of Modern Democracy
+		- Modern Democracy/Representative democracy is the election of leaders to represent the democratic rights
+		- Greek Democracy/Direct Democracy is without election you can voice out your concerns in the senate 
+			- It cannot be applied since we have a large population 
+	- Believed that governments should protect these rights, and if they didn't, people had the right to rebel. 
+- **Voltaire (1694 - 1778)**
+	- Bill of Rights
+	- Jose Rizal is a reader of Voltaire 
+	- a champion of free speech and religious tolerance. He used satire and humor to criticize oppressive governments and religious institutions. The champion of Human Rights. 
+- **Jean-Jacques Rousseau (1712-1778)**
+	- Rosseau's ideas influence the concept of the social contract, where people agree to live under certain rules in exchange for protection of their rights and well-being. 
+	- The people also has the right to overthrow the government if the government does not do its duty. 
+	- The Philippine constitution states that "Revolution" is a right for the Filipinos 
+- **Montesquieu (1689 - 1755)**
+	- introduced the idea of separation of powers in government, where different branches have distinct roles, like legislative, executive and judicial. 
+	- Adopted by the USA (Jones law) then we adopt it too (Malolos constitution 1899)
+- **Adam Smith (1723 - 1790)**
+	- father of modern economis (the idea of capitalism)
+	- focused on the idea of free-market capitalism and the invisible hand that guides economic activities (supply and demand). 
+	- The problem of capitalism nowadays that there are people does not follow the law of nature. Sometimes the supply shortage is because of being horded or kept to control the price (Artificial Shortage). 
+- **Immanuel Kant (1724 - 1804)**
+	- Kant's philosophy centered on reason and ethics. He discussed the importance of individual thought and  the idea of treating people as ends in themselves, just means to and end. 
+	- Ang mali, mali ang tama, tama 
+- **Mary Wollstonecraft (1759 - 1797)**
+	- advocated for women's rights and gender equality. Her work "A vindication of the Rights of Woman" laid the foundation for feminist through. 
+	- Gender equality 
+- **Denis Diderot (1713 - 1784)**
+	- was the editor of the "Encyclopedia", a massive collection of knowledge that aimed to spread Enlightenment ideas and promote critical thinking. 
+- **Thomas Paine**
+	- pamphlet "Common Sense" played a significant role in inspiring the American Revolution. He also wrote about democratic principles and human right. 
+	- Noli Me Tangere and El Filibsterismo 
+- **Benjamin Franklin (1706 - 1790)**
+	- polymath who contributed to science, inventions, and diplomacy. 
+	- promoted the idea that practical knowledge cold improve society
+	- Practical knowledge 
+		- applied knowledge 
+		- Knowledge starts from theory and if the theory is right, then you apply it
+		- You cannot have that experience without someone knowledgeable of theory and you cannot prove a theory without experience
+
+### The Influence of Enlightenment to Independence  
+- **French Revolution of 1789**
+	- was a product of Englightenment
+	- Toppled the absolute monarchy in France and gave birth to the French Republic 
+- **Declaration of US Independence on July 4, 1776**\
+- **Chapter 53 of Noli Me Tangere**
+	- Rizal made Taiso speak of the ancient philosopher's with reference to "the morning" of scientific age
+	- The works of Voltaire was also read by Rizal and Marcelo del Pilar.
