@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
+                "file": "Contemporary world.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
+                "file": "Contemporary world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
+                "file": "Contemporary world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life and Works of Rizal/Life and Works of Rizal.md"
+                "file": "Contemporary world.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "aef6d045e1cfeb27",
   "lastOpenFiles": [
-    "Pasted image 20240907104955.png",
+    "Pasted image 20240907161904.png",
+    "Pasted image 20240907161205.png",
+    "Pasted image 20240907161159.png",
+    "Computer Security and Information Assurance.md",
     "Life and Works of Rizal/Life and Works of Rizal.md",
+    "Pasted image 20240907104955.png",
     "Media/Pasted image 20240905184920.png",
     "Computer_Graphics/Fromulas and Documentation.md",
     "Untitled.md",
@@ -170,7 +174,6 @@
     "blab.md",
     "Contemporary world Activity 1.md",
     "Contemporary world.md",
-    "Computer Security and Information Assurance.md",
     "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
     "Data Analysis and Visualization/Recommendations.md",
     "Data Analysis and Visualization/3-cleaning_data.pdf",
@@ -178,8 +181,6 @@
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Media/Pasted image 20240831090347.png",
     "Media/Pasted image 20240831092632.png",
-    "Media/Pasted image 20240831092042.png",
-    "Media/Pasted image 20240831091924.png",
     "Life and Works of Rizal/Asynchronous 1.md",
     "Other notes.md",
     "README.md",

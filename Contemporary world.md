@@ -148,6 +148,7 @@ Globalization is political as it is economic
 	- Unipolar - 1 strong country 
 	- Bipolar - 2 Strong countries 
 	- Multipolar - Many strong countries 
+		- Co-Existing simultaneously but there are some concerns. Developing contries are the one who adjsuts for the super powers 
 - The end of History 
 	- Demociracy -> Capitalism
 		- Even China adapted some form of capitalism 
@@ -236,3 +237,126 @@ https://www.cfr.org/global-conflict-tracker
 - Clashing of cultures (locals vs foreigners)
 - Issue of Sovereignty
 - Populism
+
+
+## Where does Globalization start? 
+
+**What is the reason for the conflict between Israel and Palestine**
+- Displaced or somewhat of a revenge 
+
+### History (Thucydides trap)
+- Source of our answer current concerns and problems 
+- To foresee possible future events.
+- History Repeats itself 
+	- **Law of Universality**
+- We as humans since time in memorial have the same desire
+	- In a philosophical perspective were nature as a human person does not change (Wealth, power, security).
+- According to Thucydides, war is inevitable; if Athens gained power, Sparta would lose power, vice versa. 
+	- Thucydides strategy (4000 BC) - Despite it is long time it is only repeating. The power challenges the rising power.
+	- We have the right to do something because we are strong
+
+### History: Policy is dictated by history 
+- **Mutual defense treaty**
+
+### Philosophy: Hobbes' State of Nature 
+- Rules without them we live like the animals 
+- Without rules it is survival of the Fittest 
+- Human nature does not change, it only looks restricted 
+### Philosophy: Rousseau's Social Contract theory
+- A contract to abide 
+- A professor teaches and the students learn from the professor. 
+
+### Classic Theoretical Approaches to Globalization 
+
+#### Realism
+- Origins: Thucydides' History of the Peloponnesian War 
+- Focus o nthe state, Principal actors, Rational Actors, Unitary Actors 
+- IS is filled with anarchy: states are insecure, selfish, power seeking 
+- Walang nagcocontroll totaly sa mga bansa not even the United Nations they can only impose sanctions
+- Concerned with security issues; war is inevitable and can benefit states; willing to use force to enforce foreign policy.
+-  We obtain power through acquisition of resources and build military  
+- **When you are far appear to be near and when you are near appear to be far**
+#### Liberalism
+- Origin: Enlightenment period, WW2
+- Focus on States, NGO's. INGO's, IO's, (States are rational)
+- IS is filled with collective interests 
+- Allowing countries to live peacefully 
+- Concerned with cooperation, trade, markets
+
+#### Constructivist
+- Origin: Late $20^{th}$ century 
+- Focus on Norms, Identities, Social Interactions
+- IS has multiple interpretations of ideas, constructed meanings on culture, nationalities etc.
+- Identities reflect interests 
+- Concerned with culture, identities, socialization 
+
+### Related Theories 
+**Modernization Theory** - All societies move through common stages 
+
+**Dependency Theory** - Some societies are dependent on others in terms of the global economy 
+
+**World System Theory** - The global economy is organized into core, semi-periphery, and periphery. 
+
+>[!Note]- Summaries 
+>![[Pasted image 20240907161159.png]]
+>![[Pasted image 20240907161205.png]]
+
+### How do we consider globalization as a process? 
+
+#### Multi-Dimensional Process
+#### Social Linkages
+#### Connectivity 
+
+
+#### Globalization as a condition 
+1. SOCIAL CONDITION "thick" economic, political, and cultural interconnections and global flows that render political borders  and economic barriers irrelevant 
+
+
+### How do we consider it as an ideology? 
+1. Liberalization and Global Market Integration 
+2. Inevitable and Irreversible 
+3. Nobody is in charge of globalization 
+4. Globalization will benefit everyone 
+5. Democracy grows in a Globalized society
+6. Globalization promotes PEACE
+
+
+### World Systems Paradigm
+- Immanuel Wallerstein 
+- View Globalization not as a recent phenomenon but as virtually synonymous
+
+
+>[!Note]- Wallers theory
+>![[Pasted image 20240907161904.png]]
+
+### What makes the world move? 
+**Money**
+
+### Global capitalism 
+- Globalization is a novel stage i nthe evolving system of world capitalism
+- New global production and financial system 
+- Rise of processes that cannot be framed within the nation-state/interstate system 
+- TCC (transnational capitalist class)
+
+### The network society
+- Manuel Castells, The Rise of the Network Society Technology and technological change instead of capitalism 
+- Castells argues that globalization is a network of production, culture, and power constantly shaped by technological advances, ranging from communications technologies to genetic engineering 
+- Castells suggests that the rules of global capitalism have changed to embrace these new information technologies 
+- New economy:
+	- Informational, knowledge-based
+	- Global production is organized on a global scale
+	- Networked, productivity is generated through a global network.
+
+### Space Time and globalization 
+- Giddens "time-space compression"
+	- The intensification of worldwide relations that link distant localities in such a way that local happenings are shaped by events occurring many miles away and vice versa. 
+- Sassen's "The Global City" - proposes a new spatial order is emerging, such as London, New York and Tokyo - sites of specialized services for transnationally mobile capital that is so central to the global economy. 
+
+### Global culture 
+- Emphasize the rapid growth of mass media and resultant global cultural flows and images in recent decades 
+- Focus: globalization and religion, nations, and ethnicity, global consumerism, global communications, and the globalization of tourism. 
+
+### Misconceptions about globalization 
+- Globalization as internationalization 
+- Globalization as liberalization 
+- Globalizationi 

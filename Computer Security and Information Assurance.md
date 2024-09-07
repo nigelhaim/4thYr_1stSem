@@ -289,3 +289,20 @@ Each organization develops and maintains its own unique culture and values. With
 - Security begins and ends with the people that interact with the system  
 - End users may be the weakest link in the security chain  
 - Security administrators can greatly reduce the levels of risk caused by end users, and create more acceptable and supportable security profiles
+
+
+## Need for security 
+
+### Business needs First, Technology needs Last
+
+**Information security performs four important functions for an organization:**
+
+- Protects the organization's ability to function 
+- Enables the safe operation of applications implemented on the organization's IT systems 
+- Protects the data the organization collects and uses 
+- Safeguards the technology assets in se at the organization 
+	- Physical assets 
+
+### Protecting the Ability to Function
+		- Management is responsible 
+
