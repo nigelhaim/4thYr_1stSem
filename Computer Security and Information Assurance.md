@@ -304,5 +304,281 @@ Each organization develops and maintains its own unique culture and values. With
 	- Physical assets 
 
 ### Protecting the Ability to Function
-		- Management is responsible 
+- Management is responsible 
+- Information security is 
+	- a management issue 
+	- a people 
+- Communities of interest must argue for information security in terms of impact and cost 
 
+### Enabling safe Operation
+- Organizations must create integrated efficient, and capable applications 
+- Organization need environments that safeguard applications 
+- Management must not abdicate to the IT department its responsibility to make choices and enforce decisions 
+
+### Protecting data 
+- One of the most valuable assets is data 
+- without data, an organization loses its record of transactions and/or its ability to deliver value to its customers 
+- An effective information security program is essential to the protection of the integrity and value oof the organization's data 
+
+### Safeguarding Technology Assets 
+- Organizations must have secure infrastructure services based on the size and scope of the enterprise 
+- Additional security services may have to be provided 
+- More robust solutions may be needed to replace security programs the organization has outgrown 
+
+### Threats 
+- Management must be informed of the various kinds of threats facing the organization 
+- A threat is an object person or other entity that represents a constant danger to an asset 
+- By examining each threat category in turn, management effectively protects its information through policy, education and training, and technology controls. 
+
+>[!Note]- Categories of threat
+>![[Pasted image 20240907183024.png]]
+
+
+### Categories of threat 
+
+#### Acts of Human error or Failure 
+- Includes acts done without malicious intent 
+- Caused by: 
+	- Inexperience 
+	- Improper training 
+	- Incorrect assumptions 
+	- Other circumstances 
+- Employees are greatest threats to information security - They are closest to the organizational data. 
+- Employee mistakes can easily lead to the following: 
+	- revelation of classified data 
+	- entry of erroneous data 
+	- accidental deletion or modification of data 
+	- storage of data in unprotected areas 
+	- failure to protect information 
+- Many of these threats can be prevented with controls 
+
+#### Deviations in quality of service by service providers 
+
+- Situations of product or services not delivered as expected 
+- Information systems depends on many interdependent support systems 
+- Three sets of service issues that dramatically affect the availability of information and systems are 
+	- Internet service 
+	- Communications 
+	- Power irregularities 
+
+#### Internet Service Issues 
+- Loss of internet service can lead to considerable loss in the availability of information 
+	- organizations have sales staff and telecommuters working at remote locations 
+- When an organization outsources its web servers the outsourcer assumes responsibility of 
+	- All internet services 
+	- The hardware and operating system software used to operate the web site. 
+
+#### Communications and Other Services 
+- Other utility services have potential impact 
+- Among these are 
+	- telephone 
+	- water & wastewater
+	- trash pickup 
+	- cable television 
+	- natural or propane gas 
+	- custodial services 
+- The threat of loss of services can lead to inability to function properly 
+
+#### Power Irregularities 
+- Voltage levels can increase, decrease or cease:
+	- spike - momentarily increase
+	- surge - prolonged increase
+	- sag- momentary low voltage
+	- prolonged drop 
+	- fault - momentary loss of power
+	- blackout - prolonged loss
+- Electronic equipment is susceptible to fluctuations, controls can be applied to manage power quality
+
+#### Espionage/Trespass
+- Broad category of activities that breach confidentiality 
+	- Unauthorized accessing of information 
+	- Competitive intelligence vs espionage
+	- Shoulder surfing can occur any place a person is accessing confidential information 
+- Controls implemented to mark the boundaries of an organization's virtual territory giving notice to trespassers that they are encroaching on the organization's cyberspace
+- Hackers uses skill, guile, or fraud to steal the property of someone else 
+- Generally two skill levels among hackers: 
+	- Expert hacker 
+		- develops software scripts and codes exploits 
+		- usually a master of many skills
+		- will often create attack software and share with other 
+	- Script kiddies 
+		- hackers of limited skill 
+		- use expert-written software to exploit a system 
+		- do not usually fully understand the systems they hacked 
+	- Other terms for system rule breakers: 
+		- Cracker - an individual who "cracks" or removes protection designed to prevent unauthorized duplication 
+		- Phreaker 0 hacks the public telephone network 
+
+#### Information Extortion
+- attacker or formerly trusted insider stealing information from a computer system and demanding compensation for its return or non-use 
+- Extortion found in credit card number theft 
+
+#### Sabotage or Vandalism 
+- Individual or group who want to deliberately sabotage the operations of a computer system or business, or perform acts of vandalism to either destroy an asset or damage the image of the organization 
+- These threats can range from petty vandalism to organized sabotage 
+- Organizations rely on image so Web defacing can lead to dropping consumer confidence and sales. 
+- Rising threat of hacktivist or cyber-activist operations - the most extreme version is cyber terrorism
+
+#### Deliberate Acts of Theft 
+- Illegal taking of another's property - physical electronic, or intellectual 
+- The value of information suffers when it is copied and taken away without the owner's knowledge 
+- Physical theft can be controlled - a wide variety of measures used from locked doors to guards or alarm systems 
+- Electronic theft is a more complex problem to manage and control - organizations may not even know it has occurred. 
+
+#### Deliberate Software attacks 
+- When an individual or group designs software to atack systems, they create malicious code/software called malware 
+	- Designed, destroy, or deny service to the target systems 
+- Includes: 
+	- Macro virus
+	- boot virus 
+	- worms 
+	- Trojan horses
+	- logic bombs 
+	- back door or trap door 
+	- denial-of-service attacks 
+	- polymorphic 
+	- hoaxes
+- Virus is a computer program that attaches itself to an executable file or application 
+- It can replicate itself, usually through an executable program attached to an e-mail
+- The keyword is "attaches" A virus can not stand on its own 
+- You must prevent viruses from being installed on computers in your organizations 
+- There is not foolproof method of preventing them from attaching themselves to your computer 
+- Antivirus software compares virus signature files against the programming cod of know viruses 
+- Regularly update virus signature files is crucial 
+- A worm is a computer program that replicates and propagates itself without having to attach itself to a host
+- Most famous worms are Code Red and Nimda 
+- Cost businesses millions of dollars in damage as a result of lost productivity 
+- Computer downtime and the time spend recovering lost data, reinstalling programming's, operating systems and hiring or contracting IT personnel 
+- Trojan Programs disguise themselves as useful computer programs or applications and can install a backdoor or rootkit on a computer 
+- Backdoors or rootkits are computer programs that give attackers a means of regaining access to the attacked computer later.
+- Spyware 
+	- A spyware program sends info from the infected computer to the person who initiated the spyware program on your computer 
+	- Spyware program can register each keystroke entered 
+- Adware 
+	- Main purpose is to determine a user's purchasing habits so that Web browsers can display advertisements tailored to that user 
+	- Slow down the computer it's running on 
+	- Adware sometimes displays a banner that notifies the user of its presence 
+- Both programs can be installed without the user being aware of their presence 
+
+>[!Note]- Trojan Horse Attack
+>![[Pasted image 20240907210008.png]]
+
+
+### Protecting against Deliberate Software attacks 
+#### Educating your users
+- Many U.S government organizations make security awareness programs mandatory, and many private-sector companies are following their example 
+- Email monthly security updates to all employees 
+- Update virus signature files as soon as possible 
+- Protect a network by implementing a firewall 
+#### Avoiding Fear Tactics
+- Your approach to users or potential customers should be promoting awareness rather than instilling fear 
+- When training users, be sure to build on the knowledge they already have
+
+### Compromises to Intellectual property 
+- Intellectual property is "the ownership of ideas and control over the tangible or virtual representation of those ideas" 
+- Many organizations are in business to create intellectual property 
+	- Trade secrets 
+	- Copyrights 
+	- Trademarks 
+	- Patents
+
+### Forces of nature 
+- Forces of nature, force majeure, or acts of God are dangerous because they are unexpected and can occur with very little warning 
+- Can disrupt not only the lives of individuals, but also the storage, transmission, and use of information 
+- Include fire, flood, earthquake, and lightning as well as volcanic eruption and insect infestation 
+- Since it is not possible to avoid many of these threats, management must implement controls to limit damage and also prepare contingency plans for continued operations 
+
+### Technical Hardware Failures or Errors
+- Technical hardware failures or errors occur when a manufacturer distributes to users equipment containing flaws
+- These defects can cause the system to perform outside of expected parameters, resulting in unreliable service or lack of availability 
+- some errors are terminal, in that they result in the unrecoverable loss of the equipment 
+- Some errors are intermittent in that why only periodically manifest themselves, resulting in faults that are not easily repeated. 
+
+### Technical Hardware Failures or Errors 
+- This category of threats comes from purchasing software with unrevealed faults 
+- Large quantities of computer code are written, debugged, published, and sold only to determine that not all bugs were resolved
+- Sometimes, unique combinations of certain software and hardware reveal new bugs
+- Sometimes, these items aren't errors, but are purposeful shortcuts left by programmers for honest or dishonest reasons 
+
+### Technological Obsolescence 
+- When the infrastructure becomes antiquated or outdated, it leads to unreliable and untrustworthy systems 
+- Management must recognize that when technology becomes outdated there is a risk of loss of data integrity to threats and attacks 
+- Ideally proper planning by management should prevent the risks from technology obsolesce but when obsolescence is identified, management must take action 
+
+### Attacks 
+- An attack is the deliberate act that exploits vulnerability 
+- It is accomplished by a threat-agent to damage or steal an organization's information or physical asset 
+	- An exploit is a technique to compromise a system 
+	- Vulnerability is an identified weakness of a controlled system whose controls are not present or are no longer effective 
+	- An attack is then use of an exploit to achieve the compromise of a controlled system 
+
+### Malicious code 
+- This kind of attack includes the execution of viruses, worms, Trojan horses, and active web scripts with the intent to destroy or steal information 
+- The state of the art in attacking systems in 2002 is the multi-vector worm using up to six attack vectors to exploit a variety of vulnerabilities in commonly found in information system devices. 
+
+>[!Note]- Attack Replication vectors
+>![[Pasted image 20240907212421.png]]
+
+### Attack Replication vectors
+
+**IP Scan and Attack** - Compromised system scans random or local range of IP addresses and targets any of several vulnerabilities known to hackers or left over from previous exploits 
+
+**Web Browsing** - If the infected systems has write access to any Web pages, it makes all Web content files infectious, so that users who browse to those pages become infected
+
+**virus** - Each infected machine infects certain common executable or script files on all computers to which it can write with virus code that can cause infection. 
+
+**Unprotected Shares** - using file shares to copy viral component to all reachable locations 
+
+**Mass mail** - Sending e-mail infections to addresses found in address book 
+
+**Simple Network Management Protocol** - SNMP vulnerabilities used to compromise and infect
+
+**Hoaxes** - A smore devious approach to attacking computer systems is the transmission of a virus hoax, with a real virus attached 
+
+**Back Doors** - Using a known or previously unknown and newly discovered access mechanism, an attacker can gain access to a system or network resource
+
+**Password Crack** - Attempting to reverse calculate a password 
+
+**Brue force** - The application of computing and network resources to try every possible combination of options of a password 
+
+**Dictionary** - The dictionary password attack narrows the field by selecting specific accounts to attack and uses a list of commonly used passwords (the  dictionary) to guide guesses 
+
+**Denial-of-service(DoS)**
+- attacker sends a large number of connection or information requests to a target
+- so many requests are made that the target system cannot handle them succeessfully along with other, legitimate requests for service 
+- may result in a system crash, or merely an inability to perform ordinary functions 
+
+**Distributed Denial-of-service (DDoS)** - an attack in which a coordinated stream of requests is launched against a target from many locations at the same time 
+
+>[!Note]- DoS attacks
+>![[Pasted image 20240907213319.png]]
+
+**Spoofing** - Technique used to gain unauthorized access whereby the intruder sends messages to a computer with an IP address indicated that the message is coming from a trusted host 
+
+**Man-in-the-Middle** - an attacker sniffs packets from the network, modifies them. and inserts them back into the network 
+
+**Spam** - Unsolicited commercial e-mail - while many consider a spam a nuisance rather than an attack, it is emerging as a vector for some attacks
+
+>[!Note]- Spoofing
+>![[Pasted image 20240907215056.png]]
+
+>[!Note]- Man in the middle
+>![[Pasted image 20240907215118.png]]
+
+**Mail bombing** - another form of e-mail attack that is also a DoS, in which an attacker routes large quantities of e-mail to the target 
+
+**Sniffers** - a program and/or device that can monitor data traveling over a network. Sniffers can be used both for traveling over a network. Sniffers can be used both for legitimate network management functions and for stealing information from a network 
+
+**Social Engineering**- within the context of information security, the process of using social skills to convince people to reveal access credentials or other valuable information to the attacker
+
+**Ping of Death Attacks--**
+- A type of DoS attack 
+- Attacker creates an ICMP packet that is larger than the maximum allowed 65,535 bytes 
+- The large packet is fragmented into smaller packets and reassembled at its destination 
+- Destination user cannot handle the reassembled oversized packet thereby causing the system to crash or freeze. 
+
+**Timing Attack**
+- Relatively new
+- works by exploring the contents of a web browser's cache 
+- can allow collection of information on access to password-protected sites
+- another attack by the same name involves attempting to intercept cryptographic elements to determine keys and encryption algorithms
