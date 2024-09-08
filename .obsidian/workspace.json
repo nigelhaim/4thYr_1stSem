@@ -4,22 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "7889190ac152029e",
+        "id": "0ec79fcd95b58832",
         "type": "tabs",
         "children": [
           {
-            "id": "aef6d045e1cfeb27",
+            "id": "064acb35d626e189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Security and Information Assurance.md",
+                "file": "Contemporary World/Contemporary world Activity 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ff9ff7009b90dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8266a335a3d4a0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5eba87d0281a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cb83bc0e7832e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contemporary World/Contemporary world.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "621b99596fe8dc57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Security and Information Assurance.md",
+                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Security and Information Assurance.md",
+                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Security and Information Assurance.md"
+                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md"
               }
             }
           }
@@ -147,24 +203,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aef6d045e1cfeb27",
+  "active": "3ff9ff7009b90dc0",
   "lastOpenFiles": [
-    "Pasted image 20240907215333.png",
-    "Pasted image 20240907215118.png",
-    "Pasted image 20240907215056.png",
-    "Pasted image 20240907213319.png",
-    "Pasted image 20240907213014.png",
-    "Pasted image 20240907212523.png",
-    "Pasted image 20240907212421.png",
-    "Pasted image 20240907210008.png",
-    "Pasted image 20240907183024.png",
-    "Media/Pasted image 20240907161159.png",
-    "Contemporary world.md",
-    "Media/Pasted image 20240907161904.png",
-    "Computer Security and Information Assurance.md",
+    "Contemporary World/Contemporary world.md",
+    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
     "Life and Works of Rizal/Life and Works of Rizal.md",
-    "Computer_Graphics/Fromulas and Documentation.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Contemporary World/Contemporary world Activity 1.md",
+    "Contemporary World",
+    "Media/Pasted image 20240907183024.png",
+    "Computer Security and Information Assurance.md",
+    "Media/Pasted image 20240907215333.png",
+    "Media/Pasted image 20240907215118.png",
+    "Media/Pasted image 20240907215056.png",
+    "Media/Pasted image 20240907213319.png",
+    "Media/Pasted image 20240907213014.png",
+    "Media/Pasted image 20240907212523.png",
+    "Media/Pasted image 20240907212421.png",
+    "Media/Pasted image 20240907210008.png",
+    "Media/Pasted image 20240907161159.png",
+    "Computer_Graphics/Fromulas and Documentation.md",
     "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/MalingProblema.class",
     "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/MalingProblema.java",
     "Computer_Graphics/Python/MalingProblema[FINAL].ipynb",
@@ -175,11 +234,9 @@
     "Computer_Graphics/Formative and Summative Assessments.md",
     "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
     "blab.md",
-    "Contemporary world Activity 1.md",
     "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
     "Data Analysis and Visualization/Recommendations.md",
     "Data Analysis and Visualization/3-cleaning_data.pdf",
-    "Data Analysis and Visualization/Ipynb/Datasets/earthquakes.csv",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Life and Works of Rizal/Asynchronous 1.md",
     "Other notes.md",

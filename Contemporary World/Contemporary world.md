@@ -270,7 +270,7 @@ https://www.cfr.org/global-conflict-tracker
 
 #### Realism
 - Origins: Thucydides' History of the Peloponnesian War 
-- Focus o nthe state, Principal actors, Rational Actors, Unitary Actors 
+- Focus on the state, Principal actors, Rational Actors, Unitary Actors 
 - IS is filled with anarchy: states are insecure, selfish, power seeking 
 - Walang nagcocontroll totaly sa mga bansa not even the United Nations they can only impose sanctions
 - Concerned with security issues; war is inevitable and can benefit states; willing to use force to enforce foreign policy.
