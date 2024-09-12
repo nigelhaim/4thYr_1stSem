@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contemporary World/Contemporary world Activity 1.md",
+                "file": "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,50 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8266a335a3d4a0d8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a5eba87d0281a0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cb83bc0e7832e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contemporary World/Contemporary world.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "621b99596fe8dc57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
+                "file": "Computer_Graphics/Fromulas and Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
+                "file": "Computer_Graphics/Fromulas and Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
+                "file": "Computer_Graphics/Fromulas and Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md"
+                "file": "Computer_Graphics/Fromulas and Documentation.md"
               }
             }
           }
@@ -205,13 +162,28 @@
   },
   "active": "3ff9ff7009b90dc0",
   "lastOpenFiles": [
-    "Contemporary World/Contemporary world.md",
+    "Computer_Graphics/Python/Sebastian_NH_MP2_Tree.ipynb",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2.java",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2.class",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2_Tree.class",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2_Tree.java",
+    "Computer_Graphics/Python/Sebastian_MC_2.ipynb",
+    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/set_operations.java",
+    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/setoperations_java",
+    "Pasted image 20240912113121.png",
+    "Pasted image 20240912113003.png",
+    "Computer_Graphics/Python/genpath_python_4CSC.ipynb",
+    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/genpath_java.class",
+    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/genpath_java.java",
+    "Pasted image 20240912101522.png",
+    "Contemporary World/Contemporary world Activity 1.md",
+    "Computer_Graphics/Fromulas and Documentation.md",
     "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
+    "Contemporary World/Contemporary world.md",
     "Life and Works of Rizal/Life and Works of Rizal.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Contemporary World/Contemporary world Activity 1.md",
-    "Contemporary World",
     "Media/Pasted image 20240907183024.png",
     "Computer Security and Information Assurance.md",
     "Media/Pasted image 20240907215333.png",
@@ -220,23 +192,9 @@
     "Media/Pasted image 20240907213319.png",
     "Media/Pasted image 20240907213014.png",
     "Media/Pasted image 20240907212523.png",
-    "Media/Pasted image 20240907212421.png",
-    "Media/Pasted image 20240907210008.png",
-    "Media/Pasted image 20240907161159.png",
-    "Computer_Graphics/Fromulas and Documentation.md",
-    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/MalingProblema.class",
-    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/MalingProblema.java",
-    "Computer_Graphics/Python/MalingProblema[FINAL].ipynb",
-    "Computer_Graphics/Python/MalingProblema.ipynb",
-    "Computer_Graphics/Python/MachP.ipynb",
-    "Computer_Graphics/CTree.ipynb",
-    "Computer_Graphics/Python/genpath_sept6.ipynb",
     "Computer_Graphics/Formative and Summative Assessments.md",
-    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
     "blab.md",
-    "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
     "Data Analysis and Visualization/Recommendations.md",
-    "Data Analysis and Visualization/3-cleaning_data.pdf",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Life and Works of Rizal/Asynchronous 1.md",
     "Other notes.md",

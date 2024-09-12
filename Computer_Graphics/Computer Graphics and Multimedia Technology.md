@@ -282,8 +282,39 @@ pixels * 24 \; bits/pixels &= 18,874,368 \; bits\end{align}$$
 
 $$\begin{align}512*512 &= 262,144 \; pixels\\262,144 \;pixels * 200 \;ns/pixels& = 52,428,800 \; ns\\\text{Convert nanoseconds to seconds} \\ \frac{52,428,800 ns}{ 109 ns/second}& =  
 0.0524288 seconds \\Refresh \; Rate &= \frac{1}{0.0524288 seconds}\\& = approx \; 19.07 Hz\end{align}$$
-## Basic Principles of 2-Dimensional Graphics 
 
 
+## Subclasses of shape 
 
-**The origin is the upper left corner** 
+**GENERAL PATH is a sequences of lines, quadratic and cubic curves**
+
+```java
+GeneralPath gp = new GeneralPath();
+gp.moveTo(50,50)//Initial point
+//gp.lineTo(Initiial point, Termial point);
+gp.lineTo(50,200); //Create a line 
+gp.quadTo(150,500,250,200);
+//gp.quadTo(control x, control y, (Terminal point x,y))
+// The line earlier is the initial point
+gp.curveTo(350,100,150,150,100,100);
+gp.lineTo(50,50);//To close the shape
+```
+
+![[Pasted image 20240912101522.png]]
+A GeneralPath must always start with the method moveTo, defining the startingn point of the genral path 
+
+LineTo appends a line, starting from the (previous) last point of the GeneralPath to the specified enpoint
+
+quadTo  and curveTo append a quadratic and cubic curve, respectively
+
+
+![[Pasted image 20240912113003.png]]
+
+
+### Definition of Areas 
+- Polygons or closed sequences of curves 
+- Elementary geometric objects like circles, ellipses (axels-parallel) rectangles
+- Modifying the shape of elementary geometric objects by geometric transformations. 
+- Application of self-theoretic 
+
+![[Pasted image 20240912113121.png]]
