@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ff9ff7009b90dc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md",
+                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md",
+                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md",
+                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md"
+                "file": "Life and Works of Rizal/Life and Works of Rizal.md"
               }
             }
           }
@@ -160,25 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ff9ff7009b90dc0",
+  "active": "064acb35d626e189",
   "lastOpenFiles": [
+    "Pasted image 20240913184324.png",
+    "Pasted image 20240913175110.png",
+    "Pasted image 20240913174000.png",
+    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+    "Computer_Graphics/Fromulas and Documentation.md",
     "Computer_Graphics/Python/Sebastian_NH_MP2_Tree.ipynb",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2.java",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2.class",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2_Tree.class",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2_Tree.java",
     "Computer_Graphics/Python/Sebastian_MC_2.ipynb",
-    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
     "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/set_operations.java",
     "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/setoperations_java",
     "Pasted image 20240912113121.png",
     "Pasted image 20240912113003.png",
     "Computer_Graphics/Python/genpath_python_4CSC.ipynb",
     "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/genpath_java.class",
-    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/genpath_java.java",
     "Pasted image 20240912101522.png",
     "Contemporary World/Contemporary world Activity 1.md",
-    "Computer_Graphics/Fromulas and Documentation.md",
     "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
     "Contemporary World/Contemporary world.md",
     "Life and Works of Rizal/Life and Works of Rizal.md",
@@ -190,8 +179,6 @@
     "Media/Pasted image 20240907215118.png",
     "Media/Pasted image 20240907215056.png",
     "Media/Pasted image 20240907213319.png",
-    "Media/Pasted image 20240907213014.png",
-    "Media/Pasted image 20240907212523.png",
     "Computer_Graphics/Formative and Summative Assessments.md",
     "blab.md",
     "Data Analysis and Visualization/Recommendations.md",

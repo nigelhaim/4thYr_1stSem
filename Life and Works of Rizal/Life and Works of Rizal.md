@@ -195,3 +195,167 @@ Famous thinkers (philosophers) of Enlightenment
 - **Chapter 53 of Noli Me Tangere**
 	- Rizal made Taiso speak of the ancient philosopher's with reference to "the morning" of scientific age
 	- The works of Voltaire was also read by Rizal and Marcelo del Pilar.
+
+
+## The Humanism of Rizal 
+
+**He did not intent to become one however in today's world, Rizal is a humanist. It can be reflected through his works where it shows different philosophies**
+
+### Stoicism 
+- Spartan 
+- Frugal 
+- Wake up 4am (ex. Mike Tyson)
+
+#### What is your Philosophy in life? 
+
+### Humanism is defined as
+- Any system or mode of through or action in which **human interests, values, and dignity** predominate 
+- Value most the benefit of the human welfare 
+- Anything that is beneficial for the human race
+### Three basic concerns of Humanism
+- Human interests 
+	- Even non human people 
+	- Pets
+	- Environment 
+	- etc 
+- Values
+- Dignity 
+
+### The pursuit of Humanism 
+**Can be observed in Rizal's character**
+One cannot be humanist if these are not complete
+- Development of "Whole Person" (Abraham Maslow, Carl Rogers)
+- Components of "Whole Person"
+	- Intelligence 
+	- Emotion 
+	- Social Capacities
+		- One should be sociable
+	- Artistic and practical skills 
+		- Collections 
+		- Carpentry 
+		- Computer technician 
+- Study of "Humanities"
+	- Grammar, Rhetoric, History, Lecture, and Moral Philosophy
+
+### Characteristics of a Humanist 
+
+**Cultured**
+- They know when to say the right thing 
+- Kahit gutom titiisin yung gutom para makita na ang ugali niya hindi magaspang
+**Pacified Attitude**
+- Hindi nagroroad rage 
+**A lover of language**
+**A lover of nature**
+
+
+### Stages of Rizal's life 
+- **Calamba to Biñan**
+	- Ancestry and Birth of Rizal
+	-  First formal education from Doña Teodora
+	- Artistic talents in Sculpture and Sketching 
+	- Education in Biñan
+		- One of the first batch of education in the Philippines
+	- Jose Rizal Shrine in Calamba, Laguna, the birthplace of the Philippines' national hero, is one of the most frequented historical and tourist sites in Laguna. An average of 270,000 tourists visit the shrine annually.
+	- The house is designed as a National shrine (Level 1 the highest form of tourist spot) by the National Historical Commission of the Philippines and is located along Mercado Street and Rizal Street in Calamba's Población 5. It is in close proximity to St. John the Baptist church and the City College of Calamba. 
+	- The present house/museum is jsut a replica of the original ancestral house of Rizal's family; the old house was destroyed during World War II. It was President Quirino (founder of the central bank of the Philippines) who ordered the reconstruction of the national hero's home through the supervision of National Artist/architect Juan Nakpil and as inaugurated in 1950. 
+- Paternal side:
+	- **DOMINGO LAM-CO** (Great Great grandfather of father side) from the village of Siongque in the district of Chin-Chew in Fujian province Around 1690 married to Inez dela Rosa (daughter of his friend Agustin Chinco, a Chinese merchant) blessed with 2 children children Francisco Mercado and Josefa Mercado (lived for only 5 days), a leader among the Chinese because he had some degree of education, friend of Friar Francisco Marquez (author of Chinese grammar book) and Friar Juan Caballero. He was rich, highly intelligent, influential, and protected by the Spaniards.
+	- **FRANCISCO MERCADO** was given the surname Mercado (meaning market) to free the child from prejudice to those with Chinese names married Bernarda Monica (a Chinese mestiza) blessed with 2 sons Juan and Clemente well off and became an alcalde a popular figure in his town for had been a godfather to many baptisms and marriages
+	- **JUAN MERCADO** married Alejandro and were blessed with 14 children was called "gobernadorcillo Mercado" (city mayor) of Binan Laguna, or "Capitan Juan" generous, honest, and a leader in church activities and hermano mayor in charitable institutions listed in his family as Filipinos.
+	- **Francisco Mercado Riza (1818-1898)** is the father of Rizal. He was 43 years  old when Rizal was born. He was a man of few  words dignified and hospitable. He studied in the Colegio de Sa Jose in manila to the degree of Latin and Philosophy. He was born in May 11,  1818 at Binan, Laguna and died in January 5 1898 in Manila at the age of 80.
+		- Latin is a dead language however it is still studied today because it is the etymology of the Spanish, French, English, Portuguese, Italian words (the mother language) 
+	- **Teodora Alonso Realonda (1826-1911)** is the mother of our national hero. Born in November 8, 1826, and she studied in colegio de Santa Potenciana. She had a good knowledge of mathematics, she also knew how to appreciate literature, and corrected her son's verses and guided him in his study of rhetoric. She died in August 16, 1911 in Manila at the age of 85. 
+		- Offered by the Americans a lifetime of pension for all generations
+
+>[!Note]- Rizal's Family tree
+>![[Pasted image 20240913174000.png]]
+
+
+### The Birth of Jose Rizal 
+- **19 June 1861** 
+	- JOSE RIZAL, the seventh child of Francisco Mercado Rizal and Teodora Alonsyo y Quintos was born in Calamba, Laguna. 
+- **22 June 1861** 
+	- He was baptized JOSE RIZAL MERCADO at the Catholic of Calamba by the parish priest Rev. Rufino Collantes with Rev. Pedro Cassañas as the sponsor. 
+
+**Why Rizal was used not Mercado? **
+- During the Spanish era the GOMBURZA was executed and the name Mercado was associated. His brother insisted that Rizal should not use Mercado to avoid suspicion from the head priests of Ateneo de Manila. -
+
+
+### The Surname of Rizal 
+- The real surname of Rizal family was Mercado, which was adopted in 1731 by Domingo Lamco (the paternal great-great-grandfather of Jose Rizal), who was a full-blooded Chinese. Rizal's family acquired a second surname - Rizal - which was given by a Spanish alcalde mayor of Laguna, who was a family friend. Thus said Dr. Rizal, in his letter to Blumentritt (without date or place): 
+	- I am the only Rizal because at home my parents, my sisters, my brother, and my relatives have always preferred our old surname Mercado. Our family name was in fact Mercado, but there were many Mercado's in the Philippines who are not related to us. It is aid that an alcalde mayor, who was a friend of our family added Rizal to our name. My family did to pay much attention to this, but ow I have to use it. In this way, it seems that I am illegitimate son. 
+
+### The Affluence of Rizal's Family 
+- Family predisposition to studies 
+- Stone house of adobe and hardwood 
+- Ownership of carriage and horses (Jose had a personal horse)
+- Home library (consisted of more than 1,000 volumes)
+- Personal servants 
+- Private tutor of children in the family's home 
+- Business in rice sugar production 
+- Ability to send the children for education in Manila
+-  Principalia class (local elites)
+
+### Rizal's Influences 
+**Hereditary influence, his environment, and his uncles**
+
+**Tio Jose Alberto** - artistic ability, who studied 11 years in a British school in Calcutta, India; 
+**Tio Manuel** - develop his frail body by means of physical exercises including horse riding, walking, and wrestling;
+**Tio Gregorio** - Rizal's voracious reading of good books
+**Father Leoncio Lopez** - fostered Rizal's love for scholarship and intellectual honesty
+The sorrows in his family also contributed for Rizal to strengthen his character. 
+
+### Early Education in Calamba and Biñan 
+
+1. Rizal had his early education in Calamba and Biñan. It was a typical schooling that a son of an illustrator family received during his time. 
+2. Teaching was characterized by four R's (Reading, Religion, Writing, Arithmetic (Math))
+3. Instruction was rigid and strict. Knowledge was forced into the minds of pupil. By means of tedious memory method aided by teachers whips. 
+4. The first teacher of Rizal was his mother, who was remarkable woman of good character and fine culture. 
+5. Rizal at the age of 3 learned the alphabet and prayers
+6. Doña Teodora discovered Jose's talent for poetry and encourages him to write 
+7. Maestro Celestino was Jose's first private tutor. Private tutors of Rizal. 
+8. Maestro Lucas Padua was second private tutor. 
+9. Maestro Leon Monroy became the hero's tutor in Spanish and Latin. He was the classmate of Don Francisco 
+10. When Don Leon died; Jose's parents decided to send him to a private school in Biñan 
+
+### Jose Goes to Biñan 
+1. After Monroy's death, Rizal's parents decided to send him to a private school in Biñan 
+2. June 1869 Jose left Calamba for Biñan with Paciano 
+3. Carromata - their mode of transportation 
+4. Aunt's House - where Jose lodge. 
+5. Maestro Justiniano Aquino Cruz - owner and teacher of the school 
+6. Rizal described maestro Justiniano as "tall, thin, long-necked, and sharp-nosed with a body slightly bent forward"
+7. Pedro (teachers son) (bully) -wrestling
+8. Andres Salandanan - arm wrestling 
+9. Jose never run away from a fight 
+10. Near the school was the house of an old painter, called Juancho, who was Father - in - law of the school teacher 
+11. Old Juancho Freely gave Jose drawing and painting lessons 
+12. Jose Rizal and his classmate Jose Guevarra become apprentices 
+
+### Daily Routine in Biñan 
+- Hears mass at 4 a.m or studies lesson before going to mass
+- Goes to orchard to look for a mabolo to eat
+- Breakfast 
+- Goes to class at 10 a.m 
+- Lunch break 
+- Goes back to school at 2 p.m
+- Goes home at 5 p.m 
+- Studies lesson and draws a little 
+- Has supper 
+- Prays again 
+- Plays in the street if moon is bright 
+- Sleeps 
+### The Best Student 
+- Jose surpassed his classmates in Spanish, Latin and other subjects 
+- His older classmates were jealous and squealed to the teacher whenever he had fights 
+- Jose usually receives five to six blows. 
+
+### End of Biñan Schooling: Bakasyon na 
+- **December 17, 1870** - Jose left Biñan (after a year and half schooling) rode the steamer Talim for Calamba
+- **Arturo Camps** - Frenchman and friend of his father who took care of him during his trip 
+- In 1872, Doña Teodora was arrested on a malicious charge that she aided his brother Jose Alberto in trying to poison his wife. 
+- Jose Alberto planned to divorce his wife because of her infidelity. His wife connived with the Spanish lieutenant of the Guardia Civil and filed a case against Rizal's mother 
+- **Antonio Vivencio del Rosario** - Gobernadorcillo of Calamba, helped the lieutenant arrest of Doña Teodora 
+- **50 Kilometers** - Doña Teodora was made to walk from Calamba to the provincial prison in Santa Cruz
+- **Don Francisco de marcaida and Don Manuel. Marzan** - Most famous lawyers of Manila, defended Doña Teodora in court 
+- After 2 and half years in the Royal Audencia acquitted Doña Teodora  
