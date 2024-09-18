@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md",
+                "file": "Computer_Graphics/Fromulas and Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5004348754883
+    "width": 403.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md",
+                "file": "Computer_Graphics/Fromulas and Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md",
+                "file": "Computer_Graphics/Fromulas and Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md"
+                "file": "Computer_Graphics/Fromulas and Documentation.md"
               }
             }
           }
@@ -157,6 +158,8 @@
   },
   "active": "064acb35d626e189",
   "lastOpenFiles": [
+    "Computer_Graphics/Formative and Summative Assessments.md",
+    "Computer Security and Information Assurance.md",
     "Computer_Graphics/Project Notes .md",
     "Thesis II.md",
     "Contemporary World/Contemporary world.md",
@@ -169,7 +172,6 @@
     "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
     "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
     "Tags",
-    "Computer Security and Information Assurance.md",
     "Media/Pasted image 20240912101522.png",
     "Life and Works of Rizal/Life and Works of Rizal.md",
     "Media/Pasted image 20240913184324.png",
@@ -190,7 +192,6 @@
     "Media/Pasted image 20240907183024.png",
     "Media/Pasted image 20240907215333.png",
     "Media/Pasted image 20240907215118.png",
-    "Computer_Graphics/Formative and Summative Assessments.md",
     "blab.md",
     "Data Analysis and Visualization/Recommendations.md",
     "Life and Works of Rizal/Asynchronous 1.md",
