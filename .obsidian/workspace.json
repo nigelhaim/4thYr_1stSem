@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md",
+                "file": "Computer_Graphics/Formulas and Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5004348754883,
-    "collapsed": true
+    "width": 403.5004348754883
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md",
+                "file": "Computer_Graphics/Formulas and Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md",
+                "file": "Computer_Graphics/Formulas and Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Graphics/Fromulas and Documentation.md"
+                "file": "Computer_Graphics/Formulas and Documentation.md"
               }
             }
           }
@@ -158,6 +157,8 @@
   },
   "active": "064acb35d626e189",
   "lastOpenFiles": [
+    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+    "Computer_Graphics/Formulas and Documentation.md",
     "Computer_Graphics/Formative and Summative Assessments.md",
     "Computer Security and Information Assurance.md",
     "Computer_Graphics/Project Notes .md",
@@ -177,8 +178,6 @@
     "Media/Pasted image 20240913184324.png",
     "Media/Pasted image 20240913175110.png",
     "Media/Pasted image 20240913174000.png",
-    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
-    "Computer_Graphics/Fromulas and Documentation.md",
     "Computer_Graphics/Python/Sebastian_NH_MP2_Tree.ipynb",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2.java",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2.class",

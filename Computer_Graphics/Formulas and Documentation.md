@@ -43,6 +43,70 @@ $r= radius$
 >![[Pasted image 20240905185031.png]]
 ## Java
 
+```Java
+package javaapplication1;
+import java.awt.*;
+import java.awt.geom.*;
+public class String_and_graphics_2d extends Frame{
+
+    public void paint(Graphics g){
+        //Create the canvas and put the heading title
+        Graphics2D g2d = (Graphics2D) g;
+        BasicStroke bs = new BasicStroke(7.0f);
+        g2d.setStroke(bs);
+        g2d.setFont(new Font("Serif", Font.BOLD, 24));
+        g2d.drawString("Welcome 4CSC in Graphics using Java", 50, 75);
+
+        Line2D.Double l1 = new Line2D.Double(75, 120, 250, 350);
+        g2d.draw(l1);
+
+        QuadCurve2D.Double q1 = new QuadCurve2D.Double(75, 120, 150, 400, 250, 350);
+        g2d.setPaint(Color.pink);
+        g2d.draw(q1);
+        
+        CubicCurve2D.Double c1 = new CubicCurve2D.Double(75, 120, 120, 20, 300, 200, 250, 350);
+        g2d.setPaint(Color.orange);
+        g2d.draw(c1);
+
+        Rectangle2D.Double r1 = new Rectangle2D.Double(250, 100, 300, 175);
+        g2d.setPaint(Color.green);
+        g2d.draw(r1);
+        g2d.setPaint(Color.red);
+        g2d.fill(r1);
+
+        Ellipse2D.Double e1 = new Ellipse2D.Double(300, 150, 350, 225);
+        g2d.setPaint(Color.yellow);
+        g2d.draw(e1);
+
+        Arc2D.Double a1 = new Arc2D.Double(r1, 30, 70, Arc2D.PIE);
+        g2d.setPaint(Color.magenta);
+        g2d.draw(a1);
+
+        Arc2D.Double a2 = new Arc2D.Double(r1, 120, 60, Arc2D.CHORD);
+        g2d.setPaint(Color.white);
+        g2d.draw(a2);
+
+        Arc2D.Double a3 = new Arc2D.Double(r1, 190, 70, Arc2D.OPEN);
+        g2d.setPaint(Color.blue);
+        g2d.draw(a3);    
+        
+        Ellipse2D.Double c2 = new Ellipse2D.Double(300, 300, 300, 300);
+        g2d.setPaint(Color.lightGray);
+        g2d.draw(c2);
+    }
+
+    public static void main(String[] args) {
+    
+        String_and_graphics_2d s = new String_and_graphics_2d();
+        s.setTitle("String and Graphics 2D in Java");
+        s.setBackground(Color.black);
+        s.setSize(900, 900);
+        s.setForeground(Color.cyan);
+        s.setVisible(true);
+    }
+}
+```
+
 ### Line
 
 ```Java
@@ -160,7 +224,7 @@ Ellipse2D.Double elli1 = new Ellipse2D.Double(double x, double y, double w, d
 // (to get x or y: subtract the given h by the r (r = 125)) // length = width = 2r= 250 
 
 // formula for y: 
-// y = (center) k - r = 300 - 125 = 175 
+		// y = (center) k - r = 300 - 125 = 175 
 Ellipse2D.Double circle1 = newEllipse2D.Double(75,175, 250,250); 
 
 ```
@@ -267,3 +331,273 @@ ImageDraw.ellipse(xy, fill=None, outline=None, width=1)
 **outline** – Color to use for the outline.
 **fill** – Color to use for the fill.
 **width** –The line width, in pixels.
+
+## Gen Path (Java)
+
+```java
+package javaapplication1;
+
+import java.awt.*;
+
+import java.awt.geom.*;
+
+  
+
+public class genpath_java extends Frame {    
+
+    public void paint(Graphics g){    
+
+        Graphics2D g2d = (Graphics2D) g;
+        BasicStroke bs = new BasicStroke(10.0f);
+        g2d.setStroke(bs);
+
+
+        GeneralPath gp1 = new GeneralPath();
+        gp1.moveTo(50,50);
+        gp1.lineTo(50,200); 
+        gp1.quadTo(150,500,250,200); 
+        gp1.curveTo(350,100,150,150,100,100); 
+        gp1.lineTo(50,50); 
+
+  
+
+        g2d.setPaint(Color.RED);
+        g2d.draw(gp1);
+        g2d.setPaint(Color.YELLOW);
+        g2d.fill(gp1);
+
+  
+
+    public static void main(String[] args){
+
+        genpath_java gp = new genpath_java();
+        gp.setTitle("General Path in Java");
+        gp.setBackground(Color.GRAY);
+        gp.setSize(1000, 1000);
+        gp.setForeground(Color.GREEN);
+        gp.setVisible(true);
+    }
+}
+```
+
+### moveTo
+
+```java
+gp1.MoveTo(double x, double y)
+```
+
+| Type           | Property | Description                         |
+| -------------- | -------- | ----------------------------------- |
+| DoubleProperty | x<br>    | Defines the specified X coordinate. |
+| DoubleProperty | y<br>    | Defines the specified Y coordinate. |
+
+
+### lineTo
+
+```java
+gp1.LineTo​(double x, double y)
+```
+
+| Type           | Property | Description               |
+| -------------- | -------- | ------------------------- |
+| DoubleProperty | x        | Defines the X coordinate. |
+| DoubleProperty | y        | Defines the Y coordinate. |
+
+### quadTo 
+
+```java
+gp1.quadTo(double x1, double y1, double x2, double y2)
+```
+
+| Type   | Property | Description                                     |
+| ------ | -------- | ----------------------------------------------- |
+| double | x1       | the X coordinate of the quadratic control point |
+| double | y1       | the Y coordinate of the quadratic control point |
+| double | x2       | the X coordinate of the final end point         |
+| double | y2       | the Y coordinate of the final end point         |
+
+### curveTo
+
+```java
+gp1.curveTo(double x1, double y1, double x2, double y2, double x3, double y3)
+```
+
+| Type   | Property | Description                                      |
+| ------ | -------- | ------------------------------------------------ |
+| double | x1       | the X coordinate of the first Bézier control point |
+| double | y1       | the Y coordinate of the first Bézier control point |
+| double | x2       | the X coordinate of the second Bézier control point |
+| double | y2       | the Y coordinate of the second Bézier control point |
+| double | x3       | the X coordinate of the final end point            |
+| double | y3       | the Y coordinate of the final end point            |
+
+
+### Area (Java)
+
+```java
+package javaapplication1;
+import java.awt.*;
+import java.awt.geom.*;
+
+public class SetOperations extends Frame {
+
+    public void paint(Graphics g) {
+
+        Graphics2D g2d = (Graphics2D) g;
+        BasicStroke bs = new BasicStroke(7.0f);
+        g2d.setStroke(bs);
+        
+        Ellipse2D.Double e1 = new Ellipse2D.Double(40, 40, 300, 200);
+        Ellipse2D.Double circ = new Ellipse2D.Double(80, 100, 200, 200);
+        Rectangle2D.Double rect = new Rectangle2D.Double(230, 100, 200, 300);
+        Rectangle2D.Double sq = new Rectangle2D.Double(200, 150, 200, 200);
+        
+        g2d.draw(e1);
+        g2d.draw(circ);
+        g2d.draw(rect);
+        g2d.draw(sq);
+
+        Area e = new Area(e1);
+        Area c = new Area(circ);
+        Area r = new Area(rect);
+        Area s = new Area(sq);
+
+        g2d.setPaint(Color.yellow);
+        
+        e.add(r);
+        g2d.fill(e); 
+        
+        c.intersect(s);
+        g2d.fill(c);
+        
+        c.subtract(s);
+        g2d.fill(c);
+
+        r.exclusiveOr(s);
+        g2d.fill(r);
+
+    }
+
+  
+
+    public static void main(String[] args) {
+        SetOperations s = new SetOperations();
+        s.setTitle("String and Graphics 2D in Java");
+        s.setBackground(Color.BLACK);
+        s.setSize(1000, 1000);
+        s.setForeground(Color.WHITE);
+        s.setVisible(true);
+    }
+}
+```
+
+### Area 
+
+```java 
+Area a = new Area(Shape s);
+```
+
+
+### Add
+
+Adds the shape of the specified `Area` to the shape of this `Area`. The resulting shape of this `Area` will include the union of both shapes, or all areas that were contained in either this or the specified `Area`.
+
+```java
+public void add(Area rhs)
+```
+
+```java
+// Example:
+Area a1 = new Area([triangle 0,0 => 8,0 => 0,8]);
+Area a2 = new Area([triangle 0,0 => 8,0 => 8,8]);
+a1.add(a2);
+
+a1(before)     +         a2         =     a1(after)
+
+ ################     ################     ################
+ ##############         ##############     ################
+ ############             ############     ################
+ ##########                 ##########     ################
+ ########                     ########     ################
+ ######                         ######     ######    ######
+ ####                             ####     ####        ####
+ ##                                 ##     ##            ##
+```
+
+
+### Subtract
+
+```java
+public void subtract(Area rhs)
+```
+
+Subtracts the shape of the specified `Area` from the shape of this `Area`. The resulting shape of this `Area` will include areas that were contained only in this `Area` and not in the specified `Area`.
+
+```java
+ // Example:
+ Area a1 = new Area([triangle 0,0 => 8,0 => 0,8]);
+ Area a2 = new Area([triangle 0,0 => 8,0 => 8,8]);
+ a1.subtract(a2);
+
+	a1(before)     -         a2         =     a1(after)
+
+ ################     ################
+ ##############         ##############     ##
+ ############             ############     ####
+ ##########                 ##########     ######
+ ########                     ########     ########
+ ######                         ######     ######
+ ####                             ####     ####
+ ##                                 ##     ##
+```
+
+### Intersect 
+
+```java
+public void intersect(Area rhs)
+```
+Sets the shape of this `Area` to the intersection of its current shape and the shape of the specified `Area`. The resulting shape of this `Area` will include only areas that were contained in both this `Area` and also in the specified `Area`.
+
+```java
+ // Example:
+ Area a1 = new Area([triangle 0,0 => 8,0 => 0,8]);
+ Area a2 = new Area([triangle 0,0 => 8,0 => 8,8]);
+ a1.intersect(a2);
+
+  a1(before)   intersect     a2         =     a1(after)
+
+ ################     ################     ################
+ ##############         ##############       ############
+ ############             ############         ########
+ ##########                 ##########           ####
+ ########                     ########
+ ######                         ######
+ ####                             ####
+ ##                                 ##
+```
+
+### Exclusive Or
+
+Sets the shape of this `Area` to be the combined area of its current shape and the shape of the specified `Area`, minus their intersection. The resulting shape of this `Area` will include only areas that were contained in either this `Area` or in the specified `Area`, but not in both.
+
+```java
+public void exclusiveOr(Area rhs)
+```
+
+```java
+ // Example:
+ Area a1 = new Area([triangle 0,0 => 8,0 => 0,8]);
+ Area a2 = new Area([triangle 0,0 => 8,0 => 8,8]);
+ a1.exclusiveOr(a2);
+
+	a1(before)    xor        a2         =     a1(after)
+
+ ################     ################
+ ##############         ##############     ##            ##
+ ############             ############     ####        ####
+ ##########                 ##########     ######    ######
+ ########                     ########     ################
+ ######                         ######     ######    ######
+ ####                             ####     ####        ####
+ ##                                 ##     ##            ##
+```

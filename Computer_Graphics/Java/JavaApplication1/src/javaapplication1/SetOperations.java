@@ -24,17 +24,17 @@ public class SetOperations extends Frame {
         Area r = new Area(rect);
         Area s = new Area(sq);
         g2d.setPaint(Color.yellow);
-        // e.add(r);
-        // g2d.fill(e);
+        e.add(r);
+        g2d.fill(e);
 
-        // c.intersect(s);
-        // g2d.fill(c);
+        c.intersect(s);
+        g2d.fill(c);
 
-        // c.subtract(s);
-        // g2d.fill(c);
+        c.subtract(s);
+        g2d.fill(c);
 
-        // s.subtract(c);
-        // g2d.fill(s);
+        s.subtract(c);
+        g2d.fill(s);
 
         r.exclusiveOr(s);
         g2d.fill(r);
