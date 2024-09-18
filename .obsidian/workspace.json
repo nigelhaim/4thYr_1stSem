@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
+                "file": "Computer_Graphics/Project Notes .md",
                 "mode": "source",
                 "source": false
               }
@@ -64,13 +64,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ffb9bdadaa7a24b9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 403.5004348754883
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
+                "file": "Computer_Graphics/Project Notes .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life and Works of Rizal/Life and Works of Rizal.md",
+                "file": "Computer_Graphics/Project Notes .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life and Works of Rizal/Life and Works of Rizal.md"
+                "file": "Computer_Graphics/Project Notes .md"
               }
             }
           }
@@ -149,9 +157,24 @@
   },
   "active": "064acb35d626e189",
   "lastOpenFiles": [
-    "Pasted image 20240913184324.png",
-    "Pasted image 20240913175110.png",
-    "Pasted image 20240913174000.png",
+    "Computer_Graphics/Project Notes .md",
+    "Thesis II.md",
+    "Contemporary World/Contemporary world.md",
+    "Contemporary World/Contemporary world Activity 1.md",
+    "README.md",
+    "Pasted image 20240914155527.png",
+    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
+    "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf",
+    "Data Analysis and Visualization/Data Analysis and Visualization.md",
+    "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
+    "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
+    "Tags",
+    "Computer Security and Information Assurance.md",
+    "Media/Pasted image 20240912101522.png",
+    "Life and Works of Rizal/Life and Works of Rizal.md",
+    "Media/Pasted image 20240913184324.png",
+    "Media/Pasted image 20240913175110.png",
+    "Media/Pasted image 20240913174000.png",
     "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
     "Computer_Graphics/Fromulas and Documentation.md",
     "Computer_Graphics/Python/Sebastian_NH_MP2_Tree.ipynb",
@@ -160,33 +183,18 @@
     "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2_Tree.class",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_NH_MP2/src/sebastian_nh_mp2/Sebastian_NH_MP2_Tree.java",
     "Computer_Graphics/Python/Sebastian_MC_2.ipynb",
-    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/set_operations.java",
-    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/setoperations_java",
-    "Pasted image 20240912113121.png",
-    "Pasted image 20240912113003.png",
-    "Computer_Graphics/Python/genpath_python_4CSC.ipynb",
-    "Computer_Graphics/Java/JavaApplication1/src/javaapplication1/genpath_java.class",
-    "Pasted image 20240912101522.png",
-    "Contemporary World/Contemporary world Activity 1.md",
-    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-    "Contemporary World/Contemporary world.md",
-    "Life and Works of Rizal/Life and Works of Rizal.md",
+    "Media/Pasted image 20240912113121.png",
+    "Media/Pasted image 20240912113003.png",
     "Untitled.md",
     "Untitled 1.md",
     "Media/Pasted image 20240907183024.png",
-    "Computer Security and Information Assurance.md",
     "Media/Pasted image 20240907215333.png",
     "Media/Pasted image 20240907215118.png",
-    "Media/Pasted image 20240907215056.png",
-    "Media/Pasted image 20240907213319.png",
     "Computer_Graphics/Formative and Summative Assessments.md",
     "blab.md",
     "Data Analysis and Visualization/Recommendations.md",
-    "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Life and Works of Rizal/Asynchronous 1.md",
     "Other notes.md",
-    "README.md",
-    "Thesis II.md",
     "Compter Graphics/Computer Graphics and Multimedia Technology.md",
     "Compter Graphics/Formative and Summative Assessments.md",
     "Data Analysis and Visualization/ch-1.md",

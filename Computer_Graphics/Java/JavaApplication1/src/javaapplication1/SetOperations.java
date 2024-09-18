@@ -1,5 +1,4 @@
-package pkg4csc_graphics;
-
+package javaapplication1;
 import java.awt.*;
 import java.awt.geom.*;
 

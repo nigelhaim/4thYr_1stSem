@@ -359,4 +359,81 @@ https://www.cfr.org/global-conflict-tracker
 ### Misconceptions about globalization 
 - Globalization as internationalization 
 - Globalization as liberalization 
-- Globalizationi 
+- Globalization
+
+
+### What makes the world go round?
+- Money makes the world go round 
+
+### What Connects the world? 
+- Insisting of the open for the sake of global economy
+
+Trade has been around for as long as anyone can remember, and it brought more than just goods:
+- The exchange of ideas
+- The exchange of products 
+- Earliest sign of "cultural appropriation"
+- Technological innovation 
+- Modernization
+- Post-modernism 
+	- Everything is subject to argument or debate 
+	- Gender
+
+### All of this eventually led to capitalism 
+
+![[Pasted image 20240914155527.png]]
+- There is no such thing as enough 
+
+### In practice: 
+- **Chua's chicken**
+	- If I produce better quality chickens, at what price can I sell it? 
+	- What is the nature of the good? (Rival, non-rival, alternatives, etc)
+	- Should the government be allowed to set the price? 
+
+### A (very brief) history of Capitalism 
+- Europe: 17th - 18th century; origins in Feudalist agrarian societies 
+- Bolstered the notion of wage labor as opposed to vassal lords
+- Industrial Revolution and Colonialism 
+- Adam Smith: Invisible Hand, "let the market be" 
+- Letting the market be does not always work (Great Depression, Asian Financial Crisis, Great Financial Crisis)
+- World Wars are expensive, but they have their *benefits*
+- Empires fall in just one day; America enters 
+- EU and League of nations 
+- The triumph of US, Western, Capitalism over Russian Socialism 
+- Capitalism, specifically, Neoliberism and what it brings is the way to go 
+- The "end of history" (but not really) 
+
+### Neoliberalism 
+- Limited role of government 
+- Profits over democratic norms 
+- Markets are the most important thing 
+- More diverse goods and services; cheapter labor; import/export 
+- The rich can get richer-but what it means 
+
+#### Therefore: 
+- Neoliberalism, the guiding principle of economic globalization gives uneven benefits 
+- Goods may be cheaper, but because of cheaper labor abroad
+
+### Economic Globalization 
+- A shift from a world of distinct national economies to a global economy in which: 
+	- Production is internationalized 
+	- Financial capital flows
+- market incentives are more important 
+- local sovereignty and democratic norms are often disregarded and violated 
+- Globalization now looks to benefit only the few 
+
+
+### Is the solution now some form of government intervention? 
+
+### Who will take on this role? 
+- The UN is an intergovernmental agency
+- The EU is limited in scope and BREXIT undermines its legitimacy
+
+### What are the relevant financial institutions then? 
+- **IMF** : they promote economic stability by providing sound economic policies
+- **World Banks** : they seek to reduce provery; they give out loans to governments for states to improve the standards of living.
+
+
+### Some questions to ponder on: 
+- Can globalization still be fixed? 
+- Should a supranational entity exist in order to facilitate economic globalization? 
+- What are the everyday and easily identifiable effects of economic globalization? 

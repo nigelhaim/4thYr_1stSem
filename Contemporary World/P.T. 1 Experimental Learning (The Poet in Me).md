@@ -1,4 +1,4 @@
-
+q
 Raymond Farrel wrote a poem entitled Globalization
 
 I am but a simple wordsmith  

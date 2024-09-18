@@ -1,4 +1,6 @@
 {
   "cssTheme": "Tokyo Night",
-  "accentColor": "#ff6600"
+  "accentColor": "#ff6600",
+  "interfaceFontFamily": "Consolas",
+  "baseFontSize": 17
 }
