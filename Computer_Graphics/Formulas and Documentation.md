@@ -23,7 +23,7 @@ $\begin{align*}\text{Num of bits} &=2^{\text{Num of bits }*\text{ Num of color}}
 
 ### Refresh Rate
 
-$$\begin{align*}Num \; of \; Pixel &= (Resolution) \; Width \; * \; Height \\ Nanoseconds &= Resolution * Num \; of \frac{nanosecond}{pixel} \\ Seconds &=  \frac{nanoseconds}{109\frac{ns}{second}} \\ Refresh \; Rate &= \frac{1}{Seconds} \end{align*}$$
+$$\begin{align*}Num \; of \; Pixel &= (Resolution) \; Width \; * \; Height \\ Nanoseconds &= Resolution * Num \; of \frac{nanosecond}{pixel} \\ Seconds &=  \frac{nanoseconds}{10^9\frac{ns}{second}} \\ Refresh \; Rate &= \frac{1}{Seconds} \end{align*}$$
 
 ### Ellipse Standard equation
 

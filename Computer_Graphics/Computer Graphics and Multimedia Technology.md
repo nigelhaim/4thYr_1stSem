@@ -1,5 +1,4 @@
 
-
 ## Orientation 
 
 
@@ -220,7 +219,7 @@ N Bit plane frame buffer for (Monochrome Displays) Intensity level between 0 (da
 
 Increasing number of Intensity with Lookup Table Lookup tables contains 2N entries for N bit planes and with W width. Each entry will now have 2W values  
 
->[Note] - With Lookup Table 
+>[!Note]- With Lookup Table 
 >![[Pasted image 20240823171030.png]] 
 
 ### Color Raster Display 
@@ -280,10 +279,70 @@ pixels * 24 \; bits/pixels &= 18,874,368 \; bits\end{align}$$
 
 7. Find the refresh rate of a 512 x 512 frame buffer, if the access time for each pixel is 200 nanoseconds (ns).
 
-$$\begin{align}512*512 &= 262,144 \; pixels\\262,144 \;pixels * 200 \;ns/pixels& = 52,428,800 \; ns\\\text{Convert nanoseconds to seconds} \\ \frac{52,428,800 ns}{ 109 ns/second}& =  
+$$\begin{align}512*512 &= 262,144 \; pixels\\262,144 \;pixels * 200 \;ns/pixels& = 52,428,800 \; ns\\\text{Convert nanoseconds to seconds} \\ \frac{52,428,800 ns}{ 10^9 ns/second}& =  
 0.0524288 seconds \\Refresh \; Rate &= \frac{1}{0.0524288 seconds}\\& = approx \; 19.07 Hz\end{align}$$
+## Basic principles of 2-Dimensonial Graphics 
+
+### Raster vs Vector Graphics 
+**VECTOR GRAPHICS** is a representation by basic geometric objects (lines, circles, ellipses, cubic curves, …)
+
+**RASTER GRAPHICS** is a representation in the form of pixel matrix.
+
+#### RASTER GRAPHICS RASTER GRAPHICS FOR CATHODE RAY TUBE 
+- The video controller reads the images buffer (row-wise from left to right and from right to left).
+- At each pixel, the intensity of the ray is chosen according to the entry in the image buffer. 
+- 60Hz refresh rate without flickering effects
+
+#### VECTOR GRAPHICS 
+- Scalable 
+- Requires computations for display on a pixel-oriented medium (scan conversion) 
+- Scan conversion can lead to ALIASING EFFECTS (such as jagged edges) which occur in general when a discrete sampling rate is used to measure a continuous signal.
+
+>[!Note]- Raster Graphics & Scaling 
+>![[Pasted image 20240918214541.png]]
+
+>[!Note]- Raster as a Grid 
+>![[Pasted image 20240918214604.png]]
 
 
+### GETTING STARTED with JAVA 2D 
+- AWT (Abstract Windowing Toolkit) components displayed on the screen have a paint () method with Graphics objects as argument.
+- The class Graphics2D within Java 2D extends the class Graphics. 
+- In order to exploit the options of java 2D, the Graphics object must be casted into a Graphics2D object within the paint () method.
+
+**WINDOW COORDINATES** 
+- Coordinates in the upper left corner is (0, 0). • Extension of the window to the right (here 400 pixels) and downwards (here 100 pixels). 
+- The y-axis points downwards. • It is not possible to draw on the margins of the window
+
+### BASIC GEOMETRIC OBJECTS 
+- **POINTS used for the definition** of the other objects (i.e. a line connecting two points). 
+- **LINES, POLYLINES or CURVES** can be defined by two or more points. 
+- **AREAS** are usually bounded by CLOSED POLYLINES or POLYGONS. Areas can be filled with color or a texture.
+
+### BASIC GEOMETRIC OBJECTS 
+- **LINE (SEGMENT)** is a connecting line between two points. 
+- **POLYLINE** is a sequence of line where the following line starts where the previous one ends. 
+- **POLYGON, CLOSED POLYLINE** is the last line segment of a polyline ends where the first line segment started.
+
+#### POLYGONS IMPORTANT ADDITIONAL PROPERTIES OF POLYGONS: 
+- NON – SELF-OVERLAPPING 
+- CONVEXITY
+
+#### PARAMETRIC 
+- CURVES QUADRATIC CURVES has 2 end points and 1 control point. 
+- CUBIC CURVES has 2 endpoints and 2 control points.
+
+### GEOMETRIC OBJECTS IN JAVA 2D 
+- The abstract class Shape with its various subclasses allows the construction of various two-dimensional geometric objects. 
+- Vector graphics is used to define Shape objects, whose real-valued coordinates can either be give as float or double-values.
+- Shapes will not be drawn until the draw or the fill method is called with the corresponding Shape as argument in the form graphics2d.draw (shape) or graphics2d.fill (shape), respectively.
+- The abstract class Point2D is NOT a subclass of Shape. 
+- Points cannot be drawn in Java. 
+- They are only supposed to be used for the description of other objects. 
+- Subclass of Point2D: Point2D.Float and Point2D.Double.
+
+>[!Note]- Parametric Curves
+>![[Pasted image 20240918214958.png]]
 ## Subclasses of shape 
 
 **GENERAL PATH is a sequences of lines, quadratic and cubic curves**
@@ -300,16 +359,12 @@ gp.curveTo(350,100,150,150,100,100);
 gp.lineTo(50,50);//To close the shape
 ```
 
-![[Pasted image 20240912101522.png]]
-A GeneralPath must always start with the method moveTo, defining the startingn point of the genral path 
+### Subclasses of shape 
+A GeneralPath must always start with the method moveTo, defining the starting point of the genral path.
 
-LineTo appends a line, starting from the (previous) last point of the GeneralPath to the specified enpoint
+LineTo appends a line, starting from the (previous) last point of the GeneralPath to the specified enpoint 
 
-quadTo  and curveTo append a quadratic and cubic curve, respectively
-
-
-![[Pasted image 20240912113003.png]]
-
+quadTo and curveTo append a quadratic and cubic curve, respectively, starting from the (previous) last point of the General Path connecting to the specified endpoint using the given control point.
 
 ### Definition of Areas 
 - Polygons or closed sequences of curves 
@@ -318,3 +373,23 @@ quadTo  and curveTo append a quadratic and cubic curve, respectively
 - Application of self-theoretic 
 
 ![[Pasted image 20240912113121.png]]
+
+
+## The Output Primitives 
+
+### Image Representation
+- Square image data description
+- Pixel Position and Numbering 
+
+### Straight Line 
+**Criterion**
+	- Line should appear straight
+	- Line should terminate accurately
+	- Line should have constant density
+	- Line density should be independent of length and angle 
+	- Line should be drawn rapidly
+	-
+
+### Differential Digital Analyzer (DDA)
+
+
