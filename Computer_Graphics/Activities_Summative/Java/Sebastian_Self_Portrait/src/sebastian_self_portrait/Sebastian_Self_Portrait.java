@@ -88,6 +88,23 @@ public class Sebastian_Self_Portrait extends Frame{
         g2d.draw(sling_path);
         g2d.setPaint(sling_color);
         g2d.fill(sling_path);
+
+        Color hair_color = new Color(40,36,37);
+        GeneralPath hair_path = new GeneralPath();
+        hair_path.moveTo(67, 197);
+        hair_path.quadTo(57,168,53, 150);
+        hair_path.quadTo(51,141,58,119);
+        hair_path.quadTo(94, 77, 108, 71);
+        hair_path.quadTo(155, 54, 189, 63);
+        hair_path.quadTo(204, 66, 214, 71);
+        hair_path.quadTo(243, 94, 260, 115);
+        hair_path.quadTo(260, 114, 268, 136);
+        hair_path.quadTo(266, 166, 261, 207);
+        g2d.setPaint(hair_color);
+        g2d.draw(hair_path);
+        g2d.setPaint(hair_color);
+        g2d.fill(hair_path);
+
         
         //Create Side burns 
         Color sideburns_color = new Color(64,64,62);
@@ -113,6 +130,21 @@ public class Sebastian_Self_Portrait extends Frame{
         g2d.setPaint(sideburns_color);
         g2d.fill(sideburns_path);
 
+        //Create hair 
+        GeneralPath hair_path_outline = new GeneralPath();
+        hair_path_outline.moveTo(67, 197);
+        hair_path_outline.quadTo(57,168,53, 150);
+        hair_path_outline.quadTo(51,141,58,119);
+        hair_path_outline.quadTo(94, 77, 108, 71);
+        hair_path_outline.quadTo(155, 54, 189, 63);
+        hair_path_outline.quadTo(204, 66, 214, 71);
+        hair_path_outline.quadTo(243, 94, 260, 115);
+        hair_path_outline.quadTo(260, 114, 268, 136);
+        hair_path_outline.quadTo(266, 166, 261, 207);
+        g2d.setPaint(Color.BLACK);
+        g2d.draw(hair_path_outline);
+        // g2d.setPaint(hair_color);
+        // g2d.fill(hair_path);
 
     
         //Create Head
