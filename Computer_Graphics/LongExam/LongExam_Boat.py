@@ -5,7 +5,7 @@ image = Image.new('RGB', (600, 600), 'white')
 draw = ImageDraw.Draw(image)
 
 outline_color = 'black'
-width = 5
+width = 1
 
 #Draw Hull
 draw.line((100,350,150,450) , fill=outline_color, width=width)

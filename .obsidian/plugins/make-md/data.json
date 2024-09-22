@@ -44,9 +44,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Tags",
     "//Computer_Graphics/Computer_Graphics/Activities_Summative/Computer_Graphics/Activities_Summative/Java",
+    "Life and Works of Rizal",
+    "//Life and Works of Rizal Notes",
+    "/",
     "//Computer_Graphics"
   ],
   "expandFolderOnClick": true,
@@ -56,7 +57,9 @@
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "Life and Works of Rizal"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",

@@ -4,7 +4,7 @@ import java.awt.geom.*;
 public class Long_Exam_N3 extends Frame{
     public void paint(Graphics g){
         Graphics2D g2d = (Graphics2D) g;
-        BasicStroke bs = new BasicStroke(10.0f);
+        BasicStroke bs = new BasicStroke(1.0f);
         g2d.setStroke(bs);
       GeneralPath shirt = new GeneralPath();
         shirt.moveTo(100,250); 

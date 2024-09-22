@@ -21,6 +21,8 @@ public class Sebastian_Self_Portrait extends Frame{
         BasicStroke bs = new BasicStroke(5.0f);
         g2d.setStroke(bs);
         g2d.setFont(new Font("Arial", Font.BOLD, 25));
+
+        Color background_color = new Color(87, 92, 97);
         
         //Create neck
         Color neck_color = new Color(185,136,103);
@@ -86,6 +88,32 @@ public class Sebastian_Self_Portrait extends Frame{
         g2d.draw(sling_path);
         g2d.setPaint(sling_color);
         g2d.fill(sling_path);
+        
+        //Create Side burns 
+        Color sideburns_color = new Color(64,64,62);
+        GeneralPath sideburns_path = new GeneralPath();
+        //Left Sideburn
+        sideburns_path.moveTo(67, 197);
+        sideburns_path.lineTo(58,170);
+        sideburns_path.lineTo(76, 152);
+        sideburns_path.lineTo(77, 154);
+        sideburns_path.lineTo(75, 178);
+        sideburns_path.lineTo(67, 197);
+
+        //Right Sideburn
+        sideburns_path.moveTo(213, 135);
+        sideburns_path.lineTo(263, 176);
+        sideburns_path.lineTo(260,208);
+        sideburns_path.lineTo(245, 212);
+        sideburns_path.lineTo(244, 184);
+        sideburns_path.lineTo(214, 161);
+        sideburns_path.lineTo(213, 135);
+        g2d.setPaint(sideburns_color);
+        g2d.draw(sideburns_path);
+        g2d.setPaint(sideburns_color);
+        g2d.fill(sideburns_path);
+
+
     
         //Create Head
         Color head_color = new Color(233,171,155);
@@ -95,8 +123,38 @@ public class Sebastian_Self_Portrait extends Frame{
         head_path.quadTo(207, 348, 183, 351);
         head_path.quadTo(173,354, 157,353);
         head_path.quadTo(149, 351, 141, 349);
-        g2d.setPaint(Color.GREEN);
+        head_path.quadTo(116,330, 105,321);
+        head_path.quadTo(90, 302, 81, 274);
+        head_path.quadTo(70, 246, 69, 227);
+        head_path.lineTo(69, 214);
+        head_path.quadTo(68, 202, 68, 197);
+        head_path.quadTo(71, 185, 75, 179);
+        head_path.lineTo(77,154);
+        head_path.quadTo(78,149,81,144);
+        head_path.quadTo(87, 139, 97, 131);
+        head_path.quadTo(111, 128, 123, 123);
+        head_path.quadTo(143, 120, 158, 121);   
+        head_path.quadTo(172,124,192,129);
+        head_path.quadTo(201, 131, 212, 135);
+        head_path.lineTo(214, 159);
+        head_path.quadTo(229, 170, 244, 183);
+        head_path.quadTo(243, 196, 244, 204);
+        head_path.lineTo(245, 225);
+        head_path.quadTo(247,216,253,211);
+        head_path.quadTo(255,211,262,209);
+        head_path.quadTo(262,208,265, 209);
+        head_path.quadTo(270,213,273,219);
+        head_path.quadTo(274, 225, 273, 233);
+        head_path.quadTo(270,242,264,258);
+        head_path.quadTo(263,264,262,268);
+        head_path.quadTo(260, 270, 256, 272);   
+        head_path.quadTo(253, 272, 249, 270);
+        head_path.quadTo(249, 277, 247, 284);
+        head_path.quadTo(236, 307, 218, 331);
+        g2d.setPaint(Color.BLACK);
         g2d.draw(head_path);
+        g2d.setPaint(head_color);
+        g2d.fill(head_path);
 
         
     }

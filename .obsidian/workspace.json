@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "0ec79fcd95b58832",
+        "id": "bb7b40f936588ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "4899d57aca5cc5a2",
+            "id": "d8ee77421ccf8f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Formative and Summative Assessments.md",
+                "file": "Computer_Graphics/Project Notes .md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbe98bb9308cc666",
+            "id": "e7a9c61c9ce3bf65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Sebastian_Long_Exam .md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4052b56f29022813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Graphics/Formulas and Documentation.md",
+                "file": "Contemporary World/Contemporary world.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5004348754883
+    "width": 403.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Graphics/Sebastian_Long_Exam .md",
+                "file": "Computer_Graphics/Project Notes .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Graphics/Sebastian_Long_Exam .md",
+                "file": "Computer_Graphics/Project Notes .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Graphics/Sebastian_Long_Exam .md"
+                "file": "Computer_Graphics/Project Notes .md"
               }
             }
           }
@@ -180,47 +168,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbe98bb9308cc666",
+  "active": "d8ee77421ccf8f14",
   "lastOpenFiles": [
-    "Pasted image 20240919145957.png",
-    "code 7.png",
-    "code 6.png",
-    "code 5.png",
-    "Pasted image 20240919145534.png",
-    "code 4.png",
-    "Pasted image 20240919145139.png",
+    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+    "Computer Security and Information Assurance/Script notes .md",
+    "Contemporary World/Contemporary world.md",
+    "Life and Works of Rizal Notes/Life and Works of Rizal.md",
+    "Life and Works of Rizal Notes/Life and Works of Rizal Notes.md",
+    "Life and Works of Rizal Notes/Asynchronous 1.md",
+    "Computer Security and Information Assurance/Computer Security and Information Assurance.md",
+    "Contemporary World/Contemporary world Activity 1.md",
+    "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf",
+    "Data Analysis and Visualization/Data Analysis and Visualization.md",
+    "Computer Security and Information Assurance/Planning for Security.pdf",
+    "Computer_Graphics/Sebastian_Long_Exam .md",
+    "Computer_Graphics/Formulas and Documentation.md",
+    "Computer_Graphics/Formative and Summative Assessments.md",
+    "Media/Pasted image 20240919145957.png",
+    "Computer Security and Information Assurance",
+    "Media/Pasted image 20240918214958.png",
+    "Media/code 6.png",
+    "Media/code 7.png",
+    "Media/code 1.png",
+    "Computer_Graphics/LongExam/LongExam_Boat.png",
+    "Computer_Graphics/LongExam_Boat.png",
+    "Media/code 5.png",
+    "Media/Pasted image 20240919145534.png",
+    "Media/code 4.png",
     "Computer_Graphics/LongExam/Long_Exam_N3.class",
     "Computer_Graphics/LongExam/Long_Exam_N3.java",
-    "code 3.png",
-    "Pasted image 20240919144331.png",
     "Computer_Graphics/LongExam/LongExam_Boat.class",
-    "Pasted image 20240919143623.png",
-    "code 2.png",
     "Computer_Graphics/LongExam/LongExam_Boat.py",
     "Computer_Graphics/LongExam/LongExam_Boat.java",
     "Computer_Graphics/LongExam/LongExam.class",
-    "Computer_Graphics/Sebastian_Long_Exam .md",
-    "Untitled.md",
-    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
-    "Computer_Graphics/Formulas and Documentation.md",
-    "Computer_Graphics/Formative and Summative Assessments.md",
-    "Life and Works of Rizal/Life and Works of Rizal.md",
-    "Computer Security and Information Assurance.md",
     "Computer_Graphics/Project Notes .md",
     "Thesis II.md",
-    "Contemporary World/Contemporary world.md",
-    "Contemporary World/Contemporary world Activity 1.md",
     "README.md",
     "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-    "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf",
-    "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
-    "Data Analysis and Visualization/1-introducing_matplotlib.pdf",
-    "Tags",
     "Untitled 1.md",
     "blab.md",
     "Data Analysis and Visualization/Recommendations.md",
-    "Life and Works of Rizal/Asynchronous 1.md",
     "Other notes.md",
     "Compter Graphics/Computer Graphics and Multimedia Technology.md",
     "Compter Graphics/Formative and Summative Assessments.md",

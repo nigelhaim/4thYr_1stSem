@@ -268,7 +268,7 @@ https://www.cfr.org/global-conflict-tracker
 
 ### Classic Theoretical Approaches to Globalization 
 
-#### Realism
+#### Realism (Favorite theory ni sir)
 - Origins: Thucydides' History of the Peloponnesian War 
 - Focus on the state, Principal actors, Rational Actors, Unitary Actors 
 - IS is filled with anarchy: states are insecure, selfish, power seeking 
@@ -437,3 +437,25 @@ Trade has been around for as long as anyone can remember, and it brought more th
 - Can globalization still be fixed? 
 - Should a supranational entity exist in order to facilitate economic globalization? 
 - What are the everyday and easily identifiable effects of economic globalization? 
+
+## Module III: Global Interstate system & Global Government
+
+**In order to collaborate, we need to give up sovereignty**
+
+### Why do we need to have global government?
+- To control the nature of those states 
+- United nations 
+- League of nations (not effective)
+
+### United Nations 
+**Unity - Consensus - Compromise**
+Countries utilizes their global influence 
+- Economic and Social Council (ECOSOC)
+- Trusteeship Council 
+- International Court of Justice 
+- Security Council 
+- General Assembly 
+- Secretariat
+
+
+#### Sustainable Development Goals 

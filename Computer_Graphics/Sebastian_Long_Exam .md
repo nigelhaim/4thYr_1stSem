@@ -1,4 +1,4 @@
-### Submitted by: Nigel Haim N. Sebastian
+	### Submitted by: Nigel Haim N. Sebastian
 
 1. (20 points) Draw the given image below using the (a) basic geometric objects using python, (b) general path using  java and fill the object by magenta. Assume the following dimensions:  
 	- Start Point A(100, 250)  
@@ -42,7 +42,7 @@ HJ = 50, IJ = 100
 >[!Note]- Result
 >![[Pasted image 20240919144331.png]]
 
-3. (10 points) Determine the (a)  relative difference (Image 1 - image 2)  (b) symmetric difference of the objects in 1 & 2
+	1. (10 points) Determine the (a)  relative difference (Image 1 - image 2)  (b) symmetric difference of the objects in 1 & 2
 ## (a)  relative difference (Image 1 - image 2)
 ![[code 4.png]]
 >[!Note]- Result
