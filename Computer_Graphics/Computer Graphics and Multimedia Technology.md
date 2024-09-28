@@ -393,3 +393,5 @@ quadTo and curveTo append a quadratic and cubic curve, respectively, starting fr
 ### Differential Digital Analyzer (DDA)
 
 
+
+### Circle Generating Algorithm

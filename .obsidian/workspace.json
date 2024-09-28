@@ -11,16 +11,26 @@
             "id": "d8ee77421ccf8f14",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf"
+              }
+            }
+          },
+          {
+            "id": "e7a9c61c9ce3bf65",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md",
+                "file": "DOST Form.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7a9c61c9ce3bf65",
+            "id": "ca2a850700d71210",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5004348754883,
-    "collapsed": true
+    "width": 403.5004348754883
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md",
+                "file": "Contemporary World/Contemporary world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md",
+                "file": "Contemporary World/Contemporary world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md"
+                "file": "Contemporary World/Contemporary world.md"
               }
             }
           }
@@ -168,17 +178,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8ee77421ccf8f14",
+  "active": "ca2a850700d71210",
   "lastOpenFiles": [
-    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
-    "Computer Security and Information Assurance/Script notes .md",
+    "DOST Form.md",
+    "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf",
     "Contemporary World/Contemporary world.md",
-    "Life and Works of Rizal Notes/Life and Works of Rizal.md",
+    "Contemporary World/Contemporary world Activity 1.md",
+    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
+    "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
     "Life and Works of Rizal Notes/Life and Works of Rizal Notes.md",
+    "Thesis II.md",
+    "Life and Works of Rizal Notes/DOST Form.md",
+    "Life and Works of Rizal Notes/Life and Works of Rizal.md",
+    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+    "Computer_Graphics/Project Notes .md",
+    "Computer Security and Information Assurance/Script notes .md",
     "Life and Works of Rizal Notes/Asynchronous 1.md",
     "Computer Security and Information Assurance/Computer Security and Information Assurance.md",
-    "Contemporary World/Contemporary world Activity 1.md",
-    "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Computer Security and Information Assurance/Planning for Security.pdf",
     "Computer_Graphics/Sebastian_Long_Exam .md",
@@ -201,18 +217,13 @@
     "Computer_Graphics/LongExam/LongExam_Boat.py",
     "Computer_Graphics/LongExam/LongExam_Boat.java",
     "Computer_Graphics/LongExam/LongExam.class",
-    "Computer_Graphics/Project Notes .md",
-    "Thesis II.md",
     "README.md",
-    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-    "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
     "Untitled 1.md",
     "blab.md",
     "Data Analysis and Visualization/Recommendations.md",
     "Other notes.md",
     "Compter Graphics/Computer Graphics and Multimedia Technology.md",
     "Compter Graphics/Formative and Summative Assessments.md",
-    "Data Analysis and Visualization/ch-1.md",
-    "Thesis II/Thesis 2.md"
+    "Data Analysis and Visualization/ch-1.md"
   ]
 }

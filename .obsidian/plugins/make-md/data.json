@@ -46,9 +46,8 @@
   "expandedSpaces": [
     "//Computer_Graphics/Computer_Graphics/Activities_Summative/Computer_Graphics/Activities_Summative/Java",
     "Life and Works of Rizal",
-    "//Life and Works of Rizal Notes",
     "/",
-    "//Computer_Graphics"
+    "//Contemporary World"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -58,7 +57,9 @@
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
   "hiddenFiles": [
-    "Life and Works of Rizal"
+    "Life and Works of Rizal",
+    "Life and Works of Rizal Notes/DOST Form.md",
+    "Life and Works of Rizal Notes"
   ],
   "hiddenExtensions": [
     ".mdb",

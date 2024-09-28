@@ -359,3 +359,29 @@ The sorrows in his family also contributed for Rizal to strengthen his character
 - **50 Kilometers** - Doña Teodora was made to walk from Calamba to the provincial prison in Santa Cruz
 - **Don Francisco de marcaida and Don Manuel. Marzan** - Most famous lawyers of Manila, defended Doña Teodora in court 
 - After 2 and half years in the Royal Audencia acquitted Doña Teodora  
+
+## Binan to Intramuros 
+
+"Rizal's quest for knowledge: Manila to Madrid"
+
+Ateneo de Manila University to UST 
+
+Python and MatplotLib 
+
+### Rizal Holding a Book 
+- Rizal's Learning Journey 
+- Accumulated of Knowledge 
+- Book's strong influence on his life 
+
+### Ateneneo Municipal De Manila 
+- Riza's father decided to send him to AdMU
+- Wasn't admitted to AdMU
+- Sickly and Undersized
+- With the help of Manuel Serez 
+- Exeled as a student
+- Most brilliant
+- Emperor of his empire 
+- Cartolinian empire 
+- Count of Monte Cristo Alexadre Dumas
+- Bachelor of arts with the highest honors
+- 

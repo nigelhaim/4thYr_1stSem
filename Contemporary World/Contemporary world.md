@@ -459,3 +459,11 @@ Countries utilizes their global influence
 
 
 #### Sustainable Development Goals 
+
+
+## Security Council 
+Despite of winning of cases why do we still do not enforce these laws 
+### General Assembly
+- votes on matters wit ha simple majority 
+- Most countries are part of European countries
+- 
