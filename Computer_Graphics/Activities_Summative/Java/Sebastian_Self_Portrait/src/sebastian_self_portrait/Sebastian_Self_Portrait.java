@@ -188,7 +188,101 @@ public class Sebastian_Self_Portrait extends Frame{
         g2d.setPaint(head_color);
         g2d.fill(head_path);
 
-        
+        BasicStroke bs_nose = new BasicStroke(3.0f);
+        g2d.setStroke(bs_nose);
+        //Create Nose 
+        Color nose_color = new Color(168,110,90);
+        QuadCurve2D.Double nose_path_left = new QuadCurve2D.Double(177, 254, 176,260, 160, 263);
+        g2d.setPaint(nose_color);
+        g2d.draw(nose_path_left);
+
+        QuadCurve2D.Double hole_path_left = new QuadCurve2D.Double(129, 261, 138,261, 139, 262);
+        g2d.setPaint(nose_color);
+        g2d.draw(hole_path_left);
+
+        QuadCurve2D.Double nose_path_right = new QuadCurve2D.Double(121, 260, 124,266, 131, 267);
+        g2d.setPaint(nose_color);
+        g2d.draw(nose_path_right);
+
+        QuadCurve2D.Double hole_path_right = new QuadCurve2D.Double(160, 258, 162,256, 166, 257);
+        g2d.setPaint(nose_color);
+        g2d.draw(hole_path_right);
+
+        BasicStroke bs_reg = new BasicStroke(5.0f);
+        g2d.setStroke(bs_reg);
+
+        //Create Eyeglasses
+        Color eyeglasses_color = new Color(251,232,209);
+        GeneralPath eyeglasses_path = new GeneralPath();
+        eyeglasses_path.moveTo(256, 210);
+        eyeglasses_path.quadTo(247, 207, 233, 206);
+        eyeglasses_path.lineTo(217,206);
+        eyeglasses_path.quadTo(210, 198, 201, 194);
+        eyeglasses_path.lineTo(176, 194);
+        eyeglasses_path.quadTo(157, 200, 152, 210);
+        eyeglasses_path.quadTo(139,209,129,212);
+        eyeglasses_path.quadTo(124, 206, 112, 202);
+        eyeglasses_path.lineTo(91,202);
+        eyeglasses_path.quadTo(76, 207, 70, 215);
+        eyeglasses_path.lineTo(70, 227);
+        eyeglasses_path.quadTo(74, 255, 94, 258);
+        eyeglasses_path.quadTo(103, 259, 113, 258); 
+        eyeglasses_path.quadTo(124, 252, 130, 246); 
+        eyeglasses_path.quadTo(131,242,133,231);
+        eyeglasses_path.lineTo(133, 216);
+        eyeglasses_path.quadTo(143, 213, 151, 214);
+        eyeglasses_path.quadTo(157, 246, 177, 250);
+        eyeglasses_path.quadTo(183,251,191,250);
+        eyeglasses_path.quadTo(213, 242, 215, 231);
+        eyeglasses_path.quadTo(216, 223, 216, 210); 
+        eyeglasses_path.lineTo(256, 210);
+        g2d.setPaint(Color.BLACK);
+        g2d.draw(eyeglasses_path);
+        g2d.setPaint(eyeglasses_color);
+        g2d.fill(eyeglasses_path);
+
+        Color glasses_color = new Color(77,60,54);  
+        GeneralPath glasses_path = new GeneralPath();
+        //left side
+        glasses_path.moveTo(91, 207);   
+        glasses_path.lineTo(111,205);
+        glasses_path.quadTo(123,209,129,216);
+        glasses_path.lineTo(129, 229);
+        glasses_path.quadTo(129, 238, 126, 245);
+        glasses_path.quadTo(120, 251, 112, 253);
+        glasses_path.quadTo(102, 256, 94, 253);
+        glasses_path.quadTo(79, 246, 76, 234);
+        glasses_path.quadTo(72, 222, 76, 215);
+        glasses_path.quadTo(80, 207, 91, 207);
+
+        //right side 
+        glasses_path.moveTo(178, 199);
+        glasses_path.lineTo(200, 197);
+        glasses_path.quadTo(207, 199, 212, 208);
+        glasses_path.lineTo(212, 220);
+        glasses_path.quadTo(211, 240, 191, 245);   
+        glasses_path.quadTo(188, 247, 177, 245);
+        glasses_path.quadTo(184, 247, 177, 245);
+        glasses_path.quadTo(160,238,157,224);
+        glasses_path.quadTo(155, 214, 157, 224);
+        glasses_path.quadTo(157, 214, 157, 209);    
+        glasses_path.quadTo(166,199,178,199);
+
+        g2d.setPaint(Color.BLACK);
+        g2d.draw(glasses_path);
+        g2d.setPaint(glasses_color);
+        g2d.fill(glasses_path);
+
+        GeneralPath lips_path = new GeneralPath();
+        lips_path.moveTo(192,286);
+        lips_path.quadTo(149, 310, 126, 291);
+        lips_path.lineTo(192, 286);
+        g2d.setPaint(Color.BLACK);
+        g2d.draw(lips_path);
+        g2d.setPaint(Color.WHITE);
+        g2d.fill(lips_path);
+
+    
     }
     public static void main(String[] args) {
         Color backgrond_color = new Color(87, 92, 97); 

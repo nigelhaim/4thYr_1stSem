@@ -1,4 +1,4 @@
-## Introduction to Globalization 
+	## Introduction to Globalization 
 
 ## Globalization I - The Upside: Crash Course World History A. The effects of globalization
 

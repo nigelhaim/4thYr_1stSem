@@ -33,11 +33,9 @@
             "id": "ca2a850700d71210",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Contemporary World/Contemporary world.md",
-                "mode": "source",
-                "source": false
+                "file": "[THESIS PROPOSAL] - Chapters 1-3.pdf"
               }
             }
           }
@@ -101,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5004348754883
+    "width": 403.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contemporary World/Contemporary world.md",
+                "file": "[THESIS PROPOSAL] - Chapters 1-3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contemporary World/Contemporary world.md",
+                "file": "[THESIS PROPOSAL] - Chapters 1-3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contemporary World/Contemporary world.md"
+                "file": "[THESIS PROPOSAL] - Chapters 1-3.pdf"
               }
             }
           }
@@ -178,11 +177,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca2a850700d71210",
+  "floating": {
+    "id": "55f46fa831b9b965",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5a3a60b830fff6df",
+        "type": "window",
+        "children": [
+          {
+            "id": "abd972a5fce68a5b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6c8435480fa80992",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "[THESIS PROPOSAL] - Chapters 1-3.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 953,
+        "y": 0,
+        "width": 974,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "6c8435480fa80992",
   "lastOpenFiles": [
+    "Contemporary World/Contemporary world.md",
+    "[THESIS PROPOSAL] - Chapters 1-3.pdf",
     "DOST Form.md",
     "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf",
-    "Contemporary World/Contemporary world.md",
     "Contemporary World/Contemporary world Activity 1.md",
     "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
     "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
@@ -216,7 +251,6 @@
     "Computer_Graphics/LongExam/LongExam_Boat.class",
     "Computer_Graphics/LongExam/LongExam_Boat.py",
     "Computer_Graphics/LongExam/LongExam_Boat.java",
-    "Computer_Graphics/LongExam/LongExam.class",
     "README.md",
     "Untitled 1.md",
     "blab.md",
