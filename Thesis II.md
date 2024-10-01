@@ -794,3 +794,17 @@ for case in predictions:
 
     # break
 ```
+
+
+
+Nigel vit notes 
+- whole /dataset/ folder committed 
+- did not use fitter class 
+- outputs too length 
+- might be better to use log files 
+	- no headers 
+- no config dict 
+- workspace not in conjunction with set up workspace
+
+merge conflict for some reasonn
+d_model = 256

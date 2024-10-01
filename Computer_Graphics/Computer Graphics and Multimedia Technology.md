@@ -381,17 +381,86 @@ quadTo and curveTo append a quadratic and cubic curve, respectively, starting fr
 - Square image data description
 - Pixel Position and Numbering 
 
-### Straight Line 
-**Criterion**
-	- Line should appear straight
-	- Line should terminate accurately
-	- Line should have constant density
-	- Line density should be independent of length and angle 
-	- Line should be drawn rapidly
-	-
+### Straight Line Criterion of Line Drawing 
+- Line should appear straight. 
+- Line should terminate accurately. 
+- Line should have constant density. 
+- Line density should be independent of length and angle. 
+- Line should be drawn rapidly
 
-### Differential Digital Analyzer (DDA)
+### Line Drawing Algorithms 
+**Various Forms of Line Equation**
 
+$$y=\frac{y_2-y_1}{x_2-x_1}(x-y_1)+y_1$$
+
+$$y=mx+c$$
+$$m=\frac{y_2-y_1}{x_2-x_1}=\frac{\Delta y}{\Delta x}$$
+
+>[!Note]- $y=mx+c$
+>![[Pasted image 20241001104028.png]]
+
+### Differential Digital Analyzer (DDA) Algorithm 
+- For m < 1, $\Delta x = 1$ is kept and successive y is calculated as $y_{k+1}=y_k+m$. 
+- For m > 1, the role of x and y are reversed and each succeeding x values can be calculated as $x_{k+1}=x_k+\frac{1}{m}$
+- $y_k + 1 = y_k – m$ and $x_k + 1 = x_k – \frac{1}{m}$
+- Selection of $y_p$ or $yp+1$ against $xp+1$ is a crucial one. 
+- That is whether to plot point as ($x_p+1$, $y_p$ ) or ($x_p+1$, $y_p+1$). 
+- This is decided mathematically by the distance
+
+### Bresenham's Line Algorithm 
+
+$y=m(x_p+1)+c$
+Then 
+$s_1=(y-y_p)=m(x_p+1)+c-y_p$
+$s_2=(y_p+1)-y=y_p+1-m(x_p+1)-c$
+
+Now 
+$s_1-s_2=2m(x_p+1)-2y_p+2c-1$
+$s_1-s_2=2\frac{\Delta y}{\Delta x}(x_p+1)-2y_p+2c-1$
+
+or 
+
+$\Delta x (s_1-s_2)=2\Delta y x_p - 2y_p \Delta x + 2 \Delta y + \Delta x (2c-1)$
+Let $r_p=\Delta x (s_1-s_2)$
+
+So, 
+
+$r_p = 2 \Delta y x_p - 2y_p \Delta x +2 \Delta y + \Delta x (2c-1)$
+Let $f=2\Delta y + \Delta x (2c-1)$
+	$r_p=2\Delta y x_p - 2y_p \Delta x +f$
+
+Δx > 0 and f is constant, the sign of the decision parameter is same as ($s_1 – s_2$)
+
+Based on the discussion, the computer program for line drawing may be developed with the following steps, for slope | m | < 1. 
+- Declare variables 
+- Input the end points, and load the starting point to frame buffer i.e. plot on the screen 
+- Calculate constants Δx, Δy, 2 Δy and 2 Δy – Δx, and calculate the starting value for the decision parameter as 
+- $r_0 = 2 \Delta y – \Delta x$
+- At each r p along the line, starting at p = 0, test if $r_p < 0$, the next point plot is ($x_p+1, y_p$), else the next point is ($x_p + 1, y_p + 1$) and 
+- $r_{p + 1} = r_{p} + 2 \Delta y – 2\Delta x(y_{p+1} - y_p )$
+- Repeat the above step till it reaches the end point.
 
 
 ### Circle Generating Algorithm
+
+**Circle representation**
+$x=x_c+Rcos\Theta$
+$y=y_c + R sin\Theta$
+
+$(x-x_c)^2+(y-y_c)^2=R^2$
+
+$y=y_c+\sqrt{R^2-(x-x_c)^2}$
+$x=x_c+\sqrt{R^2-(y-y_c)^2}$
+
+### Midpoint Circle Algorithm 
+- Declare variables type 
+- Input radius r and the centre of the circle $(x_o , y_o )$, and plot the first point (0, r) 
+- Calculate the initial decision parameter
+- $r_0=\frac{5}{4}-r$
+- For each position thereafter starting at p = 0, check if $r_p < 0$, if so then next point will be $(x^p + 1, y_p)$ else $(x_p + 1, y_p – 1)$.
+
+
+Calculate next decision parameter $r_{p+1} = r_p + 2x_{p+1} + 1$ if r p < 0 else $r_{p+1} = r_p + 2x_{p+1} – 2y_{p+1} + 1$, where $x_{P+1} = x_p + 1$ and $y_{P+1} = y_p – 1$ 
+- Plot all the symmetrical points in the remaining seven octants 
+- Move the points relative to the centre $(x_c , y_c )$ by adding $x_c$ and $y_c$ to the calculated x and y. 
+- Repeat the above 3 steps till x ≥ y. And plot the points based on the decision rp
