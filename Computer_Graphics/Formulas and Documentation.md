@@ -601,3 +601,56 @@ public void exclusiveOr(Area rhs)
  ####                             ####     ####        ####
  ##                                 ##     ##            ##
 ```
+
+
+## Diagonal lines
+
+$$y=mx+c$$
+
+#### Super Important 
+$$m=\frac{y_2-y_1}{x_2-x_1}=\frac{\Delta y}{\Delta x}$$
+
+$$\Delta y = y_2-y_1$$
+$$\Delta x= x_2-x_1$$
+### Differential Digital Analyzer
+
+$$y=\frac{y_2-y_1}{x_2-x_1}(x-y_1)+y_1$$
+
+>[!Note]- Cases 
+>| m | < 1 = $(x_{k+1}+1,y_{k+1}+m)$
+>| m | > 1 = $(x_{k+1}+, y_{k+1}+1)$
+
+### Breseenham's Line Algorithm 
+
+#### | m | $>$ 1 
+
+$r_p<0 = (x_p+1,y_p)$ : $r_{p+1}=r_p+2\Delta y$
+$r_p\geq 0= (x_p+1,y_p+1) : r_{p+1}=r_p+2 \Delta y - 2 \Delta x$
+$r_0=2 \Delta y-\Delta x$
+
+
+#### | m | $\geq$ 1 
+
+$r_p<0= (x_p, y_p+1) : r_{p+1}=r_p+2 \Delta x$
+$r_p\geq=(x_p+1,y_p+1):r_{p+1}=r_p+2\Delta x- \Delta y$
+$r_0=2\Delta x - \Delta  y$
+
+
+## Circle
+
+### Circle drawing algorithm 
+**When using $cos(d\theta) \; and \;sin(d\theta)\text{ use  Radians in SHEETS OR EXCEL}$**
+
+$d\theta = \frac{45\degree}{r}$
+
+$x_1 = r * cos(d\theta)$
+$y_1 = r * sin(d\theta)$
+
+$x_{p+1} = x_{p_1} * Cos(d\theta)) - y_{p-1} * sin(d\theta))$
+$y_{p+1}=y_{p-1}*Cos(d\theta)-x_{p-1}*Sin(d\theta)$
+
+### Mid-Point algorithm 
+$r_p<0=(x_p+1,y_p) : r_{p+1}=r_p+2x_{p+1}+1$
+$r_p\geq0=(x_p+1,y_p+1):r_{p+1}=r_p+2x_{p+1}-2y_{p+1}+1$
+$r_0=\frac{5}{4}-r$
+

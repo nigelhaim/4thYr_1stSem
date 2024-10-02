@@ -6,9 +6,29 @@
       {
         "id": "bb7b40f936588ea4",
         "type": "tabs",
+        "dimension": 82.94970161977835,
         "children": [
           {
             "id": "ca2a850700d71210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Graphics/Formulas and Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7329195d40808e41",
+        "type": "tabs",
+        "dimension": 17.050298380221655,
+        "children": [
+          {
+            "id": "ae3c54e0fe60ccb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+                "file": "Computer_Graphics/Formulas and Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+                "file": "Computer_Graphics/Formulas and Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Graphics/Computer Graphics and Multimedia Technology.md"
+                "file": "Computer_Graphics/Formulas and Documentation.md"
               }
             }
           }
@@ -158,6 +178,9 @@
   },
   "active": "ca2a850700d71210",
   "lastOpenFiles": [
+    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+    "Computer_Graphics/Formulas and Documentation.md",
+    "Computer_Graphics/Formative and Summative Assessments.md",
     "Pasted image 20241001104028.png",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Thesis II.md",
@@ -180,14 +203,11 @@
     "Life and Works of Rizal Notes/Life and Works of Rizal Notes.md",
     "Life and Works of Rizal Notes/DOST Form.md",
     "Life and Works of Rizal Notes/Life and Works of Rizal.md",
-    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
     "Computer Security and Information Assurance/Script notes .md",
     "Life and Works of Rizal Notes/Asynchronous 1.md",
     "Computer Security and Information Assurance/Computer Security and Information Assurance.md",
     "Computer Security and Information Assurance/Planning for Security.pdf",
     "Computer_Graphics/Sebastian_Long_Exam .md",
-    "Computer_Graphics/Formulas and Documentation.md",
-    "Computer_Graphics/Formative and Summative Assessments.md",
     "Media/Pasted image 20240919145957.png",
     "Computer Security and Information Assurance",
     "Media/Pasted image 20240918214958.png",
@@ -198,7 +218,6 @@
     "Computer_Graphics/LongExam_Boat.png",
     "Media/code 5.png",
     "Media/Pasted image 20240919145534.png",
-    "Media/code 4.png",
     "Computer_Graphics/LongExam/Long_Exam_N3.class",
     "Computer_Graphics/LongExam/Long_Exam_N3.java",
     "Computer_Graphics/LongExam/LongExam_Boat.class",
