@@ -43,12 +43,7 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedSpaces": [
-    "//Computer_Graphics/Computer_Graphics/Activities_Summative/Computer_Graphics/Activities_Summative/Java",
-    "Life and Works of Rizal",
-    "/",
-    "//Computer_Graphics"
-  ],
+  "expandedSpaces": [],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -56,11 +51,7 @@
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [
-    "Life and Works of Rizal",
-    "Life and Works of Rizal Notes/DOST Form.md",
-    "Life and Works of Rizal Notes"
-  ],
+  "hiddenFiles": [],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
@@ -69,7 +60,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
