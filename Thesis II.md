@@ -808,3 +808,354 @@ Nigel vit notes
 
 merge conflict for some reasonn
 d_model = 256
+
+
+
+```python
+class ViTFitter(Fitter):
+
+    def train_one_epoch(self, train_loader):
+
+        self.model.train()
+
+        loss_history = []
+
+        box_count = 0
+
+        epoch_loss = 0
+
+        for case in train_loader:
+
+            if torch.unique(case[1]).numel() > 1:
+
+                num_slices= len(case[1]) # Number of slices
+
+                case_number = re.search(r'sub-(\d+)', case[2][0]).group(1) # Extract the case number
+
+                # print(f'Case: {case_number}')
+
+                logger.info(f'Training with Case: {case_number}')
+
+                if num_slices != len(case[0]):
+
+
+                    logger.error(f'Not equal Number of slices: {num_slices} MRI: {len(case[0])} Mask: {len(data[1])}')
+
+                    break
+
+                for j in range(num_slices):
+
+                    bounding_boxes = dataset.extract_bounding_boxes(case[1][j][0].numpy())
+                    cropped_images = []
+
+                    cropped_labels = []
+
+                    coordinates = []
+
+                    if len(bounding_boxes) <= 0: 
+                        logger.warning(f'No bounding boxes found on slice {j}')
+                        continue
+                    box_count += len(bounding_boxes)
+
+                    for bbox in bounding_boxes:
+                        logger.info(f'Slice {j} | {bbox}')
+                        logger.info(f'Image shape: {case[0][j][0].shape}')
+                        cropped_images.append(
+                            dataset.get_cropped_locations(
+                                img = case[0],
+                                x_min=bbox[0],
+                                y_min=bbox[1],
+                                x_max=bbox[2],
+                                y_max=bbox[3]
+                            ))
+
+                        cropped_labels.append(
+
+                            dataset.get_cropped_locations(
+
+                                img = case[1],
+
+                                x_min=bbox[0],
+
+                                y_min=bbox[1],
+
+                                x_max=bbox[2],
+
+                                y_max=bbox[3]
+
+                            ))
+
+                        coordinates.append(bbox)
+
+                    if len(cropped_images[0][0][0]) != len(cropped_labels[0][0]): ## Checks if the number of cropped images and labels are the same
+
+                        print('Not equal cropped images and labels')
+
+                        logger.error(f'Not equal cropped images and labels')    
+
+                        break
+
+  
+
+                        # TODO: Improve this method since the method requires all the slices therefore it is needed to have another loop that checks if the extracted region has a cmb or not before feeding it into the model
+
+                    # print('Cropped Images length:', len(cropped_images))
+
+                    # print('Cropped Labels length:', len(cropped_labels))
+
+                    # print('Cropped Images number of slices:', len(cropped_images[0][0][0])) # This is the MRI image of the CMB with the coordinate
+
+                    # print('Cropped Labels number of slices:', len(cropped_labels[0][0])) # This is the mask of the CMB with the coordinate
+
+                    logger.info(f'Cropped Images length: {len(cropped_images)}')
+
+                    logger.info(f'Cropped Labels length: {len(cropped_labels)}')
+
+                    logger.info(f'Cropped Images number of slices: {len(cropped_images[0][0][0])}')
+
+                    logger.info(f'Cropped Labels number of slices: {len(cropped_labels[0][0])}')
+
+                    for k, cmb in enumerate(cropped_labels[0]): # Access the CMB labels array the n checks if there are CMBs on the slice of the case
+
+                         for l, cmb_slice in enumerate(cmb):
+
+                            # print(cmb_slice.shape)
+
+                            if torch.unique(cmb_slice).numel() > 1:
+
+                                # print('Multiple classes found on silce: ', l)
+
+                                # print(cmb_slice.shape)
+
+                                # print(cropped_images[0][0][0][l].shape)
+
+                                logger.info(f'Multiple classes found on slice: {l}')
+
+                                logger.info(f'Mask shape: {cmb_slice.shape}')
+
+                                logger.info(f'Image shape: {cropped_images[0][0][0][l].shape}')
+
+                                # Enable ths method to visually see what is feeded on the model
+
+                                # print_image(cropped_images[0][0][0][l], f'MRI Case {case_number} Slice {l} CMB coordinates {coordinates[k]}')
+
+                                # print_image(cmb_slice, f'Mask Case {case_number} Slice {l} CMB coordinates {coordinates[k]}')
+
+                                # print(f'Learning on Case {case_number} Slice {l} CMB coordinates {coordinates[k]}')
+
+                                logger.info(f'MRI Case {case_number} Slice {l} CMB coordinates {coordinates[k]}')
+
+                                logger.info(f'Mask Case {case_number} Slice {l} CMB coordinates {coordinates[k]}')
+
+                                logger.info(f'Learning on Case {case_number} Slice {l} CMB coordinates {coordinates[k]}')
+
+                                self.optimizer.zero_grad()
+
+                                inputs = cropped_images[0][0][0][l].unsqueeze(0).unsqueeze(0).to(device)
+
+                                labels = cropped_labels[0][0][l].unsqueeze(0).to(device)
+
+                                # print("Feeded inputs shape: ",inputs.shape)
+
+                                # print("Feeded mask shape: ",labels.shape)
+
+                                logger.info(f'Feeded inputs shape: {inputs.shape}')
+
+                                logger.info(f'Feeded mask shape: {labels.shape}')
+
+                                outputs = self.model.forward(inputs.float(), labels.float())
+
+                                loss = criterion(outputs, labels.long())  
+
+                                # print("Output shape: ",outputs.shape)
+
+                                logger.info(f'Output shape: {outputs.shape}')
+
+                                loss.backward()
+
+                                self.optimizer.step()
+
+                                # loss_history.append(loss.item())
+
+                                epoch_loss += loss.item()
+
+                                logger.info(f'Loss: {loss.item()}')
+
+                print("Training Loss: ", loss_history) # Prints the last loss of the epoch
+
+                print("[Training] | CPU Usage: ", psutil.cpu_percent(), '%') # Prints the CPU usage
+
+                print("[Training] | Memory Usage: ", psutil.virtual_memory().percent, '%') # Prints the memory usage
+
+                print("[Training] | GPU Usage: ") # Prints the GPU usage
+
+                monitor_gpu()
+
+            else:
+
+                # print('Skipping case with no CMBs')
+
+                logger.warning('Skipping case with no CMBs')
+
+                continue
+
+        loss_history.append(epoch_loss/box_count)
+
+        return loss_history
+
+    def validation(self, val_loader):
+
+        def predict(model, image, mask):
+
+            model.eval()
+
+            with torch.no_grad():
+
+                image = image.to(device)
+
+                output = self.model.forward(images = image, mask = mask)
+
+                output = F.interpolate(output, size=img_size, mode='bilinear', align_corners=False)
+
+                prediction = torch.argmax(output, dim=1)
+
+            return prediction.cpu().numpy()
+
+        loss_history = []
+
+        with torch.no_grad():
+
+            box_count = 0
+
+            epoch_loss = 0
+
+            for val_batch in val_loader:
+
+                num_slices = len(val_batch[1])#Number of slces
+
+                one_case = []#This is where we store every slice of the case
+
+                case_number = re.search(r'sub-(\d+)', val_batch[2][0]).group(1) # Extract the case number
+
+                one_case.append(case_number)
+
+  
+
+                # print(f'Validation with Case: {case_number}')
+
+                logger.info(f'Validation with Case: {case_number}')
+
+                if num_slices != len(val_batch[0]):
+
+                    # print('Not equal Number of slices:', num_slices, val_batch[0])#Checks if the number of slices of the MRI and the mask are the same
+
+                    logger.error(f'Not equal Number of slices: {num_slices} MRI: {len(val_batch[0])} Mask: {len(val_batch[1])}')
+
+                    break
+
+                for j in range(num_slices):
+
+                    bounding_boxes = dataset.extract_bounding_boxes(val_batch[1][j][0].numpy())#Extracts all the bounding boxes of the slice
+
+                    cropped_images = []
+
+                    cropped_labels = []
+
+                    coordinates = []
+
+                    if len(bounding_boxes) > 0: # If there are no bounding boxes then it will skip the slice
+
+                        # print('No bounding boxes found on slice ', j)
+
+                        logger.warning(f'No bounding boxes found on slice {j}')
+
+                        box_count += len(bounding_boxes)
+
+                        for bbox in bounding_boxes: #For each bounding box it will crop the image and the label based on the given
+
+                            # print(f"Slice {j} | ", bbox)
+
+                            logger.info(f'Slice {j} | {bbox}')
+
+                            # print(val_batch[0][j][0].shape)
+
+                            cropped_images.append(
+
+                                dataset.get_cropped_locations(
+
+                                    img = val_batch[0],
+
+                                    x_min=bbox[0],
+
+                                    y_min=bbox[1],
+
+                                    x_max=bbox[2],
+
+                                    y_max=bbox[3]
+
+                                ))
+
+                            cropped_labels.append(
+
+                                dataset.get_cropped_locations(
+
+                                    img = val_batch[1],
+
+                                    x_min=bbox[0],
+
+                                    y_min=bbox[1],
+
+                                    x_max=bbox[2],
+
+                                    y_max=bbox[3]
+
+                                ))
+
+                            coordinates.append(bbox)
+
+                        if len(cropped_images[0][0][0]) != len(cropped_labels[0][0]):## Checks if the number of cropped images and labels are the same
+
+                            # print('Not equal cropped images and labels')
+
+                            logger.error(f'Not equal cropped images and labels')
+
+                            break
+
+                        # TODO: Improve this method since the method requires all the slices therefore it is needed to have another loop that checks if the extracted region has a cmb or not before feeding it into the model
+
+                        for k, cmb in enumerate(cropped_labels[0]):# Access the CMB labels array the n checks if there are CMBs on the slice of the case
+
+                            for l, cmb_slice in enumerate(cmb):
+
+                                if torch.unique(cmb_slice).numel() > 1:
+
+                                    # print(f'Predicting on Case {case_number} Slice {l} CMB coordinates {coordinates[k]}')
+
+                                    logger.info(f'Predicting on Case {case_number} Slice {l} CMB coordinates {coordinates[k]}')
+
+                                    inputs = cropped_images[0][0][0][l].unsqueeze(0).unsqueeze(0).to(device)
+
+                                    labels = cropped_labels[0][0][l].unsqueeze(0).to(device)
+
+                                    predicted_mask = predict(self.model, image = inputs.float(), mask = labels.float().to(device))
+
+                                    predicted_mask = torch.tensor(predicted_mask).to(device)
+
+                                    loss = criterion(predicted_mask.float(), labels.float())
+
+                                    # loss_history.append(loss.item())
+
+                                    epoch_loss += loss.item()
+
+            print("[Validating] | CPU Usage: ", psutil.cpu_percent(), '%') # Prints the CPU usage
+
+            print("[Validating] | Memory Usage: ", psutil.virtual_memory().percent, '%') # Prints the memory usage
+
+            print("[Validating] | GPU Usage: ") # Prints the GPU usage
+
+            monitor_gpu()
+
+            loss_history.append(epoch_loss/box_count)
+
+            return loss_history
+```
