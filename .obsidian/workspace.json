@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c7045e28d22968b",
+            "id": "45d1723546117eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Formulas and Documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a80c48869eeddfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bc649fbeef0c0c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Graphics/Formative and Summative Assessments.md",
+                "file": "Data_Analysis_and_Visualization/Project Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5004348754883,
+    "width": 557.5086555480957,
     "collapsed": true
   },
   "right": {
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+                "file": "Data_Analysis_and_Visualization/Project Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+                "file": "Data_Analysis_and_Visualization/Project Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Graphics/Computer Graphics and Multimedia Technology.md"
+                "file": "Data_Analysis_and_Visualization/Project Notes.md"
               }
             }
           }
@@ -180,24 +155,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a80c48869eeddfa",
+  "active": "45d1723546117eb6",
   "lastOpenFiles": [
+    "Data_Analysis_and_Visualization/data.csv",
+    "Data_Analysis_and_Visualization/OnlineRetail.csv",
+    "Data_Analysis_and_Visualization/Prelim.ipynb",
+    "Data_Analysis_and_Visualization/prelimdump/prelim.ipynb",
+    "Data_Analysis_and_Visualization/prelimdump",
+    "Data_Analysis_and_Visualization/prelim.ipynb",
+    "Data_Analysis_and_Visualization/Assignment 4_Clustering Results Reporting.ipynb",
+    "Data_Analysis_and_Visualization/Datasets/OnlineRetail.csv",
+    "Data Analysis and Visualization/Lessons_PDF/Assessments/vertopal.com_FAO Analysis.pdf",
+    "Data_Analysis_and_Visualization/Lessons_PDF/Module_1/Data_Wrangling/vertopal.com_5-handling_data_issues.pdf",
+    "Data_Analysis_and_Visualization/Lessons_PDF/Module_1/Data_Wrangling/vertopal.com_4-reshaping_data.pdf",
+    "Data_Analysis_and_Visualization/Ipynb/total_production_per_year_choropleth.gif",
+    "Data_Analysis_and_Visualization/Recommendations.md",
+    "Data_Analysis_and_Visualization/Project Notes.md",
+    "Data_Analysis_and_Visualization/Data Analysis and Visualization.md",
+    "Data Analysis and Visualization/Data Analysis and Visualization.md",
+    "Data Analysis and Visualization/Project Notes.md",
     "Computer_Graphics/Formative and Summative Assessments.md",
     "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
     "Computer_Graphics/Formulas and Documentation.md",
-    "Computer_Graphics/Formula Paper.pdf",
     "Computer_Graphics/Sebastian_Long_Exam .md",
     "Computer_Graphics/Project Notes .md",
-    "Data Analysis and Visualization/Data Analysis and Visualization.md",
-    "Data Analysis and Visualization/Lessons_Ipynb/1-introducing_matplotlib (1).ipynb",
-    "Data Analysis and Visualization/Lessons_Ipynb/2-plotting_with_pandas.ipynb",
-    "Data Analysis and Visualization/Lessons_PDF/Module_0/vertopal.com_2-plotting_with_pandas.pdf",
-    "Data Analysis and Visualization/Lessons_PDF/Module_0/vertopal.com_1-introducing_matplotlib (1).pdf",
-    "Data Analysis and Visualization/Lessons_PDF/Module_0/1_Data Viz and Storytelling_SANITIZED-1.pdf",
-    "Data Analysis and Visualization/Lessons_PDF/Module_0",
-    "Data Analysis and Visualization/Lessons_PDF/New folder",
-    "Data Analysis and Visualization/Lessons_PDF",
-    "Data Analysis and Visualization/New folder",
     "Thesis II.md",
     "Life and Works of Rizal Notes/Life and Works of Rizal.md",
     "Computer_Graphics/LongExam_Boat.png",
@@ -218,14 +199,9 @@
     "Pasted image 20241001104028.png",
     "DOST Form.md",
     "Life and Works of Rizal Notes.md",
-    "//Life and Works of Rizal Notes.md",
-    "Contemporary World/Contemporary world Activity 1.md",
-    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-    "Life and Works of Rizal Notes/Life and Works of Rizal Notes.md",
     "Media/Pasted image 20240919145957.png",
     "Media/Pasted image 20240918214958.png",
     "Media/code 6.png",
-    "Media/code 7.png",
-    "Media/code 1.png"
+    "Media/code 7.png"
   ]
 }

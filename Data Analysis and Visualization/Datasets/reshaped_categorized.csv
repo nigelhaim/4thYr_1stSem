@@ -1,6 +1,0 @@
-Employee_ID,Name,Age,Department_ID,Department_Name,Location,Age_Group
-101,Alice,30,D001,Sales,New York,Young
-102,Bob,35,D002,Marketing,London,Mid-aged
-103,Charlie,28,D001,Sales,New York,Young
-104,David,40,D003,IT,San Francisco,Mid-aged
-105,Eve,45,D004,HR,Singapore,Mid-aged
