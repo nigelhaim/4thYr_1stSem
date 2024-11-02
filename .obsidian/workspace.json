@@ -13,13 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Analysis_and_Visualization/Project Notes.md",
+                "file": "Computer_Graphics/Project Notes .md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Project Notes"
+            }
+          },
+          {
+            "id": "9366c35bb86492df",
+            "type": "leaf",
+            "state": {
+              "type": "make-mdb-viewer",
+              "state": {
+                "file": "views.mdb"
+              },
+              "icon": "lucide-file",
+              "title": "views.mdb"
+            }
+          },
+          {
+            "id": "c2ffc453e59cf7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data_Analysis_and_Visualization/Discussion board reply .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Discussion board reply"
+            }
+          },
+          {
+            "id": "59a61730a51d62c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codes .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Codes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -39,7 +82,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +99,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,23 +109,26 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "ffb9bdadaa7a24b9",
+            "id": "c0099cb4b95b7fa7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 557.5086555480957,
-    "collapsed": true
+    "width": 557.5086555480957
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -94,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data_Analysis_and_Visualization/Project Notes.md",
+                "file": "Computer_Graphics/Project Notes .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +152,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Project Notes"
             }
           },
           {
@@ -111,10 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data_Analysis_and_Visualization/Project Notes.md",
+                "file": "Computer_Graphics/Project Notes .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project Notes"
             }
           },
           {
@@ -125,7 +179,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,8 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data_Analysis_and_Visualization/Project Notes.md"
-              }
+                "file": "Computer_Graphics/Project Notes .md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project Notes"
             }
           }
         ]
@@ -155,35 +213,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45d1723546117eb6",
+  "active": "59a61730a51d62c5",
   "lastOpenFiles": [
+    "Thesis II.md",
+    "Codes .md",
+    "ResNet vs AutoEncoder.md",
+    "vit_test2.pdf",
+    "Media/Pasted image 20241102182350.png",
+    "Media/Pasted image 20241102182345.png",
+    "Media/Pasted image 20241102171418.png",
+    "Media/Pasted image 20241102171405.png",
+    "Media/Pasted image 20241102112356.png",
+    "Media/Pasted image 20241102112130.png",
+    "Media/Pasted image 20241102112048.png",
+    "Media/Pasted image 20241102112024.png",
+    "Media/Pasted image 20241102112012.png",
+    "Media/Pasted image 20241102111804.png",
+    "Computer_Graphics/Project Notes .md",
+    "Untitled",
+    "New Vit Studies .md",
+    "Data_Analysis_and_Visualization/Discussion board reply .md",
+    "Data_Analysis_and_Visualization/Project Notes.md",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_Self_Portrait/src/sebastian_self_portrait/SebastianNH_Self_ProjectPrelims.class",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_Self_Portrait/src/sebastian_self_portrait/SebastianNH_Self_ProjectPrelims.java",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_Self_Portrait/src/sebastian_self_portrait/SebastianNH_Self_Portrait.java",
+    "Life and Works of Rizal Notes/Life and Works of Rizal.md",
+    "Data_Analysis_and_Visualization/Data Analysis and Visualization.md",
     "Data_Analysis_and_Visualization/data.csv",
     "Data_Analysis_and_Visualization/OnlineRetail.csv",
     "Data_Analysis_and_Visualization/Prelim.ipynb",
     "Data_Analysis_and_Visualization/prelimdump/prelim.ipynb",
     "Data_Analysis_and_Visualization/prelimdump",
-    "Data_Analysis_and_Visualization/prelim.ipynb",
-    "Data_Analysis_and_Visualization/Assignment 4_Clustering Results Reporting.ipynb",
-    "Data_Analysis_and_Visualization/Datasets/OnlineRetail.csv",
-    "Data Analysis and Visualization/Lessons_PDF/Assessments/vertopal.com_FAO Analysis.pdf",
-    "Data_Analysis_and_Visualization/Lessons_PDF/Module_1/Data_Wrangling/vertopal.com_5-handling_data_issues.pdf",
-    "Data_Analysis_and_Visualization/Lessons_PDF/Module_1/Data_Wrangling/vertopal.com_4-reshaping_data.pdf",
-    "Data_Analysis_and_Visualization/Ipynb/total_production_per_year_choropleth.gif",
     "Data_Analysis_and_Visualization/Recommendations.md",
-    "Data_Analysis_and_Visualization/Project Notes.md",
-    "Data_Analysis_and_Visualization/Data Analysis and Visualization.md",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Data Analysis and Visualization/Project Notes.md",
     "Computer_Graphics/Formative and Summative Assessments.md",
     "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
     "Computer_Graphics/Formulas and Documentation.md",
     "Computer_Graphics/Sebastian_Long_Exam .md",
-    "Computer_Graphics/Project Notes .md",
-    "Thesis II.md",
-    "Life and Works of Rizal Notes/Life and Works of Rizal.md",
-    "Computer_Graphics/LongExam_Boat.png",
-    "Data Analysis and Visualization/Ipynb/total_production_per_year_choropleth.gif",
-    "Untitled.md",
     "Contemporary World/Contemporary world.md",
     "Tags/Tags.md",
     "Life and Works of Rizal.md",
@@ -192,16 +259,6 @@
     "Asynchronous 1.md",
     "Computer Security and Information Assurance/Script notes .md",
     "Computer Security and Information Assurance/Computer Security and Information Assurance.md",
-    "code.png",
-    "Vault.md",
-    "Computer_Graphics/LONG EXAM 2_Sebastian_1.md",
-    "Media/Screenshot 2024-10-03 142031.png",
-    "Pasted image 20241001104028.png",
-    "DOST Form.md",
-    "Life and Works of Rizal Notes.md",
-    "Media/Pasted image 20240919145957.png",
-    "Media/Pasted image 20240918214958.png",
-    "Media/code 6.png",
-    "Media/code 7.png"
+    "Vault.md"
   ]
 }

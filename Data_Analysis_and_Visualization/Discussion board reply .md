@@ -1,0 +1,3 @@
+## First reading material
+
+On the first reading material it focuses on more on text analysis especially on visualization if there is a large amount of words to be processed. It could be relevant to the study not just on the examples given on the readings but also on other modern everyday uses like Spam detection, text filtration, etc. These methods can also help in detecting internet interests such as frequent searches on a given season. On social media it can be used to determine trends, and if there is any vulgar language. It can be used in military intelligence such as a good example of detecting code name or hidden meaning of a text.

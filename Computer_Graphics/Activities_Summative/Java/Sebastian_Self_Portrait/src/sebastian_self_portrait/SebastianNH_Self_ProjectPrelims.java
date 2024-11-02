@@ -10,7 +10,7 @@ import java.awt.geom.*;
  * @author nigel
  */
 
-public class Sebastian_Self_Portrait extends Frame{
+public class SebastianNH_Self_ProjectPrelims extends Frame{
 
     /**
      * @param args the command line arguments
@@ -289,7 +289,7 @@ public class Sebastian_Self_Portrait extends Frame{
         Sebastian_Self_Portrait gp = new Sebastian_Self_Portrait();
         gp.setTitle("Sebastian Self Portrait project");
         // gp.setSize(370,569);
-        gp.setSize(900,900);
+        gp.setSize(555,835);
         gp.setBackground(backgrond_color);
         gp.setVisible(true);
 

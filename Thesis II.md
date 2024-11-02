@@ -1,6 +1,210 @@
 ---
 sticker: lucide//skull
 ---
+
+
+
+
+
+
+
+# With ResNet
+![[Pasted image 20241030225318.png]]
+![[Pasted image 20241030225325.png]]
+![[Pasted image 20241030225330.png]]
+![[Pasted image 20241030225334.png]]
+# Decisio making 
+![[Pasted image 20241029095023.png]]
+![[Pasted image 20241029095034.png]]
+
+![[Pasted image 20241029095043.png]]
+
+	![[Pasted image 20241029183151.png]]z
+![[Pasted image 20241029183051.png]]
+
+![[Pasted image 20241029183116.png]]
+
+![[Pasted image 20241029183125.png]]
+
+
+
+
+
+#  Previous Embedder
+
+2024-10-23 15:35:16,373 - INFO - target_shape: (300, 300)
+
+2024-10-23 15:35:16,373 - INFO - rpn_mode: False
+
+2024-10-23 15:35:16,374 - INFO - batch_size: 5
+
+2024-10-23 15:35:16,374 - INFO - collate_fn: <function collatev2 at 0x0000024FD8360E00>
+
+2024-10-23 15:35:16,375 - INFO - image_size: 300
+
+2024-10-23 15:35:16,375 - INFO - input_output_dim: 2500
+
+2024-10-23 15:35:16,376 - INFO - epochs: 7
+
+2024-10-23 15:35:16,376 - INFO - loss: MSELoss()
+
+2024-10-23 15:35:16,377 - INFO - lr: 0.0075
+
+
+```python
+class SliceEmbedding(nn.Module):
+
+    def __init__(self, image_size, output_dim, in_channels=1, out_channels=1, kernel_size=2, stride=2):
+
+        super().__init__()
+
+        self.convs = nn.Sequential(
+
+            nn.Conv2d(in_channels=in_channels, out_channels=32, kernel_size=kernel_size, stride=stride),
+
+            nn.ReLU(),
+
+            nn.Conv2d(in_channels=32, out_channels=24, kernel_size=kernel_size, stride=stride),
+
+            nn.ReLU(),
+
+            nn.Conv2d(in_channels=24, out_channels=24, kernel_size=kernel_size, stride=stride),
+
+            nn.ReLU(),
+
+            nn.Conv2d(in_channels=24, out_channels=out_channels, kernel_size=kernel_size, stride=stride),
+
+            nn.ReLU(),
+
+            nn.Flatten(2)
+
+        )
+
+  
+
+        # Calculate shape after convolutions
+
+        with torch.inference_mode():
+
+            x = torch.zeros(1, in_channels, image_size, image_size)
+
+            output = self.convs(x)
+
+            final_d = output.numel()
+
+  
+
+        print(final_d)
+
+  
+
+        self.mlp = nn.Sequential(
+
+            nn.Linear(final_d, output_dim)
+
+        )
+
+  
+  
+
+    def forward(self, x):
+
+        out = self.convs(x)
+
+        return self.mlp(out)
+```
+
+![[Pasted image 20241023162653.png]]
+
+**Training mean: ** tensor(1661.8511)
+	Validation mean: tensor(1453.3242)
+
+
+
+
+
+```python
+class SliceEmbedding(nn.Module):
+
+    def __init__(self, image_size, output_dim, in_channels=1, out_channels=1, kernel_size=2, stride=2):
+
+        super().__init__()
+
+        self.convs = nn.Sequential(
+
+            nn.Conv2d(in_channels=in_channels, out_channels=32, kernel_size=kernel_size, stride=stride),
+
+            nn.ReLU(),
+
+            nn.AvgPool2d(kernel_size=2, stride=2),
+
+            # nn.BatchNorm2d(32),
+
+            nn.Conv2d(in_channels=32, out_channels=24, kernel_size=kernel_size, stride=stride),
+
+            nn.ReLU(),
+
+            nn.Conv2d(in_channels=24, out_channels=24, kernel_size=kernel_size, stride=stride),
+
+            nn.ReLU(),
+
+            nn.Conv2d(in_channels=24, out_channels=out_channels, kernel_size=kernel_size, stride=stride),
+
+            nn.ReLU(),
+
+            # nn.Dropout(0.1),
+
+            nn.Flatten(2)
+
+        )
+
+  
+
+        # Calculate shape after convolutions
+
+        with torch.inference_mode():
+
+            x = torch.zeros(1, in_channels, image_size, image_size)
+
+            output = self.convs(x)
+
+            final_d = output.numel()
+
+  
+
+        print(final_d)
+
+  
+
+        self.mlp = nn.Sequential(
+
+            nn.Linear(final_d, output_dim)
+
+        )
+
+  
+  
+
+    def forward(self, x):
+
+        out = self.convs(x)
+
+        return self.mlp(out)
+```
+
+
+![[Pasted image 20241024154814.png]]
+
+
+Training tensor(2088.2717)
+
+Valiation tensor(1892.9314)
+
+
+![[Pasted image 20241029002551.png]]
+
+****
+# ARCHIVE
 For every val_batch in test_loader
 	Create array one_case 
 	Num_slices = get number of slices 
