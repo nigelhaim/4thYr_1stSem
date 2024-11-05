@@ -4,65 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "de055a20b3b6ebd4",
+        "id": "29abf34edfd32daf",
         "type": "tabs",
         "children": [
           {
-            "id": "45d1723546117eb6",
+            "id": "eea7b9cb924029db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md",
+                "file": "ResNet vs AutoEncoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Notes"
+              "title": "ResNet vs AutoEncoder"
             }
           },
           {
-            "id": "9366c35bb86492df",
+            "id": "d7bc8f7cfc716cac",
             "type": "leaf",
             "state": {
-              "type": "make-mdb-viewer",
+              "type": "image",
               "state": {
-                "file": "views.mdb"
+                "file": "Media/Pasted image 20241103223803.png"
               },
-              "icon": "lucide-file",
-              "title": "views.mdb"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241103223803"
             }
           },
           {
-            "id": "c2ffc453e59cf7b8",
+            "id": "604c47df9987dfcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Data_Analysis_and_Visualization/Discussion board reply .md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.5"
               },
               "icon": "lucide-file",
-              "title": "Discussion board reply"
-            }
-          },
-          {
-            "id": "59a61730a51d62c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codes .md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Codes"
+              "title": "Release Notes 1.7.5"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +98,7 @@
             }
           },
           {
-            "id": "c0099cb4b95b7fa7",
+            "id": "582eedeaf955fe2c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -128,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557.5086555480957
+    "width": 557.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -213,26 +197,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59a61730a51d62c5",
+  "active": "eea7b9cb924029db",
   "lastOpenFiles": [
+    "Pasted image 20241105232009.png",
+    "Pasted image 20241105231958.png",
+    "Pasted image 20241105231949.png",
     "Thesis II.md",
-    "Codes .md",
     "ResNet vs AutoEncoder.md",
-    "vit_test2.pdf",
-    "Media/Pasted image 20241102182350.png",
-    "Media/Pasted image 20241102182345.png",
-    "Media/Pasted image 20241102171418.png",
-    "Media/Pasted image 20241102171405.png",
-    "Media/Pasted image 20241102112356.png",
-    "Media/Pasted image 20241102112130.png",
-    "Media/Pasted image 20241102112048.png",
-    "Media/Pasted image 20241102112024.png",
-    "Media/Pasted image 20241102112012.png",
-    "Media/Pasted image 20241102111804.png",
+    "Final Defense proper.md",
+    "Media/Pasted image 20241105142517.png",
+    "Media/Pasted image 20241105142430.png",
+    "Media/Pasted image 20241105142423.png",
+    "Media/Pasted image 20241105142231.png",
+    "Media/Pasted image 20241105142223.png",
+    "Media/Pasted image 20241105142215.png",
+    "Media/Pasted image 20241104220921.png",
+    "Media/Pasted image 20241104220903.png",
+    "Codes .md",
     "Computer_Graphics/Project Notes .md",
+    "Data_Analysis_and_Visualization/Discussion board reply .md",
+    "vit_test2.pdf",
     "Untitled",
     "New Vit Studies .md",
-    "Data_Analysis_and_Visualization/Discussion board reply .md",
     "Data_Analysis_and_Visualization/Project Notes.md",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_Self_Portrait/src/sebastian_self_portrait/SebastianNH_Self_ProjectPrelims.class",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_Self_Portrait/src/sebastian_self_portrait/SebastianNH_Self_ProjectPrelims.java",
@@ -258,7 +244,6 @@
     "//Asynchronous 1.md",
     "Asynchronous 1.md",
     "Computer Security and Information Assurance/Script notes .md",
-    "Computer Security and Information Assurance/Computer Security and Information Assurance.md",
-    "Vault.md"
+    "Computer Security and Information Assurance/Computer Security and Information Assurance.md"
   ]
 }
