@@ -277,7 +277,7 @@ https://www.cfr.org/global-conflict-tracker
 -  We obtain power through acquisition of resources and build military  
 - **When you are far appear to be near and when you are near appear to be far**
 #### Liberalism
-- Origin: Enlightenment period, WW2
+	- Origin: Enlightenment period, WW2
 - Focus on States, NGO's. INGO's, IO's, (States are rational)
 - IS is filled with collective interests 
 - Allowing countries to live peacefully 
