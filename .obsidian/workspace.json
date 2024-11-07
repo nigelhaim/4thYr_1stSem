@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "d7bc8f7cfc716cac",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20241103223803.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241103223803"
-            }
-          },
-          {
             "id": "604c47df9987dfcd",
             "type": "leaf",
             "state": {
@@ -43,6 +31,20 @@
               },
               "icon": "lucide-file",
               "title": "Release Notes 1.7.5"
+            }
+          },
+          {
+            "id": "614db669a3ec3acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thesis II Consultation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thesis II Consultation"
             }
           }
         ]
@@ -98,7 +100,7 @@
             }
           },
           {
-            "id": "94404142cd6b90a9",
+            "id": "39fd55b8467549d3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -199,37 +201,38 @@
   },
   "active": "eea7b9cb924029db",
   "lastOpenFiles": [
-    "vit_test3.ipynb",
-    "Pasted image 20241105232009.png",
-    "Pasted image 20241105231958.png",
-    "Pasted image 20241105231949.png",
-    "Thesis II.md",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/src/sebastian_mpanimationtl/Sebastian_MPAnimationTL.class",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/private/private.xml",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/manifest.mf",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/src/sebastian_mpanimationtl/Sebastian_MPAnimationTL.java",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/src/sebastian_mpanimationtl",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/src",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/build.xml",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/build-impl.xml",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/genfiles.properties",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/project.properties",
+    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/private/private.properties",
+    "Pasted image 20241107125049.png",
+    "Pasted image 20241107125039.png",
+    "Pasted image 20241107125001.png",
+    "Pasted image 20241107124943.png",
+    "Pasted image 20241107124934.png",
+    "Computer_Graphics/Java/JavaApplication1/Updated 01_13_2022.png",
+    "Computer_Graphics/Java/Updated 01_13_2022.png",
+    "Computer_Graphics/Updated 01_13_2022.png",
+    "Pasted image 20241107000022.png",
+    "Pasted image 20241107000014.png",
+    "Thesis II Consultation.md",
     "ResNet vs AutoEncoder.md",
+    "Thesis II.md",
     "Final Defense proper.md",
-    "Media/Pasted image 20241105142517.png",
-    "Media/Pasted image 20241105142430.png",
-    "Media/Pasted image 20241105142423.png",
-    "Media/Pasted image 20241105142231.png",
-    "Media/Pasted image 20241105142223.png",
-    "Media/Pasted image 20241105142215.png",
-    "Media/Pasted image 20241104220921.png",
     "Codes .md",
     "Computer_Graphics/Project Notes .md",
     "Data_Analysis_and_Visualization/Discussion board reply .md",
-    "vit_test2.pdf",
-    "Untitled",
     "New Vit Studies .md",
     "Data_Analysis_and_Visualization/Project Notes.md",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_Self_Portrait/src/sebastian_self_portrait/SebastianNH_Self_ProjectPrelims.class",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_Self_Portrait/src/sebastian_self_portrait/SebastianNH_Self_ProjectPrelims.java",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_Self_Portrait/src/sebastian_self_portrait/SebastianNH_Self_Portrait.java",
     "Life and Works of Rizal Notes/Life and Works of Rizal.md",
     "Data_Analysis_and_Visualization/Data Analysis and Visualization.md",
-    "Data_Analysis_and_Visualization/data.csv",
-    "Data_Analysis_and_Visualization/OnlineRetail.csv",
-    "Data_Analysis_and_Visualization/Prelim.ipynb",
-    "Data_Analysis_and_Visualization/prelimdump/prelim.ipynb",
-    "Data_Analysis_and_Visualization/prelimdump",
     "Data_Analysis_and_Visualization/Recommendations.md",
     "Data Analysis and Visualization/Data Analysis and Visualization.md",
     "Data Analysis and Visualization/Project Notes.md",
@@ -243,7 +246,6 @@
     "//Life and Works of Rizal.md",
     "//Asynchronous 1.md",
     "Asynchronous 1.md",
-    "Computer Security and Information Assurance/Script notes .md",
-    "Computer Security and Information Assurance/Computer Security and Information Assurance.md"
+    "Computer Security and Information Assurance/Script notes .md"
   ]
 }

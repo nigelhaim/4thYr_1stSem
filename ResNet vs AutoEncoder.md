@@ -15,11 +15,11 @@ sticker: lucide//skull
 ![[Pasted image 20241102112356.png]]
 ## Embedding (RPN 15)
 
-| Cohort | Maximum Batchsize | Runtime           | Histplot                                         | Image                                |
-| ------ | ----------------- | ----------------- | ------------------------------------------------ | ------------------------------------ |
-| 1      | 40 or more        | 12m 44s           | $5]eawfdq21$![[Pasted image 20241102112012.png]] | ![[Pasted image 20241102112024.png]] |
-| 2      | 7                 | 25 mins per epoch |                                                  |                                      |
-| 3      | 100               | 6m 49.5s          | ![[Pasted image 20241102171405.png]]             | ![[Pasted image 20241102171418.png]] |
+| Cohort | Maximum Batchsize | Runtime           | Histplot                             | Image                                |
+| ------ | ----------------- | ----------------- | ------------------------------------ | ------------------------------------ |
+| 1      | 40 or more        | 12m 44s           | ![[Pasted image 20241102112012.png]] | ![[Pasted image 20241102112024.png]] |
+| 2      | 7                 | 25 mins per epoch |                                      |                                      |
+| 3      | 100               | 6m 49.5s          | ![[Pasted image 20241102171405.png]] | ![[Pasted image 20241102171418.png]] |
 
 # Unfiltered
 
@@ -62,3 +62,10 @@ sticker: lucide//skull
 | ![[Pasted image 20241103223746.png]] | Filtered            | ![[Pasted image 20241103223752.png]] | ![[Pasted image 20241103223803.png]] | RPN_test15a_weights_Nov_03_2024_211433.pt           |                      |
 | ![[Pasted image 20241104125049.png]] | Unfiltered          | ![[Pasted image 20241104125158.png]] | ![[Pasted image 20241104125414.png]] | UnfilteredRPN_test15a_weights_Nov_04_2024_021056.pt | Runtime -635 m 28.1s |
 | ![[Pasted image 20241104155314.png]] | Filtered            | ![[Pasted image 20241104155303.png]] | ![[Pasted image 20241104155322.png]] | RPN_test15a_weights_Nov_04_2024_140851.pt           |                      |
+## ViT 
+
+| Configs                              | Histplot                             | Cropped Image                        | Weights name                | Full image segmentation (Ground truth) | Predicted                            | Threshold | Other notes                                      | Metrics (From lex)                                                 |
+| ------------------------------------ | ------------------------------------ | ------------------------------------ | --------------------------- | -------------------------------------- | ------------------------------------ | --------- | ------------------------------------------------ | ------------------------------------------------------------------ |
+| ![[Pasted image 20241106223152.png]] | ![[Pasted image 20241106223201.png]] | ![[Pasted image 20241106223228.png]] | ViT_GTNov_06_2024_220028.pt | ![[Pasted image 20241106223222.png]]   | ![[Pasted image 20241106223248.png]] | -3.1      | Used<br>RPN_test15_weights_Nov_04_2024_213347.pt | IOU: 0.003 Precision: 0.003 Recall 0.833 Dice 0.006 Accuracy 0.001 |
+| ![[Pasted image 20241107000014.png]] | ![[Pasted image 20241107000022.png]] | ![[Pasted image 20241106235935.png]] | ViT_GTNov_06_2024_233402.pt | ![[Pasted image 20241106235945.png]]   | ![[Pasted image 20241106235927.png]] | 0.3       |                                                  | IOU: 0.003 Precision: 0.003 Recall 0.833 Dice 0.006 Accuracy 0.001 |
+| ![[Pasted image 20241107125049.png]] | ![[Pasted image 20241107125039.png]] | ![[Pasted image 20241107124943.png]] | ViT_GTNov_07_2024_104706.pt | ![[Pasted image 20241107125001.png]]   | ![[Pasted image 20241107124934.png]] | 0.10      | Used<br>RPN_test15_weights_Nov_04_2024_213347.pt | IOU: 0.17 Precision: 0.201 Recall 0.382 Dice 0.24 Accuracy 0.995   |
