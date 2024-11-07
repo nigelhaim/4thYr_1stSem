@@ -113,13 +113,13 @@ public class Sebastian_MPAnimationTL extends Frame {
         int greenTime = 30;
         for(int x = 0; x<90; x++)
         {
-        g2d.setColor(Color.black);
-        g2d.fill(leftred);
-        g2d.fill(rightred);
-        g2d.fill(leftyellow);
-        g2d.fill(rightyellow);
-        g2d.fill(leftgreen);
-        g2d.fill(rightgreen);
+            g2d.setColor(Color.black);
+            g2d.fill(leftred);
+            g2d.fill(rightred);
+            g2d.fill(leftyellow);
+            g2d.fill(rightyellow);
+            g2d.fill(leftgreen);
+            g2d.fill(rightgreen);
 
             for(int y= 33; y > 0; y-- ){
                 g2d.setColor(darkyellow);
@@ -148,13 +148,13 @@ public class Sebastian_MPAnimationTL extends Frame {
 
                 sustain(1000);
             }
-        g2d.setColor(Color.black);
-        g2d.fill(leftred);
-        g2d.fill(rightred);
-        g2d.fill(leftyellow);
-        g2d.fill(rightyellow);
-        g2d.fill(leftgreen);
-        g2d.fill(rightgreen);
+            g2d.setColor(Color.black);
+            g2d.fill(leftred);
+            g2d.fill(rightred);
+            g2d.fill(leftyellow);
+            g2d.fill(rightyellow);
+            g2d.fill(leftgreen);
+            g2d.fill(rightgreen);
 
             for(int z = 33; z>0; z--){
                 g2d.setColor(darkyellow);

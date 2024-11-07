@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ResNet vs AutoEncoder.md",
+                "file": "Sebastian_MPAnimationTL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ResNet vs AutoEncoder"
+              "title": "Sebastian_MPAnimationTL"
             }
           },
           {
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557.5086555480957,
-    "collapsed": true
+    "width": 557.5086555480957
   },
   "right": {
     "id": "ef047c6d022fef0f",
@@ -201,6 +200,15 @@
   },
   "active": "eea7b9cb924029db",
   "lastOpenFiles": [
+    "Pasted image 20241107153208.png",
+    "Pasted image 20241107153143.png",
+    "Pasted image 20241107153130.png",
+    "Pasted image 20241107153102.png",
+    "Pasted image 20241107153052.png",
+    "code.png",
+    "New Vit Studies .md",
+    "Sebastian_MPAnimationTL.md",
+    "ResNet vs AutoEncoder.md",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/src/sebastian_mpanimationtl/Sebastian_MPAnimationTL.class",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/private/private.xml",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/manifest.mf",
@@ -211,25 +219,17 @@
     "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/build-impl.xml",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/genfiles.properties",
     "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/project.properties",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/nbproject/private/private.properties",
-    "Pasted image 20241107125049.png",
-    "Pasted image 20241107125039.png",
-    "Pasted image 20241107125001.png",
-    "Pasted image 20241107124943.png",
-    "Pasted image 20241107124934.png",
-    "Computer_Graphics/Java/JavaApplication1/Updated 01_13_2022.png",
-    "Computer_Graphics/Java/Updated 01_13_2022.png",
-    "Computer_Graphics/Updated 01_13_2022.png",
-    "Pasted image 20241107000022.png",
-    "Pasted image 20241107000014.png",
+    "Media/Pasted image 20241107125049.png",
+    "Media/Pasted image 20241107125039.png",
+    "Media/Pasted image 20241107125001.png",
+    "Media/Pasted image 20241107124943.png",
+    "Media/Pasted image 20241107124934.png",
     "Thesis II Consultation.md",
-    "ResNet vs AutoEncoder.md",
     "Thesis II.md",
     "Final Defense proper.md",
     "Codes .md",
     "Computer_Graphics/Project Notes .md",
     "Data_Analysis_and_Visualization/Discussion board reply .md",
-    "New Vit Studies .md",
     "Data_Analysis_and_Visualization/Project Notes.md",
     "Life and Works of Rizal Notes/Life and Works of Rizal.md",
     "Data_Analysis_and_Visualization/Data Analysis and Visualization.md",
@@ -245,7 +245,6 @@
     "Life and Works of Rizal.md",
     "//Life and Works of Rizal.md",
     "//Asynchronous 1.md",
-    "Asynchronous 1.md",
-    "Computer Security and Information Assurance/Script notes .md"
+    "Asynchronous 1.md"
   ]
 }
