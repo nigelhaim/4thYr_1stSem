@@ -466,4 +466,36 @@ Despite of winning of cases why do we still do not enforce these laws
 ### General Assembly
 - votes on matters wit ha simple majority 
 - Most countries are part of European countries
-- 
+
+## Geographical Division 
+- Global North and Global south 
+	- Happened in the Cold war 
+	- Discuss about countries with developing issues 
+
+**Why do nations fail?**
+
+| Reasons                                                           | Avenue for hope |
+| ----------------------------------------------------------------- | --------------- |
+| Institution<br>- Political System<br>- Implementation of Policies |                 |
+| Income Status<br>                                                 |                 |
+| Geography<br>- Geopolitical Aspect                                |                 |
+| Resources                                                         |                 |
+| Culture<br>- Compromise liberty, Democratic and Principles        |                 |
+| Psyche                                                            |                 |
+| Education                                                         |                 |
+|                                                                   |                 |
+
+### Global South 
+- Agrarian countries 
+	- Relies on farming 
+	- Poor countries have scarce resources can leads to revolt
+
+### Global North 
+- Stable political institutions 
+
+## How do we classify countries
+
+- Most develop countries
+- Less Developed countries
+- Least Developed countries
+

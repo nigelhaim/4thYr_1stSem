@@ -360,5 +360,101 @@ The sorrows in his family also contributed for Rizal to strengthen his character
 - **Don Francisco de marcaida and Don Manuel. Marzan** - Most famous lawyers of Manila, defended Doña Teodora in court 
 - After 2 and half years in the Royal Audencia acquitted Doña Teodora  
 
-## Binan to Intramuros 
+## Final exam notes
+- We will conduct your final exam 1 week before the finals week (Essay exam) 
+- Without the printed rubric you are not allowed to take the final exam 
+- Yellow paper isususlat 
+- Read all the finals modules (Especially 5 to 8)
+- Lectures are not included in the modules
+- Make sure you avoid motherhood statements (General statements)
+- The more details and specifications of the essay the better 
+- Swerte ang maka 90 sa essay (nakapag basa)
+- 4 quizzes 
 
+## Module (5 and 6) 
+- The emergence of the Filipino Nationalism 
+
+### Nationalism (Emergence)
+- Meron bang nationalismo ang mga Filipino bago dumating ang espana? 
+- **Nationalism** - The love for country (Similar sa patriot)
+- Why do the Americans don't like the nationalist? 
+	- They are globalist 
+	- **Nationalism vs Globalism**
+		- We now live in a globalized world 
+		- Globalization (Lessons sa prelims ng Contemporary world)
+		- Ideas are now borderless
+		- Nationalism only depends on the situation if they are going to open the market 
+			- I love my country therefore I protect my country
+
+**Nationalism is the first stage and globalization is the 2nd Stage**
+- Nationalism is already embedded to them because they have already promoted themselves therefore they promote it to other places 
+- Going global is not wrong IF we have a strong foundation (good nationalism)
+- Taiwan once denies anything from other places or cultures 
+- 
+
+**Negative effects of globalization with a weak nationalism**
+- There is an international benchmark for ourselves 
+- Parang nasa US
+- Maganda sa.....parang Maldives lang 
+
+**1946**
+- The Philippines went to globalization without the promotion of nationalism 
+
+**History is the battle of ideology**
+
+**Colonialism**
+- The enemy of the Nationalism 
+- Rizal promoted Nationalism to counter the Colonialism of Spain 
+- It was later changed to Imperialism later on 
+	- Psychocultural conquest 
+	- Influence
+	- Behavior and customs
+	- What you eat, what you wear, what you drink are all imported, then your mindset is imported
+
+**Realism**
+- The enemy of Idealism 
+- Military strength 
+- Vladimir Putin took over the Donbas region
+
+
+### Rizal wrote the Las Islas Filipinas
+- Karl marx started the concept of communism on a library 
+- Rizal started the revolution on a library 
+
+**Teaching the theory without application is nonsense**
+
+### The promotion of the two party election 
+
+
+### In every problem 2 causes
+- Proximate cause
+	- Immediate problem 
+	- Immediate problem requires immediate solution 
+- absolute cause 
+	- Started the chain of events 
+	- Solves the root of  the problem 
+
+
+### Other propagandist 
+- Maraming magagaling saatin pero ang cancerous disease is the lacking of nationalism 
+- Kung ikaw ay negosyante at ikaw ay nationalismo 
+- The Philippine government accepts everything but don't talk about commerce and radical ideas 
+- San Miguel Corp made a lot of impact on the government therefore that is why they took over the NAIA 
+- Propagandists started the journalism in the Philippines
+- Propaganda started in the Europe not the Phillippines because of the power of the free speech of the Spaniards (UST)
+- UST banned the Noli and El Fili 
+
+### La Solaridad (19th century)
+- Philiippine population that time - 8 million souls
+- 20 thousand are foreign
+
+### How did it start 
+- 3 ways to counter the spaniards
+	- Revolt - Started as 1565 the time of Miguel lopez de legazpi 
+		- Goal of the revolt is independence from spain of their Region 
+		- Fight through armed resistance
+		- Failed through ununited and lacking of weaponry 
+	- Reforms - Does not want independence 
+		- Representation to the spanish congress
+		- A province of Spain 
+		- 

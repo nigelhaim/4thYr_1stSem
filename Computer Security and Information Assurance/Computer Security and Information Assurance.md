@@ -582,3 +582,40 @@ Each organization develops and maintains its own unique culture and values. With
 - works by exploring the contents of a web browser's cache 
 - can allow collection of information on access to password-protected sites
 - another attack by the same name involves attempting to intercept cryptographic elements to determine keys and encryption algorithms
+
+
+## Network based systems (NIDPS)
+
+### Pros 
+- Enables monitoring of a large network wit hfew devices 
+- NIDPs are hard to detect and resistant to direct attacks 
+
+### Cons
+- Can miss attacks if overwhelmed by high network traffic 
+- Must have access to all monitored traffic 
+- unable to analys encypt pacets 
+
+## Wireless NIDPS
+- A subtype of network-based NIDPS
+- Monitors and analyazes wireless network traffic 
+Challenges include 
+- Physical securiy 'Sensor range 
+- Access point and switch placement 
+- Wired connections 
+- Cost
+
+### Network behavior analysis systems 
+- Compliments network0based NIDPS by detecting complex threats through behavior analysis of network traffic
+-  Types of events commonly detected
+- Include 
+	- Denial of service attacks
+	- Scanning 
+	- Worms 
+
+#### Pros
+- Detects local host events and bypasses NIDPS
+- Processors decrypted ancypted traffic 
+- Immune to switched networks 
+- Identifies anonimous application and systems behavior through audit log analysis
+
+a
