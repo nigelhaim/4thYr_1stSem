@@ -27,12 +27,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contemporary World/Contemporary world.md",
+                "file": "ResNet vs AutoEncoder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contemporary world"
+              "title": "ResNet vs AutoEncoder"
+            }
+          },
+          {
+            "id": "ef518bb691e7febf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Pasted image 20241107125049.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241107125049"
+            }
+          },
+          {
+            "id": "4b545a4a3ed711e9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241110143905.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241110143905"
+            }
+          },
+          {
+            "id": "5033479be7d1790b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241110143933.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241110143933"
             }
           },
           {
@@ -104,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1013d677515633a3",
@@ -189,8 +226,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ca53ce84a461185",
+  "active": "fc34352dee782ad5",
   "lastOpenFiles": [
+    "Pasted image 20241110143905.png",
+    "Media/Pasted image 20241107125049.png",
+    "ResNet vs AutoEncoder.md",
+    "Contemporary World/Contemporary world.md",
+    "Pasted image 20241110143933.png",
+    "Pasted image 20241110143946.png",
+    "Pasted image 20241110143917.png",
+    "Pasted image 20241110143912.png",
+    "README.md",
+    "Thesis II.md",
+    "Thesis II Consultation.md",
+    "vit_test2.pdf",
     "Data_Analysis_and_Visualization/Datasets/100593newsML.txt",
     "Data_Analysis_and_Visualization/Datasets/100618newsML.txt",
     "Data_Analysis_and_Visualization/Datasets/100554newsML.txt",
@@ -201,16 +250,10 @@
     "Contemporary World/Contemporary world Activity 1.md",
     "Life and Works of Rizal Notes/Life and Works of Rizal.md",
     "Computer Security and Information Assurance/Computer Security and Information Assurance.md",
-    "Contemporary World/Contemporary world.md",
     "Data_Analysis_and_Visualization/Sebastian_analyzing_a_sentence.ipynb",
     "Data_Analysis_and_Visualization/analyzing_a_sentence.ipynb",
-    "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
     "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
     "Contemporary World/Notes for Contemporary  World Paper.md",
-    "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf",
-    "ResNet vs AutoEncoder.md",
-    "Thesis II.md",
-    "Thesis II Consultation.md",
     "Media/Pasted image 20241107125039.png",
     "Final Defense proper.md",
     "Sebastian_MPAnimationTL.md",
