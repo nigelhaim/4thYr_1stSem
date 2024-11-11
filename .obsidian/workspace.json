@@ -4,49 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "e28797d0320af6f6",
+        "id": "30273b4758642bfe",
         "type": "tabs",
         "children": [
           {
-            "id": "4a0fe1afe4924423",
+            "id": "bc6572a3914e3f92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contemporary World/The ICC cannot See.md",
+                "file": "Contemporary World/Contemporary world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The ICC cannot See"
+              "title": "Contemporary world"
             }
           },
           {
-            "id": "5c08d1d4403600b0",
+            "id": "fc34352dee782ad5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Vast AI notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Media/Pasted image 20241111120617.png"
               },
-              "icon": "lucide-file",
-              "title": "Vast AI notes"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241111120617"
             }
           },
           {
-            "id": "35a90de6d53835fa",
+            "id": "f38bd467e902162b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Contemporary World/Notes for Contemporary  World Paper.md",
-                "mode": "source",
-                "source": false
+                "file": "Media/Pasted image 20241104155314.png"
               },
-              "icon": "lucide-file",
-              "title": "Notes for Contemporary  World Paper"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241104155314"
+            }
+          },
+          {
+            "id": "82a7de39515085f9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Pasted image 20241104125049.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241104125049"
+            }
+          },
+          {
+            "id": "85925a5e4cb33e5f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Pasted image 20241103223746.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241103223746"
             }
           }
         ],
@@ -191,22 +211,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c08d1d4403600b0",
+  "active": "1ca53ce84a461185",
   "lastOpenFiles": [
-    "Contemporary World/The ICC cannot See.md",
-    "Vast AI notes.md",
-    "Contemporary World/Notes for Contemporary  World Paper.md",
-    "Pasted image 20241111120638.png",
-    "Pasted image 20241111120632.png",
-    "Pasted image 20241111120617.png",
-    "Media/Pasted image 20241110143946.png",
-    "Contemporary World/Contemporary world.md",
     "ResNet vs AutoEncoder.md",
-    "Media/Pasted image 20241110143905.png",
-    "Media/Pasted image 20241107125049.png",
-    "Media/Pasted image 20241110143933.png",
-    "Media/Pasted image 20241110143917.png",
-    "Media/Pasted image 20241110143912.png",
+    "Vast AI notes.md",
+    "Media/Pasted image 20241111120638.png",
+    "Media/Pasted image 20241111120632.png",
+    "Media/Pasted image 20241111120617.png",
+    "Contemporary World/Contemporary world.md",
+    "Media/Pasted image 20241104155314.png",
+    "Media/Pasted image 20241104125049.png",
+    "Media/Pasted image 20241103223746.png",
+    "Media/Pasted image 20241105231958.png",
+    "Media/Pasted image 20241105231949.png",
+    "Media/Pasted image 20241104220921.png",
+    "Media/Pasted image 20241104155214.png",
+    "Contemporary World/The ICC cannot See.md",
     "README.md",
     "Thesis II.md",
     "Thesis II Consultation.md",
@@ -224,7 +244,7 @@
     "Data_Analysis_and_Visualization/Sebastian_analyzing_a_sentence.ipynb",
     "Data_Analysis_and_Visualization/analyzing_a_sentence.ipynb",
     "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-    "Media/Pasted image 20241107125039.png",
+    "Contemporary World/Notes for Contemporary  World Paper.md",
     "Final Defense proper.md",
     "Sebastian_MPAnimationTL.md"
   ]
