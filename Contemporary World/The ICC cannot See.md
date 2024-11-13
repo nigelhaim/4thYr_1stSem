@@ -10,6 +10,7 @@ The operations led to large-scale extrajudicial violence that led to the deaths 
 
 On March 17, 2018, The Philippines withdrew from the International Ciminal Court. However according with the ICC treaty, a country's withdrawal will take effect within one year. Six senators filed a petition before the Supreme Court where they seeked a petition to invalidate the withdrawal from the Rome Statute of the ICC. However they did not succeed (Caliwan, 2018). The Rome Statute permits the court to retain its jurisdiction over any crime happened before its withdrawal (Humans Rights Watch, 2023).  The former president stated that "the Philippine government had enough mechanisms in place to ensure that the justice system functioned properly (Guttierez, 2019)". President Ferdinand Romualdez Marcos Jr. reiterates that the I.C.C does not have any jurisdiction in the Philippines, and considers it as a threat to the country's sovereignty (Presidential Communications Office, 2024). 
 
+After two years of leaving office there are numerous hearings of the House of Representatives of conducted on the former president. 
 ### References: 
 
 International Criminal Court. (2021, January). Republic of the Philippines. https://www.icc-cpi.int/philippine
