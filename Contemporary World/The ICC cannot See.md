@@ -10,7 +10,7 @@ The operations led to large-scale extrajudicial violence that led to the deaths 
 
 On March 17, 2018, The Philippines withdrew from the International Ciminal Court. However according with the ICC treaty, a country's withdrawal will take effect within one year. Six senators filed a petition before the Supreme Court where they seeked a petition to invalidate the withdrawal from the Rome Statute of the ICC. However they did not succeed (Caliwan, 2018). The Rome Statute permits the court to retain its jurisdiction over any crime happened before its withdrawal (Humans Rights Watch, 2023).  The former president stated that "the Philippine government had enough mechanisms in place to ensure that the justice system functioned properly (Guttierez, 2019)". President Ferdinand Romualdez Marcos Jr. reiterates that the I.C.C does not have any jurisdiction in the Philippines, and considers it as a threat to the country's sovereignty (Presidential Communications Office, 2024). 
 
-After two years of leaving office there are numerous hearings of the House of Representatives of conducted on the former president. 
+After two years of leaving office there are numerous hearings of the congress on the case of the extra-judicial hearings without the presence of the former president. On November 2024, the former president dared the I.C.C to "hurry-up" in the investigation to his policies during his presidency when he faced the committee of the house of representatives for the first time. The former president stated "I am asking the ICC to hurry up, and if possible, they can come here and start the investigation tomorrow" as he was asked by Gabriela Rep. Arlene Brosas (Zablan, 2024). The office of the president of Ferdinant Marcos issued a statement that it would honor any red notice in which case the domestic law enforcement agencies shall be bound to accord full cooperation (. 
 ### References: 
 
 International Criminal Court. (2021, January). Republic of the Philippines. https://www.icc-cpi.int/philippine
@@ -30,3 +30,6 @@ International Criminal Court’s Philippines investigation. (2023, February 21).
 Presidential Communications Office. (2024, January 23). PBBM reiterates ICC has no jurisdiction over ph; won’t cooperate in its investigation. https://pco.gov.ph/news_releases/pbbm-reiterates-icc-has-no-jurisdiction-over-ph-wont-cooperate-in-its-investigation/
 
 Caliwan, CL. (2018, May 16). 6 senators ask SC to void PH’s ICC withdrawal. _Philippine News Agency_. https://www.pna.gov.ph/articles/1035485
+
+Zablan, C. (2024, November 13). _Duterte dares ICC to ‘hurry up’ in investigating drug war killings_. NEWS 5. https://news.tv5.com.ph/breaking/read/duterte-dares-icc-to-hurry-up-in-investigating-drug-war-killings
+
