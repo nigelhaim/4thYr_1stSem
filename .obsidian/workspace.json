@@ -13,60 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contemporary World/Contemporary world.md",
+                "file": "Contemporary World/Notes for Contemporary  World Paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contemporary world"
+              "title": "Notes for Contemporary  World Paper"
             }
           },
           {
-            "id": "fc34352dee782ad5",
+            "id": "f7a1116225da8e39",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Media/Pasted image 20241111120617.png"
+                "file": "Contemporary World/The ICC cannot See.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241111120617"
-            }
-          },
-          {
-            "id": "f38bd467e902162b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20241104155314.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241104155314"
-            }
-          },
-          {
-            "id": "82a7de39515085f9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20241104125049.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241104125049"
-            }
-          },
-          {
-            "id": "85925a5e4cb33e5f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Media/Pasted image 20241103223746.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241103223746"
+              "icon": "lucide-file",
+              "title": "The ICC cannot See"
             }
           }
         ],
@@ -126,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1013d677515633a3",
@@ -211,14 +178,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ca53ce84a461185",
+  "active": "f7a1116225da8e39",
   "lastOpenFiles": [
+    "Contemporary World/Notes for Contemporary  World Paper.md",
+    "Contemporary World/The ICC cannot See.md",
+    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
+    "Contemporary World/Contemporary world.md",
+    "Media/Pasted image 20241111120617.png",
     "ResNet vs AutoEncoder.md",
     "Vast AI notes.md",
     "Media/Pasted image 20241111120638.png",
     "Media/Pasted image 20241111120632.png",
-    "Media/Pasted image 20241111120617.png",
-    "Contemporary World/Contemporary world.md",
     "Media/Pasted image 20241104155314.png",
     "Media/Pasted image 20241104125049.png",
     "Media/Pasted image 20241103223746.png",
@@ -226,7 +196,6 @@
     "Media/Pasted image 20241105231949.png",
     "Media/Pasted image 20241104220921.png",
     "Media/Pasted image 20241104155214.png",
-    "Contemporary World/The ICC cannot See.md",
     "README.md",
     "Thesis II.md",
     "Thesis II Consultation.md",
@@ -243,8 +212,6 @@
     "Computer Security and Information Assurance/Computer Security and Information Assurance.md",
     "Data_Analysis_and_Visualization/Sebastian_analyzing_a_sentence.ipynb",
     "Data_Analysis_and_Visualization/analyzing_a_sentence.ipynb",
-    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-    "Contemporary World/Notes for Contemporary  World Paper.md",
     "Final Defense proper.md",
     "Sebastian_MPAnimationTL.md"
   ]
