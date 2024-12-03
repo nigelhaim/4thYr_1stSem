@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "30273b4758642bfe",
+        "id": "f22d5fd07dd5849e",
         "type": "tabs",
         "children": [
           {
-            "id": "bc6572a3914e3f92",
+            "id": "b0bda076abd964ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Sebastian_MP_TLC.md",
+                "file": "Contemporary World/The ICC cannot See.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sebastian_MP_TLC"
-            }
-          },
-          {
-            "id": "f7a1116225da8e39",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "The-History-of-the-World-Oxford-University-Press (1)"
+              "title": "The ICC cannot See"
             }
           }
         ]
@@ -89,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1013d677515633a3",
@@ -174,44 +163,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc6572a3914e3f92",
+  "active": "b0bda076abd964ac",
   "lastOpenFiles": [
-    "code 2.png",
+    "Untitled 1.md",
+    "Contemporary World/The ICC cannot See.md",
+    "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
+    "Contemporary World/Notes for Contemporary  World Paper.md",
+    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
+    "Contemporary World/Contemporary world.md",
+    "Contemporary World/Contemporary world Activity 1.md",
+    "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf",
+    "Computer_Graphics/Python/3D_Graphics/desktop.ini",
+    "Computer_Graphics/Python/3D_Graphics/Sebastian_MPTrans.ipynb",
+    "Data_Analysis_and_Visualization/nmt_weights.h5",
     "Pasted image 20241114155551.png",
     "Pasted image 20241114155010.png",
     "Pasted image 20241114154950.png",
     "Pasted image 20241114154944.png",
     "Pasted image 20241114154931.png",
-    "code 1.png",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC.class",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC$1.class",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MPAnimationTL/test",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MP_TLC/nbproject/private/private.xml",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MP_TLC/nbproject/private/private.properties",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC.java",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MP_TLC/nbproject/project.xml",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MP_TLC/nbproject/private",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MP_TLC/nbproject/project.properties",
-    "Computer_Graphics/Activities_Summative/Java/Sebastian_MP_TLC/nbproject/genfiles.properties",
-    "Computer_Graphics/Formulas and Documentation.md",
-    "Computer_Graphics/Sebastian_MP_TLC.md",
-    "Contemporary World/The ICC cannot See.md",
-    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-    "Contemporary World/Notes for Contemporary  World Paper.md",
-    "Contemporary World/Contemporary world.md",
-    "Media/Pasted image 20241111120617.png",
+    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC.java",
+    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC.class",
+    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC$1.class",
+    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/project.xml",
+    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/project.properties",
+    "Statistical treatment.md",
+    "List of Figures.md",
+    "Statistical Metrics_V2.md",
+    "Summary Thesis.md",
     "ResNet vs AutoEncoder.md",
-    "Vast AI notes.md",
-    "Media/Pasted image 20241111120638.png",
-    "Media/Pasted image 20241111120632.png",
-    "Media/Pasted image 20241104155314.png",
-    "README.md",
+    "Thesis Script.md",
     "Thesis II.md",
-    "Thesis II Consultation.md",
-    "Contemporary World/Contemporary world Activity 1.md",
-    "Life and Works of Rizal Notes/Life and Works of Rizal.md",
-    "Computer Security and Information Assurance/Computer Security and Information Assurance.md",
+    "Sebastian_LSinAI.md",
+    "Pasted image 20241127003742.png",
+    "Pasted image 20241127003730.png",
+    "Pasted image 20241127003716.png",
+    "Pasted image 20241127003227.png",
+    "Pasted image 20241127003216.png",
+    "Scope and Limitations.md",
+    "Quiz notes.md",
+    "Sebastian_MPAnimationTL.md",
+    "New Loss + Self embedder runs.md",
     "Final Defense proper.md",
-    "Sebastian_MPAnimationTL.md"
+    "RPN new loss.md",
+    "Computer_Graphics/Python/3D_Graphics/MP. 3D Graphics in Python_Sebastian_sine wave.md",
+    "Computer_Graphics/Python/3D_Graphics/MP. 3D Graphics in Python_Sebastian_distance.md",
+    "Untitled.md",
+    "Thesis II Consultation.md",
+    "Life and Works of Rizal Notes/Life and Works of Rizal.md",
+    "New Vit Studies .md"
   ]
 }

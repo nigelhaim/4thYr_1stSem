@@ -70,3 +70,80 @@ sticker: lucide//skull
 | ![[Pasted image 20241107000014.png]] | ![[Pasted image 20241107000022.png]] | ![[Pasted image 20241106235935.png]] | ViT_GTNov_06_2024_233402.pt | ![[Pasted image 20241106235945.png]]   | ![[Pasted image 20241106235927.png]] | 0.3       |                                                  | IOU: 0.003 Precision: 0.003 Recall 0.833 Dice 0.006 Accuracy 0.001 |
 | ![[Pasted image 20241107125049.png]] | ![[Pasted image 20241107125039.png]] | ![[Pasted image 20241107124943.png]] | ViT_GTNov_07_2024_104706.pt | ![[Pasted image 20241107125001.png]]   | ![[Pasted image 20241107124934.png]] | 0.10      | Used<br>RPN_test15_weights_Nov_04_2024_213347.pt | IOU: 0.17 Precision: 0.201 Recall 0.382 Dice 0.24 Accuracy 0.995   |
 | ![[Pasted image 20241110143905.png]] | ![[Pasted image 20241110143912.png]] | ![[Pasted image 20241110143917.png]] | ViT_GTNov_10_2024_135616.pt | ![[Pasted image 20241110143946.png]]   | ![[Pasted image 20241110143933.png]] | 0.59      | Combined cohort 1 and 3                          | IOU: 0.051 Precision: 0.058 Recall 0.348 Dice 0.085 Accuracy 0.967 |
+
+
+# RPN new loss
+alpha=1
+beta = 1
+![[aplpha_1_beta_1.png]]
+
+![[alpha_1_beta_1_sample.png]]
+
+RPN Test Set Performance Metrics
+Average IOU: 0.09987664926601084 
+Average Precision: 0.1297573348409251 
+Average Recall: 0.20664940335248644 
+Average F1 Score: 0.14712027287796925
+
+
+
+
+
+alpha = 0.2
+beta = 0.8
+
+![[Pasted image 20241121113148.png]]
+![[Pasted image 20241121113220.png]]
+RPN Test Set Performance Metrics Average IOU: 0.15482194604058014 Average Precision: 0.16333881702862288 Average Recall: 0.5397969092193403 Average F1 Score: 0.23659619704673163
+
+
+
+
+alpha = 0.8
+beta = 0.2
+
+![[Pasted image 20241121120348.png]]
+![[Pasted image 20241121120400.png]]
+RPN Test Set Performance Metrics Average IOU: 0.21830740112223124 Average Precision: 0.27682117459021116 Average Recall: 0.4478963821342116 Average F1 Score: 0.3213597753134213
+
+
+alpha = 0.5
+
+beta = 0.5
+![[Pasted image 20241121124830.png]]
+![[Pasted image 20241121124924.png]]
+RPN Test Set Performance Metrics Average IOU: 0.0574208339578227 Average Precision: 0.09323572563497644 Average Recall: 0.08378472610523827 Average F1 Score: 0.0829081118106842
+
+
+alpha = 0.3
+beta = 0.7
+![[Pasted image 20241121134034.png]]
+![[Pasted image 20241121134030.png]]
+RPN Test Set Performance Metrics Average IOU: 0.1100832937579406 Average Precision: 0.11924138810289533 Average Recall: 0.31699844653669157 Average F1 Score: 0.16402227737401662
+
+
+
+alpha = 0.1
+
+beta = 0.9
+![[Pasted image 20241121141221.png]]
+![[Pasted image 20241121141311.png]]
+
+RPN Test Set Performance Metrics Average IOU: 0.16342736757115314 Average Precision: 0.17637251842963067 Average Recall: 0.49064041556496374 Average F1 Score: 0.24366893007567053
+
+
+
+alpha = 0.15
+beta = 0.85
+
+![[Pasted image 20241121144401.png]]
+
+![[Pasted image 20241121144411.png]]
+
+RPN Test Set Performance Metrics Average IOU: 0.10462246309769782 Average Precision: 0.1170930035020176 Average Recall: 0.32223638515723374 Average F1 Score: 0.1559263516413538
+
+
+
+
+
+

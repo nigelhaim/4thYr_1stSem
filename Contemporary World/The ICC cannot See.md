@@ -10,7 +10,20 @@ The operations led to large-scale extrajudicial violence that led to the deaths 
 
 On March 17, 2018, The Philippines withdrew from the International Ciminal Court. However according with the ICC treaty, a country's withdrawal will take effect within one year. Six senators filed a petition before the Supreme Court where they seeked a petition to invalidate the withdrawal from the Rome Statute of the ICC. However they did not succeed (Caliwan, 2018). The Rome Statute permits the court to retain its jurisdiction over any crime happened before its withdrawal (Humans Rights Watch, 2023).  The former president stated that "the Philippine government had enough mechanisms in place to ensure that the justice system functioned properly (Guttierez, 2019)". President Ferdinand Romualdez Marcos Jr. reiterates that the I.C.C does not have any jurisdiction in the Philippines, and considers it as a threat to the country's sovereignty (Presidential Communications Office, 2024). 
 
-After two years of leaving office there are numerous hearings of the congress on the case of the extra-judicial hearings without the presence of the former president. On November 2024, the former president dared the I.C.C to "hurry-up" in the investigation to his policies during his presidency when he faced the committee of the house of representatives for the first time. The former president stated "I am asking the ICC to hurry up, and if possible, they can come here and start the investigation tomorrow" as he was asked by Gabriela Rep. Arlene Brosas (Zablan, 2024). The office of the president of Ferdinant Marcos issued a statement that it would honor any red notice in which case the domestic law enforcement agencies shall be bound to accord full cooperation (. 
+After two years of leaving office there are numerous hearings of the congress on the case of the extra-judicial hearings without the presence of the former president. On November 2024, the former president dared the I.C.C to "hurry-up" in the investigation to his policies during his presidency when he faced the committee of the house of representatives for the first time. The former president stated "I am asking the ICC to hurry up, and if possible, they can come here and start the investigation tomorrow" as he was asked by Gabriela Rep. Arlene Brosas (Zablan, 2024). The office of the president of Ferdinand Marcos issued a statement that it would honor any red notice in which case the domestic law enforcement agencies shall be bound to accord full cooperation (NBC News, 2024).
+
+## I. The International Criminal Court 
+
+The United Nations established a permanent institution that has the have power to exercise its jurisdiction over persons for the the international crimes. This institution is named as the International Criminal Court (United Nations, 1988). The ICC established a treaty called the Rome Statute that came into force on the July 1 2022 that granted the ICC a jurisdiction that is committed after July 1 2002 over four categories of the most serious international crimes; genocide, crimes against humanity, war crimes and crimes of aggression (IIEA, 2022). 
+
+One of the violations that is under the jurisdiction of the ICC is the crimes against humanity. This is referred as a widespread attack directed against any civilian population. These attacks are need required to be linked to an armed conflicted and can be occurred during in times of peace (IIEA, 2022). This also referred that any direct attacks to civilian population to pursue or in furtherance of a state or organized policy (United nations, 1998). 
+
+When a given situation such as the violation of of crimes against humanity has occurred in a state, the ICC prosecutor can initiate an investigation in respect to such a crime in accordance with the article 15. The article 15 states that it is the duty of the prosecutor to analyze the seriousness of the information received of any crime committed. If the prosecutor concludes that there is a reasonable basis on the given information, it will proceed to a submission to the Pre-Trial Chamber an authorization request that is backed by any supporting material collected to investigate on the state (United nations, 1998).
+
+On the annual session of the Assembly of States parties in December 2019, before ending her term as a prosecutor of the ICC, Fatou Bensouda initiated a preliminary investigation on the Philippine drug war. 
+
+During her term as a prosecutor of the ICC, Fatou Bensouda initiated a preliminary examination on the Philippines in the 8th of February 2018. She analyzed a large amount of available information for the public that to believe that crime against humanity of murder has been committed in the Philippines. 
+
 ### References: 
 
 International Criminal Court. (2021, January). Republic of the Philippines. https://www.icc-cpi.int/philippine
@@ -33,3 +46,8 @@ Caliwan, CL. (2018, May 16). 6 senators ask SC to void PH’s ICC withdrawal. _P
 
 Zablan, C. (2024, November 13). _Duterte dares ICC to ‘hurry up’ in investigating drug war killings_. NEWS 5. https://news.tv5.com.ph/breaking/read/duterte-dares-icc-to-hurry-up-in-investigating-drug-war-killings
 
+_Philippines says it would be obliged to comply if Interpol seeks ex-president Duterte’s arrest_. (2024, November 14). NBC News. https://www.nbcnews.com/news/world/philippines-president-rodrigo-duterte-interpol-arrest-warrant-icc-rcna179919
+
+_Rome Statute of the International Criminal Court_. (1998, July 17). United Nations. https://www.ohchr.org/en/instruments-mechanisms/instruments/rome-statute-international-criminal-court
+
+_The Rome Statute and the International Criminal Court Factsheet_. (2022, July 13). IIEA. https://www.iiea.com/blog/the-rome-statute-and-the-international-criminal-court-factsheet

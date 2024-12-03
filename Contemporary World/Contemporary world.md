@@ -499,3 +499,4 @@ Despite of winning of cases why do we still do not enforce these laws
 - Less Developed countries
 - Least Developed countries
 
+![[Pasted image 20241122163302.png]]
