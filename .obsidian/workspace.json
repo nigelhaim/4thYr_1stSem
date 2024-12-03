@@ -11,14 +11,10 @@
             "id": "b0bda076abd964ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contemporary World/The ICC cannot See.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The ICC cannot See"
+              "title": "New tab"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1013d677515633a3",
@@ -165,14 +160,6 @@
   },
   "active": "b0bda076abd964ac",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Contemporary World/The ICC cannot See.md",
-    "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
-    "Contemporary World/Notes for Contemporary  World Paper.md",
-    "Contemporary World/P.T. 1 Experimental Learning (The Poet in Me).md",
-    "Contemporary World/Contemporary world.md",
-    "Contemporary World/Contemporary world Activity 1.md",
-    "Contemporary World/Introduction-To-International-Relations-Theories-And-Approaches-Oxford-University-Press (1).pdf",
     "Computer_Graphics/Python/3D_Graphics/desktop.ini",
     "Computer_Graphics/Python/3D_Graphics/Sebastian_MPTrans.ipynb",
     "Data_Analysis_and_Visualization/nmt_weights.h5",
@@ -186,6 +173,9 @@
     "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC$1.class",
     "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/project.xml",
     "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/project.properties",
+    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/build-impl.xml",
+    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/genfiles.properties",
+    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc",
     "Statistical treatment.md",
     "List of Figures.md",
     "Statistical Metrics_V2.md",
@@ -205,11 +195,16 @@
     "New Loss + Self embedder runs.md",
     "Final Defense proper.md",
     "RPN new loss.md",
+    "Contemporary World/Contemporary world.md",
     "Computer_Graphics/Python/3D_Graphics/MP. 3D Graphics in Python_Sebastian_sine wave.md",
     "Computer_Graphics/Python/3D_Graphics/MP. 3D Graphics in Python_Sebastian_distance.md",
     "Untitled.md",
     "Thesis II Consultation.md",
     "Life and Works of Rizal Notes/Life and Works of Rizal.md",
-    "New Vit Studies .md"
+    "New Vit Studies .md",
+    "DOST Form.md",
+    "Other notes.md",
+    "README.md",
+    "Computer_Graphics/Sebastian_MP_TLC.md"
   ]
 }
