@@ -11,10 +11,14 @@
             "id": "b0bda076abd964ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "new rpn tests.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "new rpn tests"
             }
           }
         ]
@@ -160,6 +164,10 @@
   },
   "active": "b0bda076abd964ac",
   "lastOpenFiles": [
+    "Pasted image 20241204091532.png",
+    "Pasted image 20241204091520.png",
+    "Pasted image 20241204091511.png",
+    "new rpn tests.md",
     "Computer_Graphics/Python/3D_Graphics/desktop.ini",
     "Computer_Graphics/Python/3D_Graphics/Sebastian_MPTrans.ipynb",
     "Data_Analysis_and_Visualization/nmt_weights.h5",
@@ -175,7 +183,6 @@
     "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/project.properties",
     "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/build-impl.xml",
     "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/genfiles.properties",
-    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc",
     "Statistical treatment.md",
     "List of Figures.md",
     "Statistical Metrics_V2.md",
@@ -187,8 +194,6 @@
     "Pasted image 20241127003742.png",
     "Pasted image 20241127003730.png",
     "Pasted image 20241127003716.png",
-    "Pasted image 20241127003227.png",
-    "Pasted image 20241127003216.png",
     "Scope and Limitations.md",
     "Quiz notes.md",
     "Sebastian_MPAnimationTL.md",
@@ -204,7 +209,6 @@
     "New Vit Studies .md",
     "DOST Form.md",
     "Other notes.md",
-    "README.md",
-    "Computer_Graphics/Sebastian_MP_TLC.md"
+    "README.md"
   ]
 }
