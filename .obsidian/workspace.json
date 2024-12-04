@@ -11,17 +11,30 @@
             "id": "b0bda076abd964ac",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Pasted image 20241125150101.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241125150101"
+            }
+          },
+          {
+            "id": "e6bb434b51df39ac",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "new rpn tests.md",
+                "file": "Add Region Vision Transformer literature in RRL and Add use of Vision Transformer literature about focusing tiny objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new rpn tests"
+              "title": "Add Region Vision Transformer literature in RRL and Add use of Vision Transformer literature about focusing tiny objects"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1013d677515633a3",
@@ -162,12 +176,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0bda076abd964ac",
+  "active": "e6bb434b51df39ac",
   "lastOpenFiles": [
-    "Pasted image 20241204091532.png",
-    "Pasted image 20241204091520.png",
-    "Pasted image 20241204091511.png",
+    "Media/Pasted image 20241125150101.png",
+    "Add Region Vision Transformer literature in RRL and Add use of Vision Transformer literature about focusing tiny objects.md",
+    "Media/Pasted image 20241125150805.png",
+    "Contemporary World/The ICC cannot See.md",
     "new rpn tests.md",
+    "Media/Pasted image 20241204091532.png",
+    "Media/Pasted image 20241204091520.png",
+    "Media/Pasted image 20241204091511.png",
     "Computer_Graphics/Python/3D_Graphics/desktop.ini",
     "Computer_Graphics/Python/3D_Graphics/Sebastian_MPTrans.ipynb",
     "Data_Analysis_and_Visualization/nmt_weights.h5",
@@ -191,9 +209,7 @@
     "Thesis Script.md",
     "Thesis II.md",
     "Sebastian_LSinAI.md",
-    "Pasted image 20241127003742.png",
-    "Pasted image 20241127003730.png",
-    "Pasted image 20241127003716.png",
+    "Media/Pasted image 20241127003742.png",
     "Scope and Limitations.md",
     "Quiz notes.md",
     "Sebastian_MPAnimationTL.md",
@@ -207,8 +223,6 @@
     "Thesis II Consultation.md",
     "Life and Works of Rizal Notes/Life and Works of Rizal.md",
     "New Vit Studies .md",
-    "DOST Form.md",
-    "Other notes.md",
-    "README.md"
+    "DOST Form.md"
   ]
 }
