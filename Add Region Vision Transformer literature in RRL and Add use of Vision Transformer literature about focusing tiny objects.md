@@ -6,8 +6,7 @@ Wu et al., (2023) proposed a two-stage model named RS Transformer that utilizes 
 
 **Vision Transformers on Tiny Datasets**
 
-Despite a great performance of Vision Transformers on image classification, it struggles on tony
-
+Microbleeds tend to be very small and some structures or lesions exhibit susceptibility effects that can mimic CMBs (Puy et al., 2021). Camouflage object detection (COD) focuses on detecting and segmenting objects that is seamlessly integrated to its surroundings (Hao et al., 2024). Numerous studies have attempted to utilize vision transformers for COD and shown promising performance. However there one of the major issues within the existing techniques is the implementation of vision transformers to COD are less effective in local feature modeling for transformer backbones. The study of  argue that both global context and local features play essential roles in COD tasks. However, we observe that most transformer-based methods lack a locality mechanism for information exchange within local regions. 
 **Region proposal Vision Transformers**
 
 Despite the good performance of Vision Transformers on multiple tasks, it doesn't perform well on small amounts of data. One of the reasons of the success of the Constitutional Neural Networks as a pillar of vision machine learning is because of the inductive bias that includes translational invariance and scale invariance (Ge et al., 2022). Without complex network structures (Ge et al., 2022) proposes a model of RPViT that divides the image and preserve the scale invariance and locality of objects through a vision transformer based on region proposal network. They also improve the transformer architecture through a multi-class token approach that learns local and global relationships. They concluded that the RPViT shows effectiveness on the ImageNet dataset and achieved a high classification accuracy of 75.3% on 4.8M parameter and 82.0% on 23.6M parameter. 
@@ -18,3 +17,7 @@ Wu, T., Shi, L., Zhang, L., Wen, X., Lu, J., & Li, Z. (2023). RS Transformer: A 
 
 
 Ge, J., Wang, Q., Tong, J., & Gao, G. (2022, January 7). _RPViT: Vision Transformer Based on Region Proposal_. ACM Digital Library. https://doi.org/10.1145/3512388.3512421
+
+Hao, C., Yu, Z., Liu, X., Xu, J., Yue, H., & Yang, J. (2024, February 29). _A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection_. arXiv.org. https://arxiv.org/abs/2402.18922
+
+Puy, L., Pasi, M., Rodrigues, M., Van Veluw, S. J., Tsivgoulis, G., Shoamanesh, A., & Cordonnier, C. (2021). Cerebral microbleeds: from depiction to interpretation. _Journal of Neurology Neurosurgery & Psychiatry_, _92_(6), 598–607. https://doi.org/10.1136/jnnp-2020-323951
