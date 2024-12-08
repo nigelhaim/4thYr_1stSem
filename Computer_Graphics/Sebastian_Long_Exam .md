@@ -8,7 +8,7 @@
 ## a) basic geometric objects using python
 
 
-![[code.png]]
+![[code 9.png]]
 
 >[!Note]- Result
 >![[Pasted image 20240919135559.png]]\
@@ -16,7 +16,7 @@
 
 ## (b) general path using  java and fill the object by magenta
 
-![[code 1.png]]
+![[code 1 2.png]]
 
 
 >[!Note]- Result
@@ -31,7 +31,7 @@ HJ = 50, IJ = 100
 
 ## (a) using the basic geometric objects in python
 
-![[code 2.png]]
+![[code 2 2.png]]
 
 >[!Note]- Result
 >![[Pasted image 20240919143623.png]]

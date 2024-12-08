@@ -13,15 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extra RRL.md",
+                "file": "Scope and Limitations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extra RRL"
+              "title": "Scope and Limitations"
+            }
+          },
+          {
+            "id": "5ae1938a462e3c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary Thesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary Thesis"
+            }
+          },
+          {
+            "id": "6ea19609fb50c2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vast AI notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vast AI notes"
+            }
+          },
+          {
+            "id": "5267a5889c1f1c1f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Pasted image 20241106223152.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241106223152"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,53 +203,52 @@
       "templates:Insert template": false
     }
   },
-  "active": "b0bda076abd964ac",
+  "active": "5267a5889c1f1c1f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
     "Scope and Limitations.md",
+    "Vast AI notes.md",
+    "vit_test2.pdf",
+    "Thesis Script.md",
+    "Thesis II Consultation.md",
+    "Statistical treatment.md",
+    "Summary Thesis.md",
+    "Statistical Metrics_V2.md",
+    "Sebastian_MPAnimationTL.md",
+    "Sebastian_LSinAI.md",
+    "ResNet vs AutoEncoder.md",
+    "Media/Pasted image 20241106223152.png",
     "RPN new loss.md",
+    "Thesis II.md",
+    "Quiz notes.md",
+    "Other notes.md",
+    "Final Defense proper.md",
+    "List of Figures.md",
+    "New Loss + Self embedder runs.md",
+    "README.md",
     "new rpn tests.md",
+    "New Vit Studies .md",
+    "Media/Pasted image 20241121141221.png",
+    "[THESIS PROPOSAL] - Chapters 1-3.pdf",
+    "Codes .md",
+    "DOST Form.md",
+    "Extra RRL.md",
+    "Contemporary World/Contemporary world.md",
+    "Media/aplpha_1_beta_1.png",
+    "Media/Pasted image 20241121113148.png",
+    "Untitled.md",
+    "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
+    "Media/alpha_1_beta_1_sample.png",
+    "Media/Pasted image 20241204123735.png",
     "Media/Progressive_Learning_Based_Knowledge_Distillation_for_Low_Resolution_Cerebral_Microbleed_Segmentation-2.pdf",
     "Media/Pasted image 20241204091532.png",
     "Media/Pasted image 20241204091520.png",
     "Media/Pasted image 20241204091511.png",
     "Media/Pasted image 20241127003742.png",
-    "Media/Pasted image 20241127003730.png",
-    "Media/Pasted image 20241127003716.png",
-    "Media/Pasted image 20241127003227.png",
-    "Media/Pasted image 20241127003216.png",
-    "Media/Pasted image 20241127003205.png",
-    "Media/Pasted image 20241127003149.png",
-    "Extra RRL.md",
     "Computer_Graphics/Python/3D_Graphics/desktop.ini",
     "Computer_Graphics/Python/3D_Graphics/Sebastian_MPTrans.ipynb",
     "Data_Analysis_and_Visualization/nmt_weights.h5",
     "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC.java",
     "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC.class",
-    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC$1.class",
-    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/project.xml",
-    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/project.properties",
-    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/nbproject/build-impl.xml",
-    "Statistical treatment.md",
-    "List of Figures.md",
-    "Statistical Metrics_V2.md",
-    "Summary Thesis.md",
-    "ResNet vs AutoEncoder.md",
-    "Thesis Script.md",
-    "Thesis II.md",
-    "Sebastian_LSinAI.md",
-    "Quiz notes.md",
-    "Sebastian_MPAnimationTL.md",
-    "New Loss + Self embedder runs.md",
-    "Final Defense proper.md",
-    "Contemporary World/Contemporary world.md",
-    "Computer_Graphics/Python/3D_Graphics/MP. 3D Graphics in Python_Sebastian_sine wave.md",
-    "Computer_Graphics/Python/3D_Graphics/MP. 3D Graphics in Python_Sebastian_distance.md",
-    "Thesis II Consultation.md",
-    "Life and Works of Rizal Notes/Life and Works of Rizal.md",
-    "New Vit Studies .md",
-    "DOST Form.md",
-    "Other notes.md"
+    "Computer_Graphics/Activities_Summative/Java/SEbastian_MP_TLC/src/sebastian_mp_tlc/Sebastian_MP_TLC$1.class"
   ]
 }

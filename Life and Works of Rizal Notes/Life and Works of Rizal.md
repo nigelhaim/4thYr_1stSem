@@ -457,4 +457,47 @@ The sorrows in his family also contributed for Rizal to strengthen his character
 	- Reforms - Does not want independence 
 		- Representation to the spanish congress
 		- A province of Spain 
-		- 
+
+## Module 8
+
+Mi ultimo adios has no title but it is hidden in a lamp given to his sister.
+There were about 8 novels written by Rizal 
+- Noli Me Tangere (March 29, 1887)
+	- Rizal Removed Chapter 25 to save printing costs
+	- Salome is the ideal lady because she can decide that cannot be swayed by her emotions unlike Maria Clara when she got heartbroken she just want to become a nun. 
+	- Elias is practical that visualizes the future. 
+	- Both chose the practical side therefore they broke up. 
+	- The chapter tells us about the cycle of poverty in the Philippines. Why do families struggle to get out from poverty.
+		- Uneducated has a higher chance of having an uneducated spouse therefore the offspring has a low chance to be educated.
+	- Education is a possible solution to escape poverty 
+- El Filibusterismo (Sept 19, 1891)
+- Untitled and Unfinished
+- Makamisa - Unfinished
+	- Written in tagalog about the culture of the Tagalog
+- Dapitan - Unfinished - Start of his exile
+- Sixth Novel - Untitled and Unfinished 
+- Seventh Novel - Untitled Unfished 
+- Eight Novel - Untitled and Unfinished
+
+| Noli Me Tangere (Touch Me Not)                                                                 | El Filibusterismo (The Reign of Greed)                   |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Sponsored by Maximo Viola                                                                      | Sponsored by Valentin Ventura                            |
+| Published in Berlin, Germany                                                                   | Published in Ghent Belgium                               |
+| Inspired by Uncle Tom's Cabin by Harriet Beecher Stow and Dona Perfecta by Benito Perez Galdoz | Inspired by The Count of Monte Cristo by Alexander Dumas |
+| Romantic Novel                                                                                 | Politicial Novel                                         |
+| A work of the heart                                                                            | A work of the head                                       |
+| Book of feelings                                                                               | A book of thought                                        |
+| consists of 64 chapters                                                                        | Consists of 48 chapters                                  |
+| Academic                                                                                       | Galit                                                    |
+| became an enemy and likewise a praised celebrity                                               | Creates a sense of Filipino identity                     |
+|                                                                                                |                                                          |
+
+Rizal's intentions is to say the truth about the situation in the Philippines. 
+The 3 martyrs did not fought for the Filipino freedom but for a leadership in the church.
+
+
+UST banned the Noli stating that it was "heretical, impious, and scandalous in the religious order and anti-patriotic, subversive of public order, injurious to the government of Spain and its function in the Philippine islands in the political order"
+
+Critics
+- Fr. Jose Ridrigues made a series of eight pamplhlets titled "Cuestiones de Sumo Interes" blasting out the nolimetangere
+- Vicente Barrantes who mae a criticism of the novel published in La Espana Moderna

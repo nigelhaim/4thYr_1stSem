@@ -24,6 +24,15 @@ During her term as a prosecutor of the ICC, Fatou Bensouda initiated a prelimina
 
 ## II. The war on drugs
 
+After the Philippine election in 2016, former President Rodrigo Roa Duterte initiated his so-called "war on drugs" into action. A bloody campaign to to eliminate the illegal drug trade in the Philippines which killed 30,000 civilians. It targeted civilians particularly male victims from the poor, urban areas, who are gunned down in the streets or in their homes by law enforcers. Numerous sources documented the killings have challenged the claim of the law enforcers that killed the victims because of self-defense (Ratcliffe, 2024). 
+
+There are also have been reports that police officers have hired assassins for financial incentives, some affected families have investigated that there evidences relating to the plating of drugs to their love ones to frame the victim. During his term, there are numerous raids and hunts that targeted young men on the impoverished backgrounds, and no officer that has be prosecuted or dismissed form duty because his or her abuse (Amnesty International UK, 2017).  
+
+Regardless a user have taken prohibited drugs in any duration or a drug pusher, there are numerous cases that 'Riding in tandem' occurs. A driver and a gunman as a passenger rides a motorcycle and shoot down a target. Most victims in this phenomenon have ben unverified on the list of suspects. Before the former president took office, every civilian life taken costs 5,000 pesos that only occurs twice a month maximum. However during the drug war, each kill of a drug pusher costs 10,000 to 15,000 pesos with that occurs three or four times a week (Amnesty International UK, 2017). 
+
+	The former president also gives excess funds in the police department during the drug war. During the eleventh hearing of the Quad Committee, Duterte claimed that the police lacked funding for the day-to-day operations particularly for hostage and kidnapping. He also stated that he let the excess funds be kept by the police as a reward (Subingsubing, 2024). This is also the former president's first appearance at the House Quad Comm to address allegations related to the reward system and extrajudicial killings (Flores, 2024). 
+
+
 ### References:
 
 International Criminal Court. (2021, January). Republic of the Philippines. https://www.icc-cpi.int/philippine
@@ -55,3 +64,11 @@ _The Rome Statute and the International Criminal Court Factsheet_. (2022, July 1
 _Statement of the prosecutor, Fatou Bensouda, on her request to open an investigation of the situation in the Philippines_. (2021, June 14). International Criminal Court. https://www.icc-cpi.int/news/statement-prosecutor-fatou-bensouda-her-request-open-investigation-situation-philippines
 
 Engelbrecht, G. (2021, September 17). _Philippines: The International Criminal Court Goes After Duterte’s Drug War_. International Crisis Group. https://www.crisisgroup.org/asia/south-east-asia/philippines/philippines-international-criminal-court-goes-after-dutertes-drug-war
+
+Ratcliffe, R. (2024, November 4). Rodrigo Duterte’s ‘war on drugs’ in the Philippines – explained in 30 seconds. _The Guardian_. https://www.theguardian.com/world/2024/nov/04/rodrigo-dutertes-war-on-drugs-in-the-philippines-explained-in-30-seconds-ntwnfb
+
+Amnesty International UK. (2017). _More than 7,000 killed in the Philippines in six months, as president encourages murder_. https://www.amnesty.org.uk/philippines-president-duterte-war-on-drugs-thousands-killed
+
+Flores, D. N. (2024, November 13). Rodrigo Duterte admits giving excess funds to police in drug war. _Philstar.com_. https://qa.philstar.com/headlines/2024/11/13/2399857/rodrigo-duterte-admits-giving-excess-funds-police-drug-war
+
+Subingsubing, K. (2024, November 14). _Duterte admits to drug war reward system: ‘I sometimes gave extra as a reward’_ Philippine Daily Inquirer. https://plus.inquirer.net/news/duterte-admits-to-drug-war-reward-system-i-sometimes-gave-extra-as-a-reward/

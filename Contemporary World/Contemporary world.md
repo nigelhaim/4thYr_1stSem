@@ -500,3 +500,7 @@ Despite of winning of cases why do we still do not enforce these laws
 - Least Developed countries
 
 ![[Pasted image 20241122163302.png]]
+
+
+### Question
+How can we use film for political movement? 
