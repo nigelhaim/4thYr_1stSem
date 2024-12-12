@@ -147,3 +147,5 @@ RPN Test Set Performance Metrics Average IOU: 0.10462246309769782 Average Precis
 
 
 
+First Run: 348m 54s
+Second Run: 346m 32s
