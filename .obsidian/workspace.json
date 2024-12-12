@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,13 +191,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "57bc735afa6bc69a",
+  "active": "1072f4965a6a604b",
   "lastOpenFiles": [
+    "Pasted image 20241212111357.png",
+    "Computer_Graphics/Project Notes .md",
+    "README.md",
     "Pasted image 20241212012237.png",
     "Pasted image 20241212000811.png",
     "Computer_Graphics/Sebastian_Long_Exam .md",
     "Data Viz logs.md",
-    "Computer_Graphics/Project Notes .md",
     "Computer_Graphics/LongExam Reviewer.md",
     "ResNet vs AutoEncoder.md",
     "RPN new loss.md",
@@ -222,7 +224,6 @@
     "Final Defense proper.md",
     "List of Figures.md",
     "New Loss + Self embedder runs.md",
-    "README.md",
     "Media/Pasted image 20241121141221.png",
     "[THESIS PROPOSAL] - Chapters 1-3.pdf",
     "Media/aplpha_1_beta_1.png",
