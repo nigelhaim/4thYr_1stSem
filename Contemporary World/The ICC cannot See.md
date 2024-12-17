@@ -8,7 +8,7 @@ The former president Rodrigo Roa Duterte carried out a campaign called "War on d
 
 The operations led to large-scale extrajudicial violence that led to the deaths of 12,000 Filipinos. These killings could amount to the crimes against humanity. The chief prosecutor of the I.C.C Fatou Bensouda believed that the crimes against humanity of murder, torture and the infliction of serious physical injury and mental harm (Gutierrez, 2020). It is also found by the Human Rights Watch research that police falsifies evidence to justify unlawful killings.
 
-On March 17, 2018, The Philippines withdrew from the International Ciminal Court. However according with the ICC treaty, a country's withdrawal will take effect within one year. Six senators filed a petition before the Supreme Court where they seeked a petition to invalidate the withdrawal from the Rome Statute of the ICC. However they did not succeed (Caliwan, 2018). The Rome Statute permits the court to retain its jurisdiction over any crime happened before its withdrawal (Humans Rights Watch, 2023).  The former president stated that "the Philippine government had enough mechanisms in place to ensure that the justice system functioned properly (Guttierez, 2019)". President Ferdinand Romualdez Marcos Jr. reiterates that the I.C.C does not have any jurisdiction in the Philippines, and considers it as a threat to the country's sovereignty (Presidential Communications Office, 2024).
+On March 17, 2018, The Philippines withdrew from the International Criminal Court. However according with the ICC treaty, a country's withdrawal will take effect within one year. Six senators filed a petition before the Supreme Court where they seeked a petition to invalidate the withdrawal from the Rome Statute of the ICC. However they did not succeed (Caliwan, 2018). The Rome Statute permits the court to retain its jurisdiction over any crime happened before its withdrawal (Humans Rights Watch, 2023).  The former president stated that "the Philippine government had enough mechanisms in place to ensure that the justice system functioned properly (Guttierez, 2019)". President Ferdinand Romualdez Marcos Jr. reiterates that the I.C.C does not have any jurisdiction in the Philippines, and considers it as a threat to the country's sovereignty (Presidential Communications Office, 2024).
 
 After two years of leaving office there are numerous hearings of the congress on the case of the extra-judicial hearings without the presence of the former president. On November 2024, the former president dared the I.C.C to "hurry-up" in the investigation to his policies during his presidency when he faced the committee of the house of representatives for the first time. The former president stated "I am asking the ICC to hurry up, and if possible, they can come here and start the investigation tomorrow" as he was asked by Gabriela Rep. Arlene Brosas (Zablan, 2024). The office of the president of Ferdinand Marcos issued a statement that it would honor any red notice in which case the domestic law enforcement agencies shall be bound to accord full cooperation (NBC News, 2024).
 
@@ -24,18 +24,31 @@ During her term as a prosecutor of the ICC, Fatou Bensouda initiated a prelimina
 
 ## II. The war on drugs
 
-After the Philippine election in 2016, former President Rodrigo Roa Duterte initiated his so-called "war on drugs" into action. A bloody campaign to to eliminate the illegal drug trade in the Philippines which killed 30,000 civilians. It targeted civilians particularly male victims from the poor, urban areas, who are gunned down in the streets or in their homes by law enforcers. Numerous sources documented the killings have challenged the claim of the law enforcers that killed the victims because of self-defense (Ratcliffe, 2024). 
+After the Philippine election in 2016, former President Rodrigo Roa Duterte initiated his so-called "war on drugs" into action. It targeted civilians particularly male victims from the poor, urban areas, who are gunned down in the streets or in their homes by law enforcers. Numerous sources documented the killings have challenged the claim of the law enforcers that killed the victims because of self-defense (Ratcliffe, 2024). 
 
 There are also have been reports that police officers have hired assassins for financial incentives, some affected families have investigated that there evidences relating to the plating of drugs to their love ones to frame the victim. During his term, there are numerous raids and hunts that targeted young men on the impoverished backgrounds, and no officer that has be prosecuted or dismissed form duty because his or her abuse (Amnesty International UK, 2017).  
 
 Regardless a user have taken prohibited drugs in any duration or a drug pusher, there are numerous cases that 'Riding in tandem' occurs. A driver and a gunman as a passenger rides a motorcycle and shoot down a target. Most victims in this phenomenon have ben unverified on the list of suspects. Before the former president took office, every civilian life taken costs 5,000 pesos that only occurs twice a month maximum. However during the drug war, each kill of a drug pusher costs 10,000 to 15,000 pesos with that occurs three or four times a week (Amnesty International UK, 2017). 
 
-	The former president also gives excess funds in the police department during the drug war. During the eleventh hearing of the Quad Committee, Duterte claimed that the police lacked funding for the day-to-day operations particularly for hostage and kidnapping. He also stated that he let the excess funds be kept by the police as a reward (Subingsubing, 2024). This is also the former president's first appearance at the House Quad Comm to address allegations related to the reward system and extrajudicial killings (Flores, 2024). 
+The former president also gives excess funds in the police department during the drug war. During the eleventh hearing of the Quad Committee, Duterte claimed that the police lacked funding for the day-to-day operations particularly for hostage and kidnapping. He also stated that he let the excess funds be kept by the police as a reward (Subingsubing, 2024). This is also the former president's first appearance at the House Quad Comm to address allegations related to the reward system and extrajudicial killings (Flores, 2024). 
 
+## III. The Aftermath
+
+It is estimated that 12,000 to 30,000 are killed during the drug war (UP Department of Political Science, 2023). Between 2016 to 2019 atleast 122 children aged from 1 to 17 are also murdered during the war. Furthermore the estimated number of children who lost atleast one parent because of the war is 9068. These victims are considered as the breadwinners of the family of low-income households. Their deaths signifies a great reduction on the income of the family. It is reported that children dropped out of school and there are numerous incidents of child labor. Despite the efforts of the president creating programs for poverty reduction strategies there is no concrete plan on how to support the children of the murdered victims (Sugaya, 2022). 
+
+After his presidency, one of the most vocal critics of the former president, former senator Leila de Lima has been freed after being arrested and detained for years during the presidency. She stated that “This man … for so long has evaded justice and accountability”. It is also reported that fear spread throughout the campaign, witnesses are afraid to come out and speak up when the largescale killings were unfolding (Gomez, 2024). 
+
+## International Criminal Court redrawal 
+
+A withdrawal from the jurisdiction from the international criminal court becomes effect after one year of deposit notice of the withdrawal to the United Nations. It also has no impact on any on-going proceedings without any consideration form the withdrawing nation. On march 19, 2019 the United Nations notified the court that the Philippines withdraw from the Roman Statute. (International Criminal Court, 2018). 
+
+Despite its official withdrawal, the preliminary examination of the situation in the Philippines still occurs that the allegedly committed in the nation by the Duterte and it's party since at least the first of July 2016. On September 15, 2021 the pre-trial chamber authorized the prosecutor to commence the investigation of the crimes committed. 
 
 ### References:
 
 International Criminal Court. (2021, January). Republic of the Philippines. https://www.icc-cpi.int/philippine
+
+International Criminal Court. (2018, March 20). ICC Statement on The Philippines’ notice of withdrawal: State participation in Rome Statute system essential to international rule of law. https://www.icc-cpi.int/news/icc-statement-philippines-notice-withdrawal-state-participation-rome-statute-system-essential
 
 Gavilan, J. (2017, November 21). What do gov’t circulars ‘operationalizing’ Duterte’s war on drugs say? _RAPPLER_. https://www.rappler.com/newsbreak/iq/189132-philippine-government-circulars-duterte-drug-war/
 
@@ -72,3 +85,10 @@ Amnesty International UK. (2017). _More than 7,000 killed in the Philippines in 
 Flores, D. N. (2024, November 13). Rodrigo Duterte admits giving excess funds to police in drug war. _Philstar.com_. https://qa.philstar.com/headlines/2024/11/13/2399857/rodrigo-duterte-admits-giving-excess-funds-police-drug-war
 
 Subingsubing, K. (2024, November 14). _Duterte admits to drug war reward system: ‘I sometimes gave extra as a reward’_ Philippine Daily Inquirer. https://plus.inquirer.net/news/duterte-admits-to-drug-war-reward-system-i-sometimes-gave-extra-as-a-reward/
+
+
+_New Publication: Iglesias, Explaining the Pattern of “War on Drugs” Violence in the Philippines under Duterte – UP Department of Political Science_. (n.d.). https://polisci.upd.edu.ph/new-publication-iglesias-explaining-the-pattern-of-war-on-drugs-violence-in-the-philippines-under-duterte/
+
+Sugaya, N., _War on drugs and children in the Philippines_. (2022, July 8). Institute of Development Studies Alumni Network. https://alumni.ids.ac.uk/news/blogs-perspectives-provocations-initiatives/663/663-War-on-Drugs-and-Children-in-the-Philippines#:~:text=In%20addition%20to%20the%20mental,led%20to%20reduced%20household%20income.
+
+Gomez, J. (2024, October 29). _Duterte’s jarring testimony into drug killings in Philippines relives a nightmare for many | AP News_. AP News. https://apnews.com/article/philippines-duterte-drug-killings-testimony-448d440e057506e5a9cbe615372ccd45

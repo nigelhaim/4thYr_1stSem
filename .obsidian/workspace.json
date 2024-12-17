@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Graphics/Project Notes .md",
+                "file": "Contemporary World/The ICC cannot See.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Notes"
-            }
-          },
-          {
-            "id": "57bc735afa6bc69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "1072f4965a6a604b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Viz logs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Viz logs"
-            }
-          },
-          {
-            "id": "66549b7875e5c6dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sebastian_LE-Lab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sebastian_LE-Lab"
+              "title": "The ICC cannot See"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,46 +163,45 @@
       "templates:Insert template": false
     }
   },
-  "active": "66549b7875e5c6dc",
+  "active": "b0bda076abd964ac",
   "lastOpenFiles": [
-    "Pasted image 20241212120715.png",
-    "Pasted image 20241212120706.png",
-    "Pasted image 20241212120609.png",
-    "Pasted image 20241212120602.png",
-    "Pasted image 20241212120552.png",
-    "Pasted image 20241212120500.png",
-    "Pasted image 20241212120451.png",
-    "Pasted image 20241212120445.png",
-    "Pasted image 20241212115828.png",
-    "Pasted image 20241212115754.png",
-    "Pasted image 20241212115733.png",
-    "Data Viz logs.md",
-    "Sebastian_LE-Lab.md",
-    "Computer_Graphics/Project Notes .md",
+    "Media/Pasted image 20241212000811.png",
+    "[.md",
     "README.md",
-    "Computer_Graphics/Sebastian_Long_Exam .md",
+    "Computer_Graphics/Final Project Documentation.md",
+    "Pasted image 20241217150548.png",
+    "Pasted image 20241217150322.png",
+    "Pasted image 20241217145912.png",
+    "Pasted image 20241217145755.png",
+    "Pasted image 20241217145641.png",
+    "Pasted image 20241217145552.png",
+    "Pasted image 20241217145527.png",
+    "Pasted image 20241217142036.png",
+    "Pasted image 20241217141901.png",
     "Computer_Graphics/LongExam Reviewer.md",
-    "ResNet vs AutoEncoder.md",
-    "RPN new loss.md",
-    "Scope and Limitations.md",
-    "Sebastian_LSinAI.md",
-    "Statistical treatment.md",
-    "Statistical Metrics_V2.md",
-    "Sebastian_MPAnimationTL.md",
-    "Thesis II Consultation.md",
-    "Thesis II.md",
-    "Summary Thesis.md",
-    "Thesis Script.md",
     "Computer_Graphics/Formulas and Documentation.md",
     "Computer_Graphics/Formula Paper.pdf",
-    "Life and Works of Rizal Notes/Life and Works of Rizal.md",
+    "Computer_Graphics/Computer Graphics and Multimedia Technology.md",
+    "Computer_Graphics/Formative and Summative Assessments.md",
+    "Computer_Graphics/Sebastian_Long_Exam .md",
+    "Computer_Graphics/Sebastian_MP_TLC.md",
+    "Computer_Graphics/Project Notes .md",
+    "Data Viz logs.md",
+    "Guide.md",
     "Life and Works of Rizal Notes/Video Essay.md",
-    "Vast AI notes.md",
-    "vit_test2.pdf",
-    "Quiz notes.md",
+    "New Vit Studies .md",
     "Other notes.md",
-    "Final Defense proper.md",
-    "List of Figures.md",
+    "ResNet vs AutoEncoder.md",
+    "RPN new loss.md",
+    "Sebastian_LSinAI.md",
+    "Sebastian_MPAnimationTL.md",
+    "Statistical Metrics_V2.md",
+    "Statistical treatment.md",
+    "Thesis II.md",
+    "Sebastian_LE-Lab.md",
+    "Scope and Limitations.md",
+    "Thesis II Consultation.md",
+    "vit_test2.pdf",
     "[THESIS PROPOSAL] - Chapters 1-3.pdf",
     "Contemporary World/The-History-of-the-World-Oxford-University-Press (1).pdf",
     "Media/Progressive_Learning_Based_Knowledge_Distillation_for_Low_Resolution_Cerebral_Microbleed_Segmentation-2.pdf",

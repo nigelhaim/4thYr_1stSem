@@ -2,10 +2,10 @@
   "defaultViewMode": "source",
   "readableLineLength": false,
   "pdfExportSettings": {
-    "pageSize": "Tabloid",
+    "pageSize": "Legal",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 80
+    "downscalePercent": 90
   },
   "alwaysUpdateLinks": true
 }
